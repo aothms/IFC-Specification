@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="InsulationMethod_3Qa7bgjvVAhBCN2WI8_ez" Name="InsulationMethod" UniqueId="3Qa7b$gjvVAhBCN2WI8_ez" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_InsulatorType"/>
+</DocProperty>

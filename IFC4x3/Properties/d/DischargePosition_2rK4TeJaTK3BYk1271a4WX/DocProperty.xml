@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DischargePosition_2rK4TeJaTK3BYk1271a4WX" Name="DischargePosition" UniqueId="2rK4TeJaTK3BYk1271a4WX" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_CentrifugalFanDischargePosition"/>
+</DocProperty>

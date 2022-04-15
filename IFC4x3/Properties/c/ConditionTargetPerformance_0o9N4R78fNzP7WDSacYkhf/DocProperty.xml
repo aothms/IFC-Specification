@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ConditionTargetPerformance_0o9N4R78fNzP7WDSacYkhf" Name="ConditionTargetPerformance" UniqueId="0o9N4R78fNzP7WDSacYkhf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_AssetRating"/>
+</DocProperty>

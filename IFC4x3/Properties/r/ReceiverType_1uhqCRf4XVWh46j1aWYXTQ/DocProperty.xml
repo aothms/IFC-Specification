@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ReceiverType_1uhqCRf4XVWh46j1aWYXTQ" Name="ReceiverType" UniqueId="1uhqCRf4XVWh46j1aWYXTQ" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_AudioVisualReceiverType"/>
+</DocProperty>

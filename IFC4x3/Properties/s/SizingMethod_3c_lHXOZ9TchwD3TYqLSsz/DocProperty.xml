@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SizingMethod_3c_lHXOZ9TchwD3TYqLSsz" Name="SizingMethod" UniqueId="3c_lHXOZ9TchwD3TYqLSsz" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_DamperSizingMethod"/>
+</DocProperty>

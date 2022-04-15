@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BladesOrientation_1RP9unpnTRquhwzUcAE9" Name="BladesOrientation" UniqueId="1RP9unpnTRquhwzUc$AE$9" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_BladesOrientation"/>
+</DocProperty>

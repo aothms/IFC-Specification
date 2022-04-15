@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_FilterTypeWaterFilter" UniqueId="0ms760qUOHuO00025QrE$V" ApplicableType="IfcFilter/WATERFILTER" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="WaterFilterType_2woo4z7dzVvg9yzSR93aql"/>
+	</Properties>
+</DocPropertySet>

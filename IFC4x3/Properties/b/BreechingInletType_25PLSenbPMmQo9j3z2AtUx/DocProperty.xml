@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BreechingInletType_25PLSenbPMmQo9j3z2AtUx" Name="BreechingInletType" UniqueId="25PLSenbPMmQo9j3z2AtUx" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_BreechingInletType"/>
+</DocProperty>

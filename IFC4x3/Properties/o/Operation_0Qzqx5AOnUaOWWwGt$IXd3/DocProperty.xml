@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Operation_0Qzqx5AOnUaOWWwGtIXd3" Name="Operation" UniqueId="0Qzqx5AOnUaOWWwGt$IXd3" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_DamperOperation"/>
+</DocProperty>

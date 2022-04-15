@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CameraType_1cnivJoSnP9v_F4RM4wU8q" Name="CameraType" UniqueId="1cnivJoSnP9v_F4RM4wU8q" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_AudioVisualCameraType"/>
+</DocProperty>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_CableSegmentTypeFiberSegment" UniqueId="41f6e212-3454-43fd-229a-68e45fd425f7" ApplicableType="IfcCableSegment/FIBERSEGMENT" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="FiberColour_2w1EJrC7rQGhcTxmRlSsYD"/>
+		<DocProperty xsi:nil="true" href="HasTightJacket_1aoZzRJGjFAuxNIGdeSy5m"/>
+		<DocProperty xsi:nil="true" href="FiberType_0b2UN4yaTN6AYYyta2YPYm"/>
+	</Properties>
+</DocPropertySet>

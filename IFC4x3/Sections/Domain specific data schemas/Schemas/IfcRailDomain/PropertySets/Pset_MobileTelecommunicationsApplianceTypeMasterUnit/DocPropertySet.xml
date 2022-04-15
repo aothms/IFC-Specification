@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_MobileTelecommunicationsApplianceTypeMasterUnit" UniqueId="ca3cbc51-d64e-820a-2f03-f57ebace7cb7" ApplicableType="IfcMobileTelecommunicationsAppliance/MASTERUNIT" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="NumberOfInterfaces_3D0wHuI4P3guCzHoS3Y4Zf"/>
+		<DocProperty xsi:nil="true" href="MaximumNumberOfConnectedRUs_04WFhKT_r5UgPl35B9Wrbd"/>
+		<DocProperty xsi:nil="true" href="TransmissionType_00afKH4a5LgRvEK0DUpzj0"/>
+		<DocProperty xsi:nil="true" href="TransmittedBandwidth_2x5FCzOXX65wSk8PZymLiB"/>
+		<DocProperty xsi:nil="true" href="TransmittedFrequency_0b56gXbrD1LxWzOSRwnBOh"/>
+		<DocProperty xsi:nil="true" href="TransmittedSignal_2ijWGCk7rOn9CR5FtYRI9"/>
+		<DocProperty xsi:nil="true" href="MasterUnitType_24JnbRMtjP2RFh5hJSLD9L"/>
+	</Properties>
+</DocPropertySet>

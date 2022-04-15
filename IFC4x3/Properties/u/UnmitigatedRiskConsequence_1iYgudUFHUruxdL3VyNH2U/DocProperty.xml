@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="UnmitigatedRiskConsequence_1iYgudUFHUruxdL3VyNH2U" Name="UnmitigatedRiskConsequence" UniqueId="1iYgudUFHUruxdL3VyNH2U" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_RiskRating"/>
+</DocProperty>

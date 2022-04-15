@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="InputSignalType_14pW77kHHH1P_oH2q1o_4" Name="InputSignalType" UniqueId="14pW77kHHH1P_oH2$q1o_4" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_InputOutputSignalType"/>
+</DocProperty>

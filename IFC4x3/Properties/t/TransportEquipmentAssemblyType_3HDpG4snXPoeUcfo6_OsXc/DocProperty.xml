@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TransportEquipmentAssemblyType_3HDpG4snXPoeUcfo6_OsXc" Name="TransportEquipmentAssemblyType" UniqueId="3HDpG4snXPoeUcfo6_OsXc" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_TransportEquipmentAssemblyType"/>
+</DocProperty>

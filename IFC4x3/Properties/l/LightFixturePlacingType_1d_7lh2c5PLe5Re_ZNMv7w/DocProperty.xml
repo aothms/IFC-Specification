@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LightFixturePlacingType_1d_7lh2c5PLe5Re_ZNMv7w" Name="LightFixturePlacingType" UniqueId="1d_7lh2c5PLe5Re_ZNMv7w" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_LightFixturePlacingType"/>
+</DocProperty>

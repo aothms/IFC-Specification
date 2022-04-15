@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LampBallastType_2LQgU4NfLXxMhGK5dYgwF" Name="LampBallastType" UniqueId="2L$QgU4NfLXxMhGK5dYgwF" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_LampBallastType"/>
+</DocProperty>

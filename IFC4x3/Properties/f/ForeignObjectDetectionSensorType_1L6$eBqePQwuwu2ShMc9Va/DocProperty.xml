@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ForeignObjectDetectionSensorType_1L6eBqePQwuwu2ShMc9Va" Name="ForeignObjectDetectionSensorType" UniqueId="1L6$eBqePQwuwu2ShMc9Va" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_ForeignObjectDetectionSensorType"/>
+</DocProperty>

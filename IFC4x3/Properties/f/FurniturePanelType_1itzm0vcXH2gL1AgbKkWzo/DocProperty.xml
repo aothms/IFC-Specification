@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FurniturePanelType_1itzm0vcXH2gL1AgbKkWzo" Name="FurniturePanelType" UniqueId="1itzm0vcXH2gL1AgbKkWzo" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_FurniturePanelType"/>
+</DocProperty>

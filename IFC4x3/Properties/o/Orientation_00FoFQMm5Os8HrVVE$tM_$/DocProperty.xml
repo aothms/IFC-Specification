@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Orientation_00FoFQMm5Os8HrVVEtM_" Name="Orientation" UniqueId="00FoFQMm5Os8HrVVE$tM_$" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_DamperOrientation"/>
+</DocProperty>

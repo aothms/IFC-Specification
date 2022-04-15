@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Function_1oCFf5pk5SKAiqeY_rQYs8" Name="Function" UniqueId="1oCFf5pk5SKAiqeY_rQYs8" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_FunctionEnum"/>
+</DocProperty>

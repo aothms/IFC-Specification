@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DataCollectionType_32pyRhTl5UoxNAa26J1ii" Name="DataCollectionType" UniqueId="32pyRhTl5UoxN$Aa26J1ii" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_DataCollectionType"/>
+</DocProperty>

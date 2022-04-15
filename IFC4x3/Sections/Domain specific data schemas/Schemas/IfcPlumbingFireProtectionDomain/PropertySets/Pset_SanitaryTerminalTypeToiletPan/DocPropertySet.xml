@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SanitaryTerminalTypeToiletPan" UniqueId="3CnAO0qWCHuO00025QrE$V" ApplicableType="IfcSanitaryTerminal/TOILETPAN" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="ToiletType_10iHSi0BHITunoQgyB8Lgo"/>
+		<DocProperty xsi:nil="true" href="ToiletPanType_1xMxLoiTRYxwQAKqsAIDa"/>
+		<DocProperty xsi:nil="true" href="PanMounting_3zzfdA3prO1R7jjATlrZ2"/>
+		<DocProperty xsi:nil="true" href="SpilloverLevel_1JU8E0qW8HuO00025QrEV"/>
+	</Properties>
+</DocPropertySet>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_LightFixtureTypeSecurityLighting" UniqueId="3n58Y0qUiHuO00025QrE$V" ApplicableType="IfcLightFixture/SECURITYLIGHTING" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="SecurityLightingType_3Gqa8XxHTtAwPpACiHL74"/>
+		<DocProperty xsi:nil="true" href="FixtureHeight_05M8M0qUmHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="SelfTestFunction_2OvcDYI9HKKhODndqPpRsJ"/>
+		<DocProperty xsi:nil="true" href="BackupSupplySystem_2B8ERmEDjI49e8dxx0cbt"/>
+		<DocProperty xsi:nil="true" href="PictogramEscapeDirection_0k_MIw9EHLzh7v54s7xwts"/>
+		<DocProperty xsi:nil="true" href="Addressablility_0mDXWoxmLUmQxJsJEBNJkH"/>
+	</Properties>
+</DocPropertySet>

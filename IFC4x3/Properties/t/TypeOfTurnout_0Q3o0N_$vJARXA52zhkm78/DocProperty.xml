@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TypeOfTurnout_0Q3o0N_vJARXA52zhkm78" Name="TypeOfTurnout" UniqueId="0Q3o0N_$vJARXA52zhkm78" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_TypeOfTurnout"/>
+</DocProperty>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FiberMode_0Ol4thC9DVr8ipLinm6L4" Name="FiberMode" UniqueId="0Ol4thC9DVr8i$pLinm6L4" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_FiberMode"/>
+</DocProperty>

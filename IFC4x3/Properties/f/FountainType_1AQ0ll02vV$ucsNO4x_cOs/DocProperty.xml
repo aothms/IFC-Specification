@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FountainType_1AQ0ll02vVucsNO4x_cOs" Name="FountainType" UniqueId="1AQ0ll02vV$ucsNO4x_cOs" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_FountainType"/>
+</DocProperty>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_FlowMeterTypeWaterMeter" UniqueId="22WVk0qUWHuO00025QrE$V" ApplicableType="IfcFlowMeter/WATERMETER" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="Type_0wsOtIk5U_wV6wHoK0MQB"/>
+		<DocProperty xsi:nil="true" href="ConnectionSize_13NRakt79KmfUQGqHxSs67"/>
+		<DocProperty xsi:nil="true" href="MaximumFlowRate_1a7000qUWHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="MaximumPressureLoss_1euBG0qUWHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="BackflowPreventerType_1N1L5ZMcXL1OI5r9oSsVSw"/>
+	</Properties>
+</DocPropertySet>

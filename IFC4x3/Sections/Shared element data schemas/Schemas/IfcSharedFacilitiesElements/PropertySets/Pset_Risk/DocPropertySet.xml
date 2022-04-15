@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_Risk" UniqueId="91e0ddf4-d6ba-45e3-b689-a10510bef4bc" ApplicableType="IfcGroup,IfcProcess,IfcProduct" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="RiskName_0gOQsqV_bA4gUGjAMYalbC"/>
+		<DocProperty xsi:nil="true" href="RiskType_0vkCGkvzQ6PgWhv16NXq_"/>
+		<DocProperty xsi:nil="true" href="NatureOfRisk_0OyiwhoKjEQwHSx5sV_eCt"/>
+		<DocProperty xsi:nil="true" href="RiskAssessmentMethodology_09ClN62Hr79h3URe8omgR9"/>
+		<DocProperty xsi:nil="true" href="UnmitigatedRiskLikelihood_0w1ziZDefLJxWKMr_35Q5"/>
+		<DocProperty xsi:nil="true" href="UnmitigatedRiskConsequence_1iYgudUFHUruxdL3VyNH2U"/>
+		<DocProperty xsi:nil="true" href="UnmitigatedRiskSignificance_1TY6FLFMbM5uC9afr1V3lQ"/>
+		<DocProperty xsi:nil="true" href="MitigationPlanned_1qnDxn1uP53Og8CTc_unk3"/>
+		<DocProperty xsi:nil="true" href="MitigatedRiskLikelihood_1YHY3ox4HSCv57tZd_Q1U_"/>
+		<DocProperty xsi:nil="true" href="MitigatedRiskConsequence_0F0NTtrLHTs9lIdFpxLdx2"/>
+		<DocProperty xsi:nil="true" href="MitigatedRiskSignificance_0srUtcZpfS5AHiLTZ7ZFPT"/>
+		<DocProperty xsi:nil="true" href="MitigationProposed_0AFQA2rm9398mY_MHHcg3U"/>
+		<DocProperty xsi:nil="true" href="AssociatedProduct_1ZbCSmunRG8_ALQL2NXNT"/>
+		<DocProperty xsi:nil="true" href="AssociatedActivity_1VllACcRTGh8a2x9mm8stx"/>
+		<DocProperty xsi:nil="true" href="AssociatedLocation_34pNy7JVHOTfxxDUykFSnu"/>
+	</Properties>
+</DocPropertySet>

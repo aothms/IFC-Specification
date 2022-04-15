@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AssetCriticality_0iPpIr6rnQixWVJWd7AQHJ" Name="AssetCriticality" UniqueId="0iPpIr6rnQixWVJWd7AQHJ" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_AssetRating"/>
+</DocProperty>

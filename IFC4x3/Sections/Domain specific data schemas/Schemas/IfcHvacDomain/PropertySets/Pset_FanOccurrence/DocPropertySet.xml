@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_FanOccurrence" UniqueId="2wqmi0qUCHuO00025QrE$V" ApplicableType="IfcFan" PropertySetType="PSET_OCCURRENCEDRIVEN">
+	<Properties>
+		<DocProperty xsi:nil="true" href="DischargeType_3it7hVi3HTMg372dMKQf68"/>
+		<DocProperty xsi:nil="true" href="ApplicationOfFan_3zXn719a9LOBUYUuHNFVZ2"/>
+		<DocProperty xsi:nil="true" href="CoilPosition_3rDC41kQ5KpOwPLfY3ttY2"/>
+		<DocProperty xsi:nil="true" href="MotorPosition_2_u6Lo7XHSoOTEo34gb0bB"/>
+		<DocProperty xsi:nil="true" href="FanMountingType_2U9QMWVirLYxtvbyzHBSK"/>
+		<DocProperty xsi:nil="true" href="FractionOfMotorHeatToAirStream_0D52m0qUGHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="ImpellerDiameter_1med6m2vR8BDuvtDfB2bW"/>
+	</Properties>
+</DocPropertySet>

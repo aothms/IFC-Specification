@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_DiscreteAccessoryTypeRailLubrication" UniqueId="d1e3c1f6-239e-bb61-ee29-40adacda4b9d" ApplicableType="IfcDiscreteAccessory/RAIL_LUBRICATION" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="PositionInTrack_037uGCNXVrfZZo3KgtojJ"/>
+		<DocProperty xsi:nil="true" href="MaximumNoiseEmissions_02ksEiyvANQhPHONlrqo"/>
+		<DocProperty xsi:nil="true" href="LubricationSystemType_1WIlTIijTPQak26n5hS_0"/>
+		<DocProperty xsi:nil="true" href="LubricationPowerSupplyType_2G1F0aDj9MrOAo3yQxQV0P"/>
+	</Properties>
+</DocPropertySet>

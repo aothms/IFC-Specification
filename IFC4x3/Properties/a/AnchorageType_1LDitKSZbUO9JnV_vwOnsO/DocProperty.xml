@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AnchorageType_1LDitKSZbUO9JnV_vwOnsO" Name="AnchorageType" UniqueId="1LDitKSZbUO9JnV_vwOnsO" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_AnchorageType"/>
+</DocProperty>

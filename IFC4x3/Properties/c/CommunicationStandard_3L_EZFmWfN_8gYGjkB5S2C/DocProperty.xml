@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CommunicationStandard_3L_EZFmWfN_8gYGjkB5S2C" Name="CommunicationStandard" UniqueId="3L_EZFmWfN_8gYGjkB5S2C" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_CommunicationStandard"/>
+</DocProperty>

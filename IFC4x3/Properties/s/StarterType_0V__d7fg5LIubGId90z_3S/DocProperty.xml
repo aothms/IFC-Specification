@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="StarterType_0V__d7fg5LIubGId90z_3S" Name="StarterType" UniqueId="0V__d7fg5LIubGId90z_3S" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_StarterType"/>
+</DocProperty>

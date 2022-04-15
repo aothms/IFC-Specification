@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ConvectorType_0pbWBbnrzLSOru4CEiVZk2" Name="ConvectorType" UniqueId="0pbWBbnrzLSOru4CEiVZk2" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_SpaceHeaterConvectorType"/>
+</DocProperty>

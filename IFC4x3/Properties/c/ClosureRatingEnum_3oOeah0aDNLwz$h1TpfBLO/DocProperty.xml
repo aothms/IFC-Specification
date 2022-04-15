@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ClosureRatingEnum_3oOeah0aDNLwzh1TpfBLO" Name="ClosureRatingEnum" UniqueId="3oOeah0aDNLwz$h1TpfBLO" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_FireDamperClosureRating"/>
+</DocProperty>

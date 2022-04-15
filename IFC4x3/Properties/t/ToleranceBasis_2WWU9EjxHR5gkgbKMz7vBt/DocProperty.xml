@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ToleranceBasis_2WWU9EjxHR5gkgbKMz7vBt" Name="ToleranceBasis" UniqueId="2WWU9EjxHR5gkgbKMz7vBt" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_ToleranceBasis"/>
+</DocProperty>

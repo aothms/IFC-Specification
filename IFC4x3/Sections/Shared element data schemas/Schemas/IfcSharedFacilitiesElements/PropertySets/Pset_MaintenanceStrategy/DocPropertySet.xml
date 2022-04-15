@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_MaintenanceStrategy" UniqueId="f7f14ce7-afdc-4d4f-915a-7083f3c19a95" ApplicableType="IfcAsset,IfcElement,IfcSystem" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+	<Properties>
+		<DocProperty xsi:nil="true" href="AssetCriticality_0iPpIr6rnQixWVJWd7AQHJ"/>
+		<DocProperty xsi:nil="true" href="AssetFrailty_22JPn1r6PNAgkuWLjof0mx"/>
+		<DocProperty xsi:nil="true" href="AssetPriority_3uIhennqPKbxFHJNwK9qNH"/>
+		<DocProperty xsi:nil="true" href="MonitoringType_3OmGFJXLnJbAh2bNgIH1QZ"/>
+		<DocProperty xsi:nil="true" href="AccidentResponse_39FfMebs9KjQHabwZuxaj1"/>
+	</Properties>
+</DocPropertySet>

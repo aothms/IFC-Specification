@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TankComposition_27Pa2bYIrJbPVscDSCSYs4" Name="TankComposition" UniqueId="27Pa2bYIrJbPVscDSCSYs4" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_TankComposition"/>
+</DocProperty>

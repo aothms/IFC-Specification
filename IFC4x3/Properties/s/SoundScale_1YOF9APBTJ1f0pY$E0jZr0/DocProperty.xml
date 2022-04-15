@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SoundScale_1YOF9APBTJ1f0pYE0jZr0" Name="SoundScale" UniqueId="1YOF9APBTJ1f0pY$E0jZr0" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_SoundScale"/>
+</DocProperty>
