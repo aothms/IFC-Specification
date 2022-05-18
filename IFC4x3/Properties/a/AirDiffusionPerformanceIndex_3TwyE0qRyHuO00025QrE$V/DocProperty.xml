@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirDiffusionPerformanceIndex_3TwyE0qRyHuO00025QrEV" Name="AirDiffusionPerformanceIndex" UniqueId="ddebc380-d1bf-11e1-8000-00215ad4efdf" PrimaryDataType="IfcReal">
+	<Localization>
+		<DocLocalization Locale="en" Name="Air Diffusion Performance Index"/>
+		<DocLocalization Locale="fr-FR" Name="Indice de performance de diffusion de l'air">
+			<Documentation>L'Indice de Performance de Diffusion d'Air (ADPI) est utilisé pour des conditions en mode rafraîchissement. Si plusieurs mesures de vitesses et températures de l'air sont réalisées à travers toute une zone occupée d'un espace,  l'ADPI est le pourcentage des emplacements où les mesures ont été réalisées et qui vérifient les caractéristiques pour une température de courant d'air et de vitesse d'air effectives.</Documentation>
+		</DocLocalization>
+		<DocLocalization Locale="ja-JP" Name="空気拡散性能指標">
+			<Documentation>空気拡散性能指標（ADPI)は冷房時に使用される。
+空気速度および気温のいくつかの測定が空間の居住域の隅々でなされる場合、ADPIは有効な草案の温度および空気速度のための仕様に遭遇する測定が得られた位置の割合である。</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

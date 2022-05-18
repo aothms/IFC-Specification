@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CoreTopWidth_0clcy0qVOHuO00025QrEV" Name="CoreTopWidth" UniqueId="26be6f00-d1f6-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Core Top Width"/>
+	</Localization>
+</DocProperty>

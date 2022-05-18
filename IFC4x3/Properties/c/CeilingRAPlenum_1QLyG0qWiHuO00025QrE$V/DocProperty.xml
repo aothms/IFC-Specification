@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CeilingRAPlenum_1QLyG0qWiHuO00025QrEV" Name="CeilingRAPlenum" UniqueId="5a57c400-d20b-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
+	<Localization>
+		<DocLocalization Locale="en" Name="Ceiling RAPlenum"/>
+		<DocLocalization Locale="ja-JP" Name="天井裏還気">
+			<Documentation>天井裏還気（リタンあり・なし）　TRUE=あり、FALSE=なし。</Documentation>
+		</DocLocalization>
+		<DocLocalization Locale="ko-KR" Name="천장환원주의">
+			<Documentation>천장 환 기 (리탄있어 · 없음) TRUE = 있고 FALSE = 없음.</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

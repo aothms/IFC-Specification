@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="GlazingAreaFraction_1TXuk0qTmHuO00025QrEV" Name="GlazingAreaFraction" UniqueId="5d878b80-d1dc-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveRatioMeasure">
+	<Localization>
+		<DocLocalization Locale="de-DE" Name="Glasflächenanteil">
+			<Documentation>Anteil der verglasten Fläche an der Gesamtfläche der Tür.</Documentation>
+		</DocLocalization>
+		<DocLocalization Locale="en" Name="Glazing Area Fraction"/>
+		<DocLocalization Locale="fr-FR" Name="FractionSurfaceVitree">
+			<Documentation>Part de surface de vitrage par rapport à la surface totale de l'élément de remplissage. Doit être utilisée si la surface de vitrage n'est pas donnée séparément pour tous les panneaux occupant l'ouverture.</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

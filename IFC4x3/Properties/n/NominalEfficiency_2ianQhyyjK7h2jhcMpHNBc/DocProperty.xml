@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalEfficiency_2ianQhyyjK7h2jhcMpHNBc" Name="NominalEfficiency" UniqueId="ac9316ab-f3cb-541e-b0ad-ae65b34572e6" PropertyType="p_tablevalue" PrimaryDataType="IfcThermodynamicTemperatureMeasure" SecondaryDataType="IfcNormalisedRatioMeasure"/>

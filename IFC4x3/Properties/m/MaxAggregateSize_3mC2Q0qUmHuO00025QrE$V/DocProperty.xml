@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MaxAggregateSize_3mC2Q0qUmHuO00025QrEV" Name="MaxAggregateSize" UniqueId="f0302680-d1ec-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Max Aggregate Size"/>
+	</Localization>
+</DocProperty>

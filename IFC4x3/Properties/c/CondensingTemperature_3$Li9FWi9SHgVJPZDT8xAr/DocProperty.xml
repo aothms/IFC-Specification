@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CondensingTemperature_3Li9FWi9SHgVJPZDT8xAr" Name="CondensingTemperature" UniqueId="ff56c24f-82c2-5c46-a7d3-66335d23b2b5" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>

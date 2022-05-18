@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirFlowRateRange_1TQwuO3IDUMA1P0LvU1Cwn" Name="AirFlowRateRange" UniqueId="5d6bae18-0d23-5e58-a059-015e5e04ceb1" PropertyType="p_boundedvalue" PrimaryDataType="IfcVolumetricFlowRateMeasure"/>

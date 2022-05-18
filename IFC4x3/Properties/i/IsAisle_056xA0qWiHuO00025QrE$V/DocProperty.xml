@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsAisle_056xA0qWiHuO00025QrEV" Name="IsAisle" UniqueId="051bb280-d20b-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
+	<Localization>
+		<DocLocalization Locale="en" Name="Is Aisle"/>
+		<DocLocalization Locale="fr-FR" Name="NombreUnites">
+			<Documentation>Indique si cette zone du parking, comme une allée, est réservée à l'accès (VRAI) ou non (FAUX).</Documentation>
+		</DocLocalization>
+		<DocLocalization Locale="ja-JP" Name="通路か駐車スペースの判別">
+			<Documentation>駐車場の通路部分(TRUE)か駐車部部分(FALSE)かを示すフラグ。</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

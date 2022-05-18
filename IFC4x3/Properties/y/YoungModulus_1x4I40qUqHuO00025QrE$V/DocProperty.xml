@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="YoungModulus_1x4I40qUqHuO00025QrEV" Name="YoungModulus" UniqueId="7b112100-d1ed-11e1-8000-00215ad4efdf" PrimaryDataType="IfcModulusOfElasticityMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Young Modulus"/>
+	</Localization>
+</DocProperty>

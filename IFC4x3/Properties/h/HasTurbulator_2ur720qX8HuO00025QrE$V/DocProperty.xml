@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HasTurbulator_2ur720qX8HuO00025QrEV" Name="HasTurbulator" UniqueId="b8d47080-d212-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
+	<Localization>
+		<DocLocalization Locale="en" Name="Has Turbulator"/>
+		<DocLocalization Locale="ja-JP" Name="かくはん器有り">
+			<Documentation>かくはん器有りの時 TRUE、無しの時 FALSE</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

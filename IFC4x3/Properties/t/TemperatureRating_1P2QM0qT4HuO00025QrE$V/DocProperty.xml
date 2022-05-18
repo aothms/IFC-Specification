@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TemperatureRating_1P2QM0qT4HuO00025QrEV" Name="TemperatureRating" UniqueId="5909a580-d1d1-11e1-8000-00215ad4efdf" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Temperature Rating"/>
+	</Localization>
+</DocProperty>

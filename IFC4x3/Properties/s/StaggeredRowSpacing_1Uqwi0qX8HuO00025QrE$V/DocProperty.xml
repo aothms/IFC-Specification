@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="StaggeredRowSpacing_1Uqwi0qX8HuO00025QrEV" Name="StaggeredRowSpacing" UniqueId="5ed3ab00-d212-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Staggered Row Spacing"/>
+		<DocLocalization Locale="ja-JP" Name="互い違いの列間隔">
+			<Documentation>互い違いのチューブ列間隔</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AmbientDesignWetBulbTemperature_3lFCm0qSyHuO00025QrEV" Name="AmbientDesignWetBulbTemperature" UniqueId="ef3ccc00-d1cf-11e1-8000-00215ad4efdf" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Ambient Design Wet Bulb Temperature"/>
+	</Localization>
+</DocProperty>

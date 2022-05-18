@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ExtendToStructure_3g0d00qXKHuO00025QrEV" Name="ExtendToStructure" UniqueId="ea027000-d215-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
+	<Localization>
+		<DocLocalization Locale="de-DE" Name="Raumhohe Wand">
+			<Documentation>Angabe , ob diese Wand raumhoch ist (WAHR), oder nicht (FALSCH).</Documentation>
+		</DocLocalization>
+		<DocLocalization Locale="en" Name="Extend To Structure"/>
+		<DocLocalization Locale="fr-FR" Name="ExtensionStructure">
+			<Documentation>Indique si l'objet s'étend à la structure au-dessus (VRAI) ou non (FAUX).</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HeatExchangeArea_2Jo0c0qU8HuO00025QrEV" Name="HeatExchangeArea" UniqueId="93c80980-d1e2-11e1-8000-00215ad4efdf" PrimaryDataType="IfcAreaMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Heat Exchange Area"/>
+		<DocLocalization Locale="ja-JP" Name="熱交換面積">
+			<Documentation>熱交換面積</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

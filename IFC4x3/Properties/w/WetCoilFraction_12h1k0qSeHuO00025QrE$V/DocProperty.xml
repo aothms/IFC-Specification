@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WetCoilFraction_12h1k0qSeHuO00025QrEV" Name="WetCoilFraction" UniqueId="42ac1b80-d1ca-11e1-8000-00215ad4efdf" PrimaryDataType="IfcNormalisedRatioMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Wet Coil Fraction"/>
+		<DocLocalization Locale="fr-FR" Name="FractionBatterieHumide">
+			<Documentation>Fraction de la surface de la batterie qui est humide (0 à 1).</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

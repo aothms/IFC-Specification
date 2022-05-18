@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OutsideAirFlowrate_2XIRU0qXCHuO00025QrEV" Name="OutsideAirFlowrate" UniqueId="a149b780-d213-11e1-8000-00215ad4efdf" PrimaryDataType="IfcVolumetricFlowRateMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Outside Air Flowrate"/>
+		<DocLocalization Locale="ja-JP" Name="外気流量">
+			<Documentation>ユニットに入る外気流量</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PressureCurve_2csza0qUGHuO00025QrEV" Name="PressureCurve" UniqueId="a6dbd900-d1e4-11e1-8000-00215ad4efdf" PropertyType="p_tablevalue" PrimaryDataType="IfcVolumetricFlowRateMeasure" SecondaryDataType="IfcPressureMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Pressure Curve"/>
+	</Localization>
+</DocProperty>

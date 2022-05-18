@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PlasticStrain_3lv5i0qUqHuO00025QrEV" Name="PlasticStrain" UniqueId="efe45b00-d1ed-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveRatioMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Plastic Strain"/>
+	</Localization>
+</DocProperty>

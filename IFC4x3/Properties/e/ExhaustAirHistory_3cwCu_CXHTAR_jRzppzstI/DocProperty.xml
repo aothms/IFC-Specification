@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ExhaustAirHistory_3cwCu_CXHTAR_jRzppzstI" Name="ExhaustAirHistory" UniqueId="e6e8ce3e-3214-5d29-bfad-6fdcf3f76dd2" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>

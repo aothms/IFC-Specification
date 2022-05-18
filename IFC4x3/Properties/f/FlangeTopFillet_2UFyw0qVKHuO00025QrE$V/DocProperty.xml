@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FlangeTopFillet_2UFyw0qVKHuO00025QrEV" Name="FlangeTopFillet" UniqueId="9e3fce80-d1f5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcNonNegativeLengthMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Flange Top Fillet"/>
+	</Localization>
+</DocProperty>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FrameThickness_2JSqA0qT4HuO00025QrEV" Name="FrameThickness" UniqueId="93734280-d1d1-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Frame Thickness"/>
+	</Localization>
+</DocProperty>

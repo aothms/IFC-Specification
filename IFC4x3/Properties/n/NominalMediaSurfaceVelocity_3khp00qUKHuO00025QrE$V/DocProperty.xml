@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalMediaSurfaceVelocity_3khp00qUKHuO00025QrEV" Name="NominalMediaSurfaceVelocity" UniqueId="eeaf3000-d1e5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLinearVelocityMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Nominal Media Surface Velocity"/>
+	</Localization>
+</DocProperty>

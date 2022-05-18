@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WetBulbTemperatureHistory_24ppSQlN9PhRoHHM8PueYV" Name="WetBulbTemperatureHistory" UniqueId="84cf371a-bd72-59ad-bc91-456219e2889f" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ColumnShoeBasePlateDepth_0mpdQ0qT8HuO00025QrEV" Name="ColumnShoeBasePlateDepth" UniqueId="30ce7680-d1d2-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Column Shoe Base Plate Depth"/>
+		<DocLocalization Locale="ja-JP" Name="ベースプレート成">
+			<Documentation>柱脚ベースプレートの成。</Documentation>
+		</DocLocalization>
+		<DocLocalization Locale="ko-KR" Name="베이스 플레이트 구성">
+			<Documentation>기둥 다리 받침판 구성</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

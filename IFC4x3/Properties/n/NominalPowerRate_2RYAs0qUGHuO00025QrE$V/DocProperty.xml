@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalPowerRate_2RYAs0qUGHuO00025QrEV" Name="NominalPowerRate" UniqueId="9b88ad80-d1e4-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPowerMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Nominal Power Rate"/>
+		<DocLocalization Locale="ja-JP" Name="設計動力">
+			<Documentation>設計動力</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

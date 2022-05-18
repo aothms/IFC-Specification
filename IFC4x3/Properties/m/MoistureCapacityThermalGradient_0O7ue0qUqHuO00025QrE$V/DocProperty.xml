@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MoistureCapacityThermalGradient_0O7ue0qUqHuO00025QrEV" Name="MoistureCapacityThermalGradient" UniqueId="181f8a00-d1ed-11e1-8000-00215ad4efdf" PrimaryDataType="IfcReal">
+	<Localization>
+		<DocLocalization Locale="en" Name="Moisture Capacity Thermal Gradient"/>
+	</Localization>
+</DocProperty>

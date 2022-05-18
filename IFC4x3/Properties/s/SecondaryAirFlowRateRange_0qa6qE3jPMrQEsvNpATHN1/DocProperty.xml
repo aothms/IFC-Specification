@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SecondaryAirFlowRateRange_0qa6qE3jPMrQEsvNpATHN1" Name="SecondaryAirFlowRateRange" UniqueId="34906d0e-0ed6-56d5-a3b6-e57cca7515c1" PropertyType="p_boundedvalue" PrimaryDataType="IfcPressureMeasure"/>

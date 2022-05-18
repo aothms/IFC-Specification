@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SetPointCO2Concentration_3kZjiBQLfIWw6Z8_oYgGzV" Name="SetPointCO2Concentration" UniqueId="ee8edb0b-695a-5283-a1a3-23eca2a90f5f" PropertyType="p_boundedvalue" PrimaryDataType="IfcPositiveRatioMeasure"/>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MassDensity_3TjUq0qUmHuO00025QrEV" Name="MassDensity" UniqueId="ddb5ed00-d1ec-11e1-8000-00215ad4efdf" PrimaryDataType="IfcMassDensityMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Mass Density"/>
+	</Localization>
+</DocProperty>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="StemBaseWidth_2ZdHa0qVKHuO00025QrEV" Name="StemBaseWidth" UniqueId="a39d1900-d1f5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Stem Base Width"/>
+	</Localization>
+</DocProperty>

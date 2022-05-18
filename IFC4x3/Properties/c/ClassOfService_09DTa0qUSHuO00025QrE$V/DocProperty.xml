@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ClassOfService_09DTa0qUSHuO00025QrEV" Name="ClassOfService" UniqueId="0935d900-d1e7-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
+	<Localization>
+		<DocLocalization Locale="en" Name="Class Of Service"/>
+		<DocLocalization Locale="ja-JP" Name="サービスクラス">
+			<Documentation>適用されるホースリールの使用方法の分類。</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

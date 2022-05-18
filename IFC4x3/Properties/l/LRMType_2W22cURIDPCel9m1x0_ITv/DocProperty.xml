@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LRMType_2W22cURIDPCel9m1x0_ITv" Name="LRMType" UniqueId="a008299e-6d23-5932-8bc9-c01ec0f92779" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_LRMType"/>
+</DocProperty>

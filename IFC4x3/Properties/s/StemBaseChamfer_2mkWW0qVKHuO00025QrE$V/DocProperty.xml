@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="StemBaseChamfer_2mkWW0qVKHuO00025QrEV" Name="StemBaseChamfer" UniqueId="b0ba0800-d1f5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcNonNegativeLengthMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Stem Base Chamfer"/>
+	</Localization>
+</DocProperty>

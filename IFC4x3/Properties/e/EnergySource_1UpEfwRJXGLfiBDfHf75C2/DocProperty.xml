@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EnergySource_1UpEfwRJXGLfiBDfHf75C2" Name="EnergySource" UniqueId="5eccea7a-6d38-5056-9b0b-3694691c5302" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_EnergySource"/>
+</DocProperty>

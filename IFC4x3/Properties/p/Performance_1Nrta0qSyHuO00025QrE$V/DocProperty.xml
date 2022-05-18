@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Performance_1Nrta0qSyHuO00025QrEV" Name="Performance" UniqueId="57d77900-d1cf-11e1-8000-00215ad4efdf" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries">
+	<Localization>
+		<DocLocalization Locale="en" Name="Performance"/>
+	</Localization>
+</DocProperty>

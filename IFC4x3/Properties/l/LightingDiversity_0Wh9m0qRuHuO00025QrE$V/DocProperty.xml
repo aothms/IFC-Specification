@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LightingDiversity_0Wh9m0qRuHuO00025QrEV" Name="LightingDiversity" UniqueId="20ac9c00-d1be-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveRatioMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Lighting Diversity"/>
+		<DocLocalization Locale="ja-JP" Name="照明負荷係数">
+			<Documentation>照明負荷係数。</Documentation>
+		</DocLocalization>
+		<DocLocalization Locale="ko-KR" Name="조명부하계수">
+			<Documentation>조명 부하 계수</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

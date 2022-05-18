@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="UAcurves_1sY420qSmHuO00025QrEV" Name="UAcurves" UniqueId="76884080-d1cc-11e1-8000-00215ad4efdf" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries">
+	<Localization>
+		<DocLocalization Locale="en" Name="UAcurves"/>
+	</Localization>
+</DocProperty>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EffectivenessTable_2dSt00qU8HuO00025QrEV" Name="EffectivenessTable" UniqueId="a7737000-d1e2-11e1-8000-00215ad4efdf" PropertyType="p_tablevalue" PrimaryDataType="IfcVolumetricFlowRateMeasure" SecondaryDataType="IfcReal">
+	<Localization>
+		<DocLocalization Locale="en" Name="Effectiveness Table"/>
+	</Localization>
+</DocProperty>

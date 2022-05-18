@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MinimumHeight_3uVsO0qTeHuO00025QrEV" Name="MinimumHeight" UniqueId="f87f6600-d1da-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Minimum Height"/>
+		<DocLocalization Locale="ja-JP" Name="最小高さ">
+			<Documentation>矩形、円形或いは楕円形ダクトの最小高さ。</Documentation>
+		</DocLocalization>
+		<DocLocalization Locale="ko-KR" Name="최소 높이">
+			<Documentation>사각형, 원형 또는 타원형 덕트의 최소 높이입니다.</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>

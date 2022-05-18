@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirFlowRateHistory_1zD0j4FhPTsPl2lBjZdTgW" Name="AirFlowRateHistory" UniqueId="7d340b44-3eb6-5dd9-9bc2-bcbb639ddaa0" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>

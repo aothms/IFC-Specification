@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SpaceRelativeHumidity_3DrkfAkD9RdgasSTceuAFR" Name="SpaceRelativeHumidity" UniqueId="cdd6ea4a-b8d2-5b9e-a936-71d9a8e0a3db" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>

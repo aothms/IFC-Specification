@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AnchorBoltLength_33VWu0qV0HuO00025QrEV" Name="AnchorBoltLength" UniqueId="c37e0e00-d1f0-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
+	<Localization>
+		<DocLocalization Locale="en" Name="Anchor Bolt Length"/>
+		<DocLocalization Locale="ja-JP" Name="長さ">
+			<Documentation>アンカーボルトの長さ。</Documentation>
+		</DocLocalization>
+		<DocLocalization Locale="ko-KR" Name="길이">
+			<Documentation>앵커 볼트의 길이</Documentation>
+		</DocLocalization>
+	</Localization>
+</DocProperty>
