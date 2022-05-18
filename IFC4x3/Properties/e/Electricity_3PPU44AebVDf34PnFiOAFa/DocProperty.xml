@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Electricity_3PPU44AebVDf34PnFiOAFa" Name="Electricity" UniqueId="d965e104-2a89-5f36-90c4-6713ec60a3e4" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Electricity_3PPU44AebVDf34PnFiOAFa" Name="Electricity" UniqueId="d965e104-2a89-5f36-90c4-6713ec60a3e4" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CondenserMeanVoidFraction_0HMY7bYAzSVRleM7qBtbhJ" Name="CondenserMeanVoidFraction" UniqueId="115a21e5-88af-5c7d-bbe8-587d0bde5ad3" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CondenserMeanVoidFraction_0HMY7bYAzSVRleM7qBtbhJ" Name="CondenserMeanVoidFraction" UniqueId="115a21e5-88af-5c7d-bbe8-587d0bde5ad3" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

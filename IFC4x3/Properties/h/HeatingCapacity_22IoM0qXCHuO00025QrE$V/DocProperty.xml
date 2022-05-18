@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HeatingCapacity_22IoM0qXCHuO00025QrEV" Name="HeatingCapacity" UniqueId="824b2580-d213-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPowerMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Heating Capacity"/>
+		<DocLocalization Locale="en" Name="Heating Capacity" />
 		<DocLocalization Locale="ja-JP" Name="加熱容量">
 			<Documentation>加熱容量</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AlarmCondition_2XHx9BMg9QouH5VSI3wvtW" Name="AlarmCondition" UniqueId="a147b24b-5aa2-5acb-8445-7dc483eb9de0" PropertyType="p_tablevalue" PrimaryDataType="IfcIdentifier" SecondaryDataType="IfcLabel"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AlarmCondition_2XHx9BMg9QouH5VSI3wvtW" Name="AlarmCondition" UniqueId="a147b24b-5aa2-5acb-8445-7dc483eb9de0" PropertyType="p_tablevalue" PrimaryDataType="IfcIdentifier" SecondaryDataType="IfcLabel" />
+

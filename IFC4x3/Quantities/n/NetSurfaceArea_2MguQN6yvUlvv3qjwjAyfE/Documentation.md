@@ -5,5 +5,3 @@ Net surface area of the object, normally generated as perimeter \* length + 2 \*
 
 
 Total net surface area of the element after applying product-level geometric features such as openings and projections.
-
-

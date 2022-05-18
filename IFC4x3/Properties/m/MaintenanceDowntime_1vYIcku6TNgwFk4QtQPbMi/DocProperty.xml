@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MaintenanceDowntime_1vYIcku6TNgwFk4QtQPbMi" Name="MaintenanceDowntime" UniqueId="798929ae-e067-57ab-a3ee-11adda6655ac" PrimaryDataType="IfcRatioMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MaintenanceDowntime_1vYIcku6TNgwFk4QtQPbMi" Name="MaintenanceDowntime" UniqueId="798929ae-e067-57ab-a3ee-11adda6655ac" PrimaryDataType="IfcRatioMeasure" />
+

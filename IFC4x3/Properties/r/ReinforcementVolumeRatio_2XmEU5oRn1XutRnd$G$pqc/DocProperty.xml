@@ -4,6 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Bewehrungsgrad Volumen">
 			<Documentation>Das geforderte Verhältnis der effektiven Masse der Bewehrung im Verhältnis zur effektiven Masse des Betons für dieses Element.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Reinforcement Volume Ratio"/>
+		<DocLocalization Locale="en" Name="Reinforcement Volume Ratio" />
 	</Localization>
 </DocProperty>
+

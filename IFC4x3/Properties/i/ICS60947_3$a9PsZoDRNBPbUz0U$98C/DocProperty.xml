@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ICS60947_3a9PsZoDRNBPbUz0U98C" Name="ICS60947" UniqueId="ff909676-8f23-5b5c-b665-7bd01efc920c" PrimaryDataType="IfcElectricCurrentMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ICS60947_3a9PsZoDRNBPbUz0U98C" Name="ICS60947" UniqueId="ff909676-8f23-5b5c-b665-7bd01efc920c" PrimaryDataType="IfcElectricCurrentMeasure" />
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EdgeFixingPlateFlangeWidthInPlaneZ_2Nx2i0qT8HuO00025QrEV" Name="EdgeFixingPlateFlangeWidthInPlaneZ" UniqueId="97ec2b00-d1d2-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Edge Fixing Plate Flange Width In Plane Z"/>
+		<DocLocalization Locale="en" Name="Edge Fixing Plate Flange Width In Plane Z" />
 		<DocLocalization Locale="ja-JP" Name="フランジ幅Z">
 			<Documentation>L型端部プレートのZ面フランジ幅。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

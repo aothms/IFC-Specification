@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NumberOfAntennas_15yqvbfebKO8NreADyiSj3" Name="NumberOfAntennas" UniqueId="45f34e65-a689-5460-85f5-a0a37cb1cb43" PrimaryDataType="IfcCountMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NumberOfAntennas_15yqvbfebKO8NreADyiSj3" Name="NumberOfAntennas" UniqueId="45f34e65-a689-5460-85f5-a0a37cb1cb43" PrimaryDataType="IfcCountMeasure" />
+

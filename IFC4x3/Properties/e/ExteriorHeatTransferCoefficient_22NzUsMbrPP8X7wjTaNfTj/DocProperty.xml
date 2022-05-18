@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ExteriorHeatTransferCoefficient_22NzUsMbrPP8X7wjTaNfTj" Name="ExteriorHeatTransferCoefficient" UniqueId="825fd7b6-5a5d-5964-8847-ead7645e976d" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ExteriorHeatTransferCoefficient_22NzUsMbrPP8X7wjTaNfTj" Name="ExteriorHeatTransferCoefficient" UniqueId="825fd7b6-5a5d-5964-8847-ead7645e976d" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

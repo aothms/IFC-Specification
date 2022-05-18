@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ReleaseCurrentI2tStart_0PV87i65nJawe3Pmfi4N_j" Name="ReleaseCurrentI2tStart" UniqueId="197c81ec-185c-5393-aa03-670a6c117fad" PrimaryDataType="IfcElectricCurrentMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ReleaseCurrentI2tStart_0PV87i65nJawe3Pmfi4N_j" Name="ReleaseCurrentI2tStart" UniqueId="197c81ec-185c-5393-aa03-670a6c117fad" PrimaryDataType="IfcElectricCurrentMeasure" />
+

@@ -9,4 +9,3 @@ The shape information is provided in addition to the shape representation and th
 
 
 Angle of the gutter to allow for drainage.
-

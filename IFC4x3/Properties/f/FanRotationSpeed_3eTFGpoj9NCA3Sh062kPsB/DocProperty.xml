@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FanRotationSpeed_3eTFGpoj9NCA3Sh062kPsB" Name="FanRotationSpeed" UniqueId="e874f433-cad2-5730-a0dc-ac0182b99d8b" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FanRotationSpeed_3eTFGpoj9NCA3Sh062kPsB" Name="FanRotationSpeed" UniqueId="e874f433-cad2-5730-a0dc-ac0182b99d8b" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

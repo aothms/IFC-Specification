@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OperationModeHistory_3fQOTfOiRZSqhxi8Vue" Name="OperationModeHistory" UniqueId="e96bffd8-fdda-58b1-b8dc-d2beec21fe28" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OperationModeHistory_3fQOTfOiRZSqhxi8Vue" Name="OperationModeHistory" UniqueId="e96bffd8-fdda-58b1-b8dc-d2beec21fe28" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

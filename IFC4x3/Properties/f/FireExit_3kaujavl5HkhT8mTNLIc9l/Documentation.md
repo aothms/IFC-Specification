@@ -5,4 +5,3 @@ Indication whether this object is designed to serve as an exit in the case of fi
 
 
 Here it defines an exit ramp in accordance to the national building code.
-

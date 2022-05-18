@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TrippingCurve_0mITO0qVeHuO00025QrEV" Name="TrippingCurve" UniqueId="3049d600-d1fa-11e1-8000-00215ad4efdf" PropertyType="p_tablevalue" PrimaryDataType="IfcElectricCurrentMeasure" SecondaryDataType="IfcTimeMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Tripping Curve"/>
+		<DocLocalization Locale="en" Name="Tripping Curve" />
 		<DocLocalization Locale="ja-JP" Name="動作特性曲線">
 			<Documentation>(1)電流/時間の位置[x In]で示される2～16の想定される電流値を定義する。
 (2)定義された値は、電流/時間の位置[ｓ]で示される2～16の想定される放電時間。</Documentation>
@@ -11,3 +11,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PowerFactor_04eNpq2XPWA9h2o4Hvp71" Name="PowerFactor" UniqueId="3f1285f3-d028-5980-a26b-0b2111e731c1" PrimaryDataType="IfcNormalisedRatioMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PowerFactor_04eNpq2XPWA9h2o4Hvp71" Name="PowerFactor" UniqueId="3f1285f3-d028-5980-a26b-0b2111e731c1" PrimaryDataType="IfcNormalisedRatioMeasure" />
+

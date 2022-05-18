@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Process_3VUxA0qUGHuO00025QrEV" Name="Process" UniqueId="df7bb280-d1e4-11e1-8000-00215ad4efdf" PrimaryDataType="IfcInteger">
 	<Localization>
-		<DocLocalization Locale="en" Name="Process"/>
+		<DocLocalization Locale="en" Name="Process" />
 	</Localization>
 </DocProperty>
+

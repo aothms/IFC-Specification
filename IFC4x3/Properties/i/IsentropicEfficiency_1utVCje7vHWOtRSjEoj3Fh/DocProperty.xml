@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsentropicEfficiency_1utVCje7vHWOtRSjEoj3Fh" Name="IsentropicEfficiency" UniqueId="78ddf32d-a07e-5181-8ddb-72d3b2b433eb" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsentropicEfficiency_1utVCje7vHWOtRSjEoj3Fh" Name="IsentropicEfficiency" UniqueId="78ddf32d-a07e-5181-8ddb-72d3b2b433eb" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

@@ -5,4 +5,3 @@ Gross Area of the object. Openings, recesses, projections and cut-outs are not t
 
 
 Including the outer frame.
-

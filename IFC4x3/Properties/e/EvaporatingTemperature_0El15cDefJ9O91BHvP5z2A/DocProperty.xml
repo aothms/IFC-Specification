@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EvaporatingTemperature_0El15cDefJ9O91BHvP5z2A" Name="EvaporatingTemperature" UniqueId="0ebc1166-368a-5325-8241-2d1e5917d08a" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EvaporatingTemperature_0El15cDefJ9O91BHvP5z2A" Name="EvaporatingTemperature" UniqueId="0ebc1166-368a-5325-8241-2d1e5917d08a" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

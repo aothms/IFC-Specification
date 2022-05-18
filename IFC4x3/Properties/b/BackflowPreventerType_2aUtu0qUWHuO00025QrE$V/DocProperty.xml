@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BackflowPreventerType_2aUtu0qUWHuO00025QrEV" Name="BackflowPreventerType" UniqueId="a47b7e00-d1e8-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Backflow Preventer Type"/>
+		<DocLocalization Locale="en" Name="Backflow Preventer Type" />
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_BackflowPreventerType"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_BackflowPreventerType" />
 </DocProperty>
+

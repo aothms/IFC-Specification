@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MolecularWeight_3IOi60qUmHuO00025QrEV" Name="MolecularWeight" UniqueId="d262c180-d1ec-11e1-8000-00215ad4efdf" PrimaryDataType="IfcMolecularWeightMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Molecular Weight"/>
+		<DocLocalization Locale="en" Name="Molecular Weight" />
 	</Localization>
 </DocProperty>
+

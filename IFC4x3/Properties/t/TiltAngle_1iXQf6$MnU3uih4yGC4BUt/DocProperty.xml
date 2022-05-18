@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TiltAngle_1iXQf6MnU3uih4yGC4BUt" Name="TiltAngle" UniqueId="6c85aa46-fd6c-5e0f-8b2b-13c40c10b7b7" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TiltAngle_1iXQf6MnU3uih4yGC4BUt" Name="TiltAngle" UniqueId="6c85aa46-fd6c-5e0f-8b2b-13c40c10b7b7" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

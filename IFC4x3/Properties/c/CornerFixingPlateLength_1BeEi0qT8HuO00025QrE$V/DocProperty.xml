@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CornerFixingPlateLength_1BeEi0qT8HuO00025QrEV" Name="CornerFixingPlateLength" UniqueId="4ba0eb00-d1d2-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Corner Fixing Plate Length"/>
+		<DocLocalization Locale="en" Name="Corner Fixing Plate Length" />
 		<DocLocalization Locale="ja-JP" Name="長さ">
 			<Documentation>L型コーナープレートの長さ。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NeckArea_14SE60qS0HuO00025QrEV" Name="NeckArea" UniqueId="4470e180-d1c0-11e1-8000-00215ad4efdf" PrimaryDataType="IfcAreaMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Neck Area"/>
+		<DocLocalization Locale="en" Name="Neck Area" />
 		<DocLocalization Locale="fr-FR" Name="ZoneReduction">
 			<Documentation>Partie la plus étroite du terminal de ventilation.</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

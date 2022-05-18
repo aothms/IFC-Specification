@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DryBulbTemperature_1NzuWZzg9PRfbwLx6sMlV" Name="DryBulbTemperature" UniqueId="57f78823-f6a2-596e-997a-57b1b65af7ff" PropertyType="p_boundedvalue" PrimaryDataType="IfcThermodynamicTemperatureMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DryBulbTemperature_1NzuWZzg9PRfbwLx6sMlV" Name="DryBulbTemperature" UniqueId="57f78823-f6a2-596e-997a-57b1b65af7ff" PropertyType="p_boundedvalue" PrimaryDataType="IfcThermodynamicTemperatureMeasure" />
+

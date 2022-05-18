@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LeakageCurve_1r3KS0qT4HuO00025QrEV" Name="LeakageCurve" UniqueId="750d4700-d1d1-11e1-8000-00215ad4efdf" PropertyType="p_tablevalue" PrimaryDataType="IfcVolumetricFlowRateMeasure" SecondaryDataType="IfcPressureMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Leakage Curve"/>
+		<DocLocalization Locale="en" Name="Leakage Curve" />
 	</Localization>
 </DocProperty>
+

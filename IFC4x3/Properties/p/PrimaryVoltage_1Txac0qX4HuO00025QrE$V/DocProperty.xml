@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PrimaryVoltage_1Txac0qX4HuO00025QrEV" Name="PrimaryVoltage" UniqueId="5dee4980-d211-11e1-8000-00215ad4efdf" PrimaryDataType="IfcElectricVoltageMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Primary Voltage"/>
+		<DocLocalization Locale="en" Name="Primary Voltage" />
 		<DocLocalization Locale="ja-JP" Name="第1電圧">
 			<Documentation>変圧器の1次側に伝送される電圧。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

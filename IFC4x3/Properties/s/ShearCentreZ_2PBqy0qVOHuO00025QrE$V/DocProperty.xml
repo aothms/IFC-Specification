@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShearCentreZ_2PBqy0qVOHuO00025QrEV" Name="ShearCentreZ" UniqueId="992f4f00-d1f6-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Shear Centre Z"/>
+		<DocLocalization Locale="en" Name="Shear Centre Z" />
 	</Localization>
 </DocProperty>
+

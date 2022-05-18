@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ReleaseTimeI2tStart_3s1iEXVtfMBgEY46ToO_O" Name="ReleaseTimeI2tStart" UniqueId="f606c3a1-7f7a-56fc-ba8e-88419dc98f98" PrimaryDataType="IfcTimeMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ReleaseTimeI2tStart_3s1iEXVtfMBgEY46ToO_O" Name="ReleaseTimeI2tStart" UniqueId="f606c3a1-7f7a-56fc-ba8e-88419dc98f98" PrimaryDataType="IfcTimeMeasure" />
+

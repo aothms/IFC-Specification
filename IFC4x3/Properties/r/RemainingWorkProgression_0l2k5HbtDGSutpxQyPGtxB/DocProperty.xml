@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RemainingWorkProgression_0l2k5HbtDGSutpxQyPGtxB" Name="RemainingWorkProgression" UniqueId="2f0ae151-9773-5073-8df3-edaf19437ecb" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RemainingWorkProgression_0l2k5HbtDGSutpxQyPGtxB" Name="RemainingWorkProgression" UniqueId="2f0ae151-9773-5073-8df3-edaf19437ecb" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

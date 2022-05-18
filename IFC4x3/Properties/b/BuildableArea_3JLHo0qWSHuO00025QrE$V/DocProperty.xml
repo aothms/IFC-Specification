@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="bebaubare Fläche">
 			<Documentation>bebaubare Fläche als maximale überbaubare Fläche des Grundstücks.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Buildable Area"/>
+		<DocLocalization Locale="en" Name="Buildable Area" />
 		<DocLocalization Locale="fr-FR" Name="ValeurSurfaceConstructible">
-			<Documentation>Surface constructible maximale en fonction des contraintes d'urbanisme.</Documentation>
+			<Documentation>Surface constructible maximale en fonction des contraintes d&apos;urbanisme.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="建築可能面積">
 			<Documentation>建築基準により建築可能な最大の面積。</Documentation>
@@ -16,3 +16,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

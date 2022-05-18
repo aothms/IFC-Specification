@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TelephoneNumbers_04ViL_BC5Tz8zaoPghRiJG" Name="TelephoneNumbers" UniqueId="047ec57e-2cc1-5df4-8f64-c99aab6ec4d0" PropertyType="p_listvalue" PrimaryDataType="IfcLabel"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TelephoneNumbers_04ViL_BC5Tz8zaoPghRiJG" Name="TelephoneNumbers" UniqueId="047ec57e-2cc1-5df4-8f64-c99aab6ec4d0" PropertyType="p_listvalue" PrimaryDataType="IfcLabel" />
+

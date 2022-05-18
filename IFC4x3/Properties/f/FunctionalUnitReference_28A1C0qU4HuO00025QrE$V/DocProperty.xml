@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FunctionalUnitReference_28A1C0qU4HuO00025QrEV" Name="FunctionalUnitReference" UniqueId="88281300-d1e1-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Functional Unit Reference"/>
+		<DocLocalization Locale="en" Name="Functional Unit Reference" />
 		<DocLocalization Locale="fr-FR" Name="ReferenceUniteFonctionnelle">
-			<Documentation>Référence à une base de données ou à une classification [NDT : référence, par exemple, à l'identification d'un produit dans la base INIES]</Documentation>
+			<Documentation>Référence à une base de données ou à une classification [NDT : référence, par exemple, à l&apos;identification d&apos;un produit dans la base INIES]</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="機能単位参照">
 			<Documentation>データベースやクラスへの参照。</Documentation>
@@ -13,3 +13,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalLength_1vX85dGnnI8OJgTfncOKYC" Name="NominalLength" UniqueId="79848167-431c-5221-84ea-769c6661488c" PrimaryDataType="IfcNonNegativeLengthMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalLength_1vX85dGnnI8OJgTfncOKYC" Name="NominalLength" UniqueId="79848167-431c-5221-84ea-769c6661488c" PrimaryDataType="IfcNonNegativeLengthMeasure" />
+

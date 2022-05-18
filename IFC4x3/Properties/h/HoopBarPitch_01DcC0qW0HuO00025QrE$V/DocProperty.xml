@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HoopBarPitch_01DcC0qW0HuO00025QrEV" Name="HoopBarPitch" UniqueId="01366300-d200-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Hoop Bar Pitch"/>
+		<DocLocalization Locale="en" Name="Hoop Bar Pitch" />
 		<DocLocalization Locale="ja-JP" Name="帯筋間隔">
 			<Documentation>帯筋の間隔。</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

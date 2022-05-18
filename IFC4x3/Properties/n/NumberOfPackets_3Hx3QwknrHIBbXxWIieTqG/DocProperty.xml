@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NumberOfPackets_3Hx3QwknrHIBbXxWIieTqG" Name="NumberOfPackets" UniqueId="d1ec36ba-bb1d-5148-b961-ee04aca1dd10" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NumberOfPackets_3Hx3QwknrHIBbXxWIieTqG" Name="NumberOfPackets" UniqueId="d1ec36ba-bb1d-5148-b961-ee04aca1dd10" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

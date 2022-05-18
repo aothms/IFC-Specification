@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AccessCoverMaterial_0ZieS0qTGHuO00025QrEV" Name="AccessCoverMaterial" UniqueId="23b28700-d1d4-11e1-8000-00215ad4efdf" PropertyType="p_referencevalue" PrimaryDataType="IfcMaterialDefinition">
 	<Localization>
-		<DocLocalization Locale="en" Name="Access Cover Material"/>
+		<DocLocalization Locale="en" Name="Access Cover Material" />
 		<DocLocalization Locale="ja-JP" Name="アクセス（点検）カバーの材質">
 			<Documentation>アクセス（点検）カバーの材質。
 注：バイブスペースの壁は単層と仮定する</Documentation>
@@ -11,3 +11,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

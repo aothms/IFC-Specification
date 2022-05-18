@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DishwasherType_2mhms0qTyHuO00025QrEV" Name="DishwasherType" UniqueId="b0af0d80-d1df-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Dishwasher Type"/>
+		<DocLocalization Locale="en" Name="Dishwasher Type" />
 		<DocLocalization Locale="ja-JP" Name="食器洗浄機のタイプ">
 			<Documentation>食器洗浄機のタイプ。</Documentation>
 		</DocLocalization>
@@ -9,5 +9,6 @@
 			<Documentation>식기 세척기의 유형</Documentation>
 		</DocLocalization>
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_ElectricApplianceDishwasherType"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_ElectricApplianceDishwasherType" />
 </DocProperty>
+

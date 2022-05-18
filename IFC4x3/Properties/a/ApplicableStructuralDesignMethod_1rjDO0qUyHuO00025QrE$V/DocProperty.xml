@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ApplicableStructuralDesignMethod_1rjDO0qUyHuO00025QrEV" Name="ApplicableStructuralDesignMethod" UniqueId="75b4d600-d1ef-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Applicable Structural Design Method"/>
+		<DocLocalization Locale="en" Name="Applicable Structural Design Method" />
 	</Localization>
 </DocProperty>
+

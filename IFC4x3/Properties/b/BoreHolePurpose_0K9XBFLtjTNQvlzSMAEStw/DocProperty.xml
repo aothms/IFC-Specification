@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BoreHolePurpose_0K9XBFLtjTNQvlzSMAEStw" Name="BoreHolePurpose" UniqueId="142612cf-577b-5d5d-ae6f-f5c58a39cdfa" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_StrataAssemblyPurpose"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_StrataAssemblyPurpose" />
 </DocProperty>
+

@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Diameter_1_UyG9g0zP8gX75Sl4zNvr" Name="Diameter" UniqueId="7e7bc409-a80f-5922-a847-15cbc4f57e75" PrimaryDataType="IfcPositiveLengthMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Diameter_1_UyG9g0zP8gX75Sl4zNvr" Name="Diameter" UniqueId="7e7bc409-a80f-5922-a847-15cbc4f57e75" PrimaryDataType="IfcPositiveLengthMeasure" />
+

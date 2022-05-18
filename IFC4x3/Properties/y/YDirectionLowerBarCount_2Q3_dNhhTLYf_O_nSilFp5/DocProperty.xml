@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="YDirectionLowerBarCount_2Q3_dNhhTLYf_O_nSilFp5" Name="YDirectionLowerBarCount" UniqueId="9a0fe9d7-aeb7-558a-9f98-fb172cbcfcc5" PrimaryDataType="IfcCountMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="YDirectionLowerBarCount_2Q3_dNhhTLYf_O_nSilFp5" Name="YDirectionLowerBarCount" UniqueId="9a0fe9d7-aeb7-558a-9f98-fb172cbcfcc5" PrimaryDataType="IfcCountMeasure" />
+

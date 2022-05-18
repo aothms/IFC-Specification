@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OperationTemperatureRange_1wm5W0qUGHuO00025QrEV" Name="OperationTemperatureRange" UniqueId="7ac05800-d1e4-11e1-8000-00215ad4efdf" PropertyType="p_boundedvalue" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Operation Temperature Range"/>
+		<DocLocalization Locale="en" Name="Operation Temperature Range" />
 		<DocLocalization Locale="ja-JP" Name="動作温度範囲">
 			<Documentation>許容動作周囲温度範囲</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

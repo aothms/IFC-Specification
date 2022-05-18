@@ -4,12 +4,13 @@
 		<DocLocalization Locale="de-DE" Name="Mechanisch">
 			<Documentation>Angabe, ob dieses Bauteil  mechanisch bewegt oder angetrieben wird (JA) oder manuell (NEIN). Diese Eigenschaft wird nur für beweglichen Sonnenschutz angegeben.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Mechanical Operated"/>
+		<DocLocalization Locale="en" Name="Mechanical Operated" />
 		<DocLocalization Locale="fr-FR" Name="Actionné mécaniquement">
-			<Documentation>Indique si l'élément est actionné mécaniquement (VRAI) ou manuellement (FAUX).</Documentation>
+			<Documentation>Indique si l&apos;élément est actionné mécaniquement (VRAI) ou manuellement (FAUX).</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="機械的操作">
 			<Documentation>機械的操作が可能かどうかを示すブーリアン値。可能な場合TRUE、手動の場合FALSE。</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

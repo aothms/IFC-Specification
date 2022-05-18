@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Bruttogrundstücksfläche">
 			<Documentation>Gesamte Grundstücksfläche für diese Bauaufgabe.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Total Area"/>
+		<DocLocalization Locale="en" Name="Total Area" />
 		<DocLocalization Locale="fr-FR" Name="SurfaceBruteProgrammee">
 			<Documentation>Surface totale brute. Définie en phase de programmation.</Documentation>
 		</DocLocalization>
@@ -16,3 +16,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

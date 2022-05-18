@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EnergySourceConsumption_3e_pQ2r_1VJAzTGjNR7rEO" Name="EnergySourceConsumption" UniqueId="e8fb3682-d7e0-5f4c-af5d-42d5db1f5398" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EnergySourceConsumption_3e_pQ2r_1VJAzTGjNR7rEO" Name="EnergySourceConsumption" UniqueId="e8fb3682-d7e0-5f4c-af5d-42d5db1f5398" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

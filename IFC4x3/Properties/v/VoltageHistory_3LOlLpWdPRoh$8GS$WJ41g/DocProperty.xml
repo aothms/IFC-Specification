@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VoltageHistory_3LOlLpWdPRoh8GSWJ41g" Name="VoltageHistory" UniqueId="d562f573-8276-5bca-bfc8-41cfe04c406a" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VoltageHistory_3LOlLpWdPRoh8GSWJ41g" Name="VoltageHistory" UniqueId="d562f573-8276-5bca-bfc8-41cfe04c406a" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

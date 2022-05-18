@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WaterSumpTemperature_0nMczlq9U_OOeGsvCnDC" Name="WaterSumpTemperature" UniqueId="315a6f6f-d3f2-5ef9-8628-436e4cc4dfcc" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WaterSumpTemperature_0nMczlq9U_OOeGsvCnDC" Name="WaterSumpTemperature" UniqueId="315a6f6f-d3f2-5ef9-8628-436e4cc4dfcc" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

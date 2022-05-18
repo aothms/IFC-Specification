@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ActualCost_1apwDYYTVOOxWcPb9yGuF" Name="ActualCost" UniqueId="64cfa362-8bf7-5f61-8ee0-999949f10e0f" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ActualCost_1apwDYYTVOOxWcPb9yGuF" Name="ActualCost" UniqueId="64cfa362-8bf7-5f61-8ee0-999949f10e0f" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

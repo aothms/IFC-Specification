@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Type2_3CQEA0qUGHuO00025QrEV" Name="Type2" UniqueId="cc68e280-d1e4-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Type2"/>
+		<DocLocalization Locale="en" Name="Type2" />
 	</Localization>
 </DocProperty>
+

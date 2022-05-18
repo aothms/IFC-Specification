@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TotalLatentLoadHistory_04RnN8gaLUKesKh2sJXzKa" Name="TotalLatentLoadHistory" UniqueId="046f15c8-aa45-5e52-8d94-ac2d9387d524" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TotalLatentLoadHistory_04RnN8gaLUKesKh2sJXzKa" Name="TotalLatentLoadHistory" UniqueId="046f15c8-aa45-5e52-8d94-ac2d9387d524" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Flowrate_0CgYMHAr1PbRCpeOOAWasB" Name="Flowrate" UniqueId="0caa2591-2b50-5995-b333-a1860a824d8b" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Flowrate_0CgYMHAr1PbRCpeOOAWasB" Name="Flowrate" UniqueId="0caa2591-2b50-5995-b333-a1860a824d8b" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

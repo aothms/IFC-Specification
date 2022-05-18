@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CoverageArea_1ZDZb79_zQhAZEy6wQTm0e" Name="CoverageArea" UniqueId="63363947-27ef-5aac-a8ce-f06e9a770028" PrimaryDataType="IfcAreaMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CoverageArea_1ZDZb79_zQhAZEy6wQTm0e" Name="CoverageArea" UniqueId="63363947-27ef-5aac-a8ce-f06e9a770028" PrimaryDataType="IfcAreaMeasure" />
+

@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WaterPressureDropCurves_1D3oD2Dg9Ubu2LgAscAVxo" Name="WaterPressureDropCurves" UniqueId="4d0f2342-36a2-5e97-8095-a8ada629fef2" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WaterPressureDropCurves_1D3oD2Dg9Ubu2LgAscAVxo" Name="WaterPressureDropCurves" UniqueId="4d0f2342-36a2-5e97-8095-a8ada629fef2" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

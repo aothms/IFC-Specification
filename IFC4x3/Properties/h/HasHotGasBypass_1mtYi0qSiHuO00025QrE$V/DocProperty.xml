@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HasHotGasBypass_1mtYi0qSiHuO00025QrEV" Name="HasHotGasBypass" UniqueId="70de2b00-d1cb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="Has Hot Gas Bypass"/>
+		<DocLocalization Locale="en" Name="Has Hot Gas Bypass" />
 		<DocLocalization Locale="fr-FR" Name="PossedeBypassGazChaud">
-			<Documentation>Qu'il y ait ou non un bypass du gaz chaud fourni au niveau du compresseur, VRAI= oui, FAUX= Non.</Documentation>
+			<Documentation>Qu&apos;il y ait ou non un bypass du gaz chaud fourni au niveau du compresseur, VRAI= oui, FAUX= Non.</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

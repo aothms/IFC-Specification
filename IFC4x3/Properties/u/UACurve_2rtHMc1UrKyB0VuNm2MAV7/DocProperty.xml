@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="UACurve_2rtHMc1UrKyB0VuNm2MAV7" Name="UACurve" UniqueId="b5dd15a6-05ed-54f0-b01f-e17c0258a7c7" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="UACurve_2rtHMc1UrKyB0VuNm2MAV7" Name="UACurve" UniqueId="b5dd15a6-05ed-54f0-b01f-e17c0258a7c7" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

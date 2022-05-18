@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RefrigerantFoulingResistance_3g2CCf3vrLzeebNCF0G05b" Name="RefrigerantFoulingResistance" UniqueId="ea08c329-0f9d-55f6-8a25-5cc3c0400165" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RefrigerantFoulingResistance_3g2CCf3vrLzeebNCF0G05b" Name="RefrigerantFoulingResistance" UniqueId="ea08c329-0f9d-55f6-8a25-5cc3c0400165" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

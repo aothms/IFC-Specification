@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirExchangeRateTimeHistory_3MoHVE4cjOmQSit17Lt61x" Name="AirExchangeRateTimeHistory" UniqueId="d6c917ce-126b-58c1-a72c-dc11d5dc607b" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirExchangeRateTimeHistory_3MoHVE4cjOmQSit17Lt61x" Name="AirExchangeRateTimeHistory" UniqueId="d6c917ce-126b-58c1-a72c-dc11d5dc607b" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

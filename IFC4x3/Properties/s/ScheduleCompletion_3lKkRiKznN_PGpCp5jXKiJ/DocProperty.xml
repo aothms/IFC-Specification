@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ScheduleCompletion_3lKkRiKznN_PGpCp5jXKiJ" Name="ScheduleCompletion" UniqueId="ef52e6ec-53dc-57f9-9433-33316d854b13" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ScheduleCompletion_3lKkRiKznN_PGpCp5jXKiJ" Name="ScheduleCompletion" UniqueId="ef52e6ec-53dc-57f9-9433-33316d854b13" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

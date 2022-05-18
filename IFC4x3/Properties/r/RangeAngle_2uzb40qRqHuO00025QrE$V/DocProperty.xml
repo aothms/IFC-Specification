@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RangeAngle_2uzb40qRqHuO00025QrEV" Name="RangeAngle" UniqueId="b8f65100-d1bd-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPlaneAngleMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Range Angle"/>
+		<DocLocalization Locale="en" Name="Range Angle" />
 		<DocLocalization Locale="ja-JP" Name="最大回転角">
 			<Documentation>アクチュエータが動く最大回転角を示す。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

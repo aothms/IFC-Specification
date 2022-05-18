@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PressureDrop_2APTtEOBvO0RoHOWsgzjKY" Name="PressureDrop" UniqueId="8a65ddce-60be-5801-bc91-620daaf6d522" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PressureDrop_2APTtEOBvO0RoHOWsgzjKY" Name="PressureDrop" UniqueId="8a65ddce-60be-5801-bc91-620daaf6d522" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

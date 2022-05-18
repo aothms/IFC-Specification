@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SetPointSpeed_2sR1c0qWOHuO00025QrEV" Name="SetPointSpeed" UniqueId="b66c1980-d206-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLinearVelocityMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Set Point Speed"/>
+		<DocLocalization Locale="en" Name="Set Point Speed" />
 		<DocLocalization Locale="ja-JP" Name="風速設定値">
 			<Documentation>感知される風速。
 セットポイント値を置くために、IfcPropertyBoundedValue.SetPointValueを使用する。</Documentation>
@@ -11,3 +11,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

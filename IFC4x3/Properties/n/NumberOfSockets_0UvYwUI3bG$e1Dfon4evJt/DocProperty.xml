@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NumberOfSockets_0UvYwUI3bGe1Dfon4evJt" Name="NumberOfSockets" UniqueId="1ee62e9e-4839-50fe-804d-a72c44a394f7" PrimaryDataType="IfcCountMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NumberOfSockets_0UvYwUI3bGe1Dfon4evJt" Name="NumberOfSockets" UniqueId="1ee62e9e-4839-50fe-804d-a72c44a394f7" PrimaryDataType="IfcCountMeasure" />
+

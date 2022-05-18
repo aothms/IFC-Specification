@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VentilationAirFlowRateHistory_27i67nzwrLF8braAnbDw3J" Name="VentilationAirFlowRateHistory" UniqueId="87b061f1-f7ad-553c-8975-90ac6537a0d3" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VentilationAirFlowRateHistory_27i67nzwrLF8braAnbDw3J" Name="VentilationAirFlowRateHistory" UniqueId="87b061f1-f7ad-553c-8975-90ac6537a0d3" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

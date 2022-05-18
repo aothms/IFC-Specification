@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Duration_3NQf4TjifK4eW5eHC_OTAE" Name="Duration" UniqueId="d76a911d-b6ca-5412-8805-a1133e61d28e" PrimaryDataType="IfcDuration"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Duration_3NQf4TjifK4eW5eHC_OTAE" Name="Duration" UniqueId="d76a911d-b6ca-5412-8805-a1133e61d28e" PrimaryDataType="IfcDuration" />
+

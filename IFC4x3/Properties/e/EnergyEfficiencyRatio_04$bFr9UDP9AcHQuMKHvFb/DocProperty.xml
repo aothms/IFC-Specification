@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EnergyEfficiencyRatio_04bFr9UDP9AcHQuMKHvFb" Name="EnergyEfficiencyRatio" UniqueId="04fe53f5-25e3-5924-a991-6b85944793e5" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EnergyEfficiencyRatio_04bFr9UDP9AcHQuMKHvFb" Name="EnergyEfficiencyRatio" UniqueId="04fe53f5-25e3-5924-a991-6b85944793e5" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

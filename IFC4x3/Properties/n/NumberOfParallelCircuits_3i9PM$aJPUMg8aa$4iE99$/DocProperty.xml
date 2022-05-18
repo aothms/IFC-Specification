@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NumberOfParallelCircuits_3i9PMaJPUMg8aa4iE99" Name="NumberOfParallelCircuits" UniqueId="ec2595bf-9136-5e5a-a224-93f12c38927f" PrimaryDataType="IfcCountMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NumberOfParallelCircuits_3i9PMaJPUMg8aa4iE99" Name="NumberOfParallelCircuits" UniqueId="ec2595bf-9136-5e5a-a224-93f12c38927f" PrimaryDataType="IfcCountMeasure" />
+

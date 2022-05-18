@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Gegenneigung">
 			<Documentation>German-description-5</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Counter Slope"/>
+		<DocLocalization Locale="en" Name="Counter Slope" />
 		<DocLocalization Locale="fr-FR" Name="ContrePente">
-			<Documentation>Angle d'inclinaison de l'objet, mesuré perpendiculairement à la pente. L'horizontale correspond à la valeur 0 degrés. Valeur maximale de la pente de la rampe actuellement projetée, mesurée perpendiculairement à la direction du passage. Cette propriété est donnée en complément de la représentation de la forme de l'élément et des paramètres géométriques qui la déterminent. En cas d'incohérence entre ces paramètres géométriques et cette propriété, ce sont les paramètres géométriques qui priment. Note : nouvelle propriété de la version IFC2x4.</Documentation>
+			<Documentation>Angle d&apos;inclinaison de l&apos;objet, mesuré perpendiculairement à la pente. L&apos;horizontale correspond à la valeur 0 degrés. Valeur maximale de la pente de la rampe actuellement projetée, mesurée perpendiculairement à la direction du passage. Cette propriété est donnée en complément de la représentation de la forme de l&apos;élément et des paramètres géométriques qui la déterminent. En cas d&apos;incohérence entre ces paramètres géométriques et cette propriété, ce sont les paramètres géométriques qui priment. Note : nouvelle propriété de la version IFC2x4.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="通路の傾斜角度(垂直との角度）">
 			<Documentation>オブジェクトの傾斜角度（垂直との角度）
@@ -20,3 +20,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

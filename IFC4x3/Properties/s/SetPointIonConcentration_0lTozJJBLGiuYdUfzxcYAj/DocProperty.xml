@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SetPointIonConcentration_0lTozJJBLGiuYdUfzxcYAj" Name="SetPointIonConcentration" UniqueId="2f772f53-4cb5-50b3-88a7-7a9f7b9a22ad" PropertyType="p_boundedvalue" PrimaryDataType="IfcIonConcentrationMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SetPointIonConcentration_0lTozJJBLGiuYdUfzxcYAj" Name="SetPointIonConcentration" UniqueId="2f772f53-4cb5-50b3-88a7-7a9f7b9a22ad" PropertyType="p_boundedvalue" PrimaryDataType="IfcIonConcentrationMeasure" />
+

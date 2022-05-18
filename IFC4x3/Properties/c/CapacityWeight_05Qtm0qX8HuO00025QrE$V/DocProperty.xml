@@ -4,12 +4,13 @@
 		<DocLocalization Locale="de-DE" Name="Lastkapazität">
 			<Documentation>Kapazität nach Gewicht, das maximal befördert werden kann.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Capacity Weight"/>
+		<DocLocalization Locale="en" Name="Capacity Weight" />
 		<DocLocalization Locale="fr-FR" Name="Capacité en poids">
-			<Documentation>Capacité de transport de l'élément mesurée par le poids.</Documentation>
+			<Documentation>Capacité de transport de l&apos;élément mesurée par le poids.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="搭載重量">
 			<Documentation>搬送要素の重さに関する容量。</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalWaterFlowCooling_3s5my0qSuHuO00025QrEV" Name="NominalWaterFlowCooling" UniqueId="f6170f00-d1ce-11e1-8000-00215ad4efdf" PrimaryDataType="IfcVolumetricFlowRateMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Nominal Water Flow Cooling"/>
+		<DocLocalization Locale="en" Name="Nominal Water Flow Cooling" />
 	</Localization>
 </DocProperty>
+

@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Weight_0kJnZl7djNwPzvVau605Fy" Name="Weight" UniqueId="2e4f18ef-1e7b-57e9-9f79-7e4e060053fc" PrimaryDataType="IfcMassMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Weight_0kJnZl7djNwPzvVau605Fy" Name="Weight" UniqueId="2e4f18ef-1e7b-57e9-9f79-7e4e060053fc" PrimaryDataType="IfcMassMeasure" />
+

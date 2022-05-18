@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ThermalConductivity_24TNdmdH5N9xhHPZ9aDHX" Name="ThermalConductivity" UniqueId="847579f0-9d11-5727-bad1-663264351fe1" PrimaryDataType="IfcThermalConductivityMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ThermalConductivity_24TNdmdH5N9xhHPZ9aDHX" Name="ThermalConductivity" UniqueId="847579f0-9d11-5727-bad1-663264351fe1" PrimaryDataType="IfcThermalConductivityMeasure" />
+

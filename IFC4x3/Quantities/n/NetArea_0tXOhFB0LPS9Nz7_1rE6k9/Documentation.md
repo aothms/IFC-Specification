@@ -5,5 +5,3 @@ Total net area of the object. Openings, recesses and cut-outs are taken into acc
 
 
 Indicates the extruded area of the object. Only given when prismatic.
-
-

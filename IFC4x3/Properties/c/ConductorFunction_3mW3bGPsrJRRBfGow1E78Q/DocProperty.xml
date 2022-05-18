@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ConductorFunction_3mW3bGPsrJRRBfGow1E78Q" Name="ConductorFunction" UniqueId="f0803950-676d-536d-b2e9-432e8138721a" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_ConductorFunctionEnum"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_ConductorFunctionEnum" />
 </DocProperty>
+

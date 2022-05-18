@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WaterFoulingResistance_1USzvGfx9LKxYHPJZeOaz" Name="WaterFoulingResistance" UniqueId="5e73de50-a7b2-5553-b891-6538e863f93d" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WaterFoulingResistance_1USzvGfx9LKxYHPJZeOaz" Name="WaterFoulingResistance" UniqueId="5e73de50-a7b2-5553-b891-6538e863f93d" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

@@ -2,3 +2,4 @@
 <DocPropertyConstant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MINIMUM_048XQ4OC9I4RNAp4vxcdnq" Name="MINIMUM" UniqueId="04221684-60c2-5211-b5ca-cc4e7b9a7c74">
 	<Documentation>Two analog inputs are read and the minimum is written to the output value</Documentation>
 </DocPropertyConstant>
+

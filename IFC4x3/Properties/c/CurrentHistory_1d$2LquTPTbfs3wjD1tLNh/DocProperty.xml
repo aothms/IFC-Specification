@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CurrentHistory_1d2LquTPTbfs3wjD1tLNh" Name="CurrentHistory" UniqueId="67fc2574-e1d6-5d96-9d83-ead341dd55eb" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CurrentHistory_1d2LquTPTbfs3wjD1tLNh" Name="CurrentHistory" UniqueId="67fc2574-e1d6-5d96-9d83-ead341dd55eb" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CurrentForTimeDelay_3mW_u0qViHuO00025QrEV" Name="CurrentForTimeDelay" UniqueId="f083ee00-d1fb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcTimeMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Current For Time Delay"/>
+		<DocLocalization Locale="en" Name="Current For Time Delay" />
 		<DocLocalization Locale="ja-JP" Name="時延電流">
 			<Documentation>時延[x]ののトリップ電流は、L関数の遅延時間、およびSとG関数のI2tを指定。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

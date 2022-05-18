@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalEvaporatingTemperature_0EX2i0qSaHuO00025QrEV" Name="NominalEvaporatingTemperature" UniqueId="0e842b00-d1c9-11e1-8000-00215ad4efdf" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Nominal Evaporating Temperature"/>
+		<DocLocalization Locale="en" Name="Nominal Evaporating Temperature" />
 		<DocLocalization Locale="fr-FR" Name="TempératureEvaporationNominale">
-			<Documentation>Température d'évaporation du groupe froid.</Documentation>
+			<Documentation>Température d&apos;évaporation du groupe froid.</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

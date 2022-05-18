@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CenterCoreBaseHeight_0sFRW0qVOHuO00025QrEV" Name="CenterCoreBaseHeight" UniqueId="363db800-d1f6-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Center Core Base Height"/>
+		<DocLocalization Locale="en" Name="Center Core Base Height" />
 	</Localization>
 </DocProperty>
+

@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirFlowRate_3weq8ahDnU7BQwuSfw1p_g" Name="AirFlowRate" UniqueId="faa34224-acdc-5e1c-b6ba-e1ca7a073faa" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirFlowRate_3weq8ahDnU7BQwuSfw1p_g" Name="AirFlowRate" UniqueId="faa34224-acdc-5e1c-b6ba-e1ca7a073faa" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

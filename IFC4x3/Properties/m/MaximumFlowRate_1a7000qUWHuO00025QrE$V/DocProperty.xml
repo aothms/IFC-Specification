@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MaximumFlowRate_1a7000qUWHuO00025QrEV" Name="MaximumFlowRate" UniqueId="641c0000-d1e8-11e1-8000-00215ad4efdf" PrimaryDataType="IfcVolumetricFlowRateMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Maximum Flow Rate"/>
+		<DocLocalization Locale="en" Name="Maximum Flow Rate" />
 	</Localization>
 </DocProperty>
+

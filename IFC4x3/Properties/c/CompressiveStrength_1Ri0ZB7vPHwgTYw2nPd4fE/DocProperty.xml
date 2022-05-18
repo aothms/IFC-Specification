@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CompressiveStrength_1Ri0ZB7vPHwgTYw2nPd4fE" Name="CompressiveStrength" UniqueId="5bb008cb-1f96-51ea-a762-e82c599c4a4e" PrimaryDataType="IfcPressureMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CompressiveStrength_1Ri0ZB7vPHwgTYw2nPd4fE" Name="CompressiveStrength" UniqueId="5bb008cb-1f96-51ea-a762-e82c599c4a4e" PrimaryDataType="IfcPressureMeasure" />
+

@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CompressorTotalEfficiency_2x0_ic0JjUveHrnsO_RNb7" Name="CompressorTotalEfficiency" UniqueId="bb03eb26-013b-5ee6-8475-c7663e6d7947" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CompressorTotalEfficiency_2x0_ic0JjUveHrnsO_RNb7" Name="CompressorTotalEfficiency" UniqueId="bb03eb26-013b-5ee6-8475-c7663e6d7947" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

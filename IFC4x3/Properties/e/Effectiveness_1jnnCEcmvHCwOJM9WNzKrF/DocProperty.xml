@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Effectiveness_1jnnCEcmvHCwOJM9WNzKrF" Name="Effectiveness" UniqueId="6dc7130e-9b0e-5133-a613-589817f54d4f" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Effectiveness_1jnnCEcmvHCwOJM9WNzKrF" Name="Effectiveness" UniqueId="6dc7130e-9b0e-5133-a613-589817f54d4f" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

@@ -5,5 +5,3 @@ Gross Area of the object. Openings, recesses, projections and cut-outs are not t
 
 
 Measured in horizontal projections.
-
-

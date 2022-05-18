@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ActuatorApplication_2fdelZre5VOPGFEpD1Pke" Name="ActuatorApplication" UniqueId="a99e8be3-d681-5f61-940f-3b334166ea3f" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_ActuatorApplication"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_ActuatorApplication" />
 </DocProperty>
+

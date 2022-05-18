@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Feuerwiderstandsklasse">
 			<Documentation>Feuerwiderstandasklasse gemäß der nationalen oder regionalen Brandschutzverordnung.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Fire Rating"/>
+		<DocLocalization Locale="en" Name="Fire Rating" />
 		<DocLocalization Locale="fr-FR" Name="ResistanceAuFeu">
-			<Documentation>Classement au feu de l'élément donné selon la classification nationale de sécurité incendie.</Documentation>
+			<Documentation>Classement au feu de l&apos;élément donné selon la classification nationale de sécurité incendie.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="耐火等級">
 			<Documentation>主要な耐火等級。関連する建築基準法、消防法などの国家基準を参照。</Documentation>
@@ -17,3 +17,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

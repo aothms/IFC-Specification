@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TemperatureEffectiveness_2L_9srPNTU9uio0S9M372G" Name="TemperatureEffectiveness" UniqueId="95f89db5-6577-5e27-8b32-01c2560c7090" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TemperatureEffectiveness_2L_9srPNTU9uio0S9M372G" Name="TemperatureEffectiveness" UniqueId="95f89db5-6577-5e27-8b32-01c2560c7090" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

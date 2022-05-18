@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PerformanceClasses_21FaF90tDPiPudrYWqeUa" Name="PerformanceClasses" UniqueId="813e43c9-0373-59b1-9e27-d6283fd287a4" PropertyType="p_listvalue" PrimaryDataType="IfcLabel"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PerformanceClasses_21FaF90tDPiPudrYWqeUa" Name="PerformanceClasses" UniqueId="813e43c9-0373-59b1-9e27-d6283fd287a4" PropertyType="p_listvalue" PrimaryDataType="IfcLabel" />
+

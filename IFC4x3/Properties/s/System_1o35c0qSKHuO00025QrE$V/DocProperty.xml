@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Anlage">
 			<Documentation>Angabe zu welcher Anlage (oder Anlagen) der Durchbruch benötigt wird.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="System"/>
+		<DocLocalization Locale="en" Name="System" />
 		<DocLocalization Locale="fr-FR" Name="Système">
-			<Documentation>Le système qui requiert la réservation (exemples : &quot;Conditionnement d'air&quot;, &quot;Plomberie&quot;, &quot;Electricité&quot;)</Documentation>
+			<Documentation>Le système qui requiert la réservation (exemples : &quot;Conditionnement d&apos;air&quot;, &quot;Plomberie&quot;, &quot;Electricité&quot;)</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="システム">
 			<Documentation>空間に提示される建物サービスシステムです。例えば「空調」「配管」「電気」です。</Documentation>
@@ -16,3 +16,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

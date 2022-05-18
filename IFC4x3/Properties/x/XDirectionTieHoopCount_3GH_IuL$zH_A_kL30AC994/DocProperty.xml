@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="XDirectionTieHoopCount_3GH_IuLzH_A_kL30AC994" Name="XDirectionTieHoopCount" UniqueId="d047e4b8-57ff-51f8-afae-54300a309244" PrimaryDataType="IfcCountMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="XDirectionTieHoopCount_3GH_IuLzH_A_kL30AC994" Name="XDirectionTieHoopCount" UniqueId="d047e4b8-57ff-51f8-afae-54300a309244" PrimaryDataType="IfcCountMeasure" />
+

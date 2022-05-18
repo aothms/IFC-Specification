@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FractionRadiantHeatTransfer_3oc3JbK5nNrhibC3Eufqs4" Name="FractionRadiantHeatTransfer" UniqueId="f29834e5-505c-57d6-bb25-3033b8a74d84" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FractionRadiantHeatTransfer_3oc3JbK5nNrhibC3Eufqs4" Name="FractionRadiantHeatTransfer" UniqueId="f29834e5-505c-57d6-bb25-3033b8a74d84" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

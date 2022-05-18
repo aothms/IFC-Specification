@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SheathColours_0dgbvhbUfPf8JO2oURJIU" Name="SheathColours" UniqueId="27aa5e6b-95ea-59a4-84d8-0b279b4d27bf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_CoreColoursEnum"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_CoreColoursEnum" />
 </DocProperty>
+

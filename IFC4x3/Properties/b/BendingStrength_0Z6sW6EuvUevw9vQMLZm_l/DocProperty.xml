@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BendingStrength_0Z6sW6EuvUevw9vQMLZm_l" Name="BendingStrength" UniqueId="231b6806-3b8e-5ea3-9e89-e5a5958f0faf" PrimaryDataType="IfcPressureMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BendingStrength_0Z6sW6EuvUevw9vQMLZm_l" Name="BendingStrength" UniqueId="231b6806-3b8e-5ea3-9e89-e5a5958f0faf" PrimaryDataType="IfcPressureMeasure" />
+

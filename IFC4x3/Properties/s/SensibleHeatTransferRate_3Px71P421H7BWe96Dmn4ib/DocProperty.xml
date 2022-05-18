@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SensibleHeatTransferRate_3Px71P421H7BWe96Dmn4ib" Name="SensibleHeatTransferRate" UniqueId="d9ec7059-1020-511c-b828-246370c44b25" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SensibleHeatTransferRate_3Px71P421H7BWe96Dmn4ib" Name="SensibleHeatTransferRate" UniqueId="d9ec7059-1020-511c-b828-246370c44b25" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

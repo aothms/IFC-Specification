@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsCurrentTolerancePositiveOnly_1jOfW0qViHuO00025QrEV" Name="IsCurrentTolerancePositiveOnly" UniqueId="6d629800-d1fb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="Is Current Tolerance Positive Only"/>
+		<DocLocalization Locale="en" Name="Is Current Tolerance Positive Only" />
 		<DocLocalization Locale="ja-JP" Name="電流許容値">
 			<Documentation>許容電流限界1の値のみかどうか
  上記でない場合、電流許容値はプラス/マイナスした値。</Documentation>
@@ -11,3 +11,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

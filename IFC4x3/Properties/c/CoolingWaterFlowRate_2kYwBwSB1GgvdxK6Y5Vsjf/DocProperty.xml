@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CoolingWaterFlowRate_2kYwBwSB1GgvdxK6Y5Vsjf" Name="CoolingWaterFlowRate" UniqueId="ae8ba2fa-70b0-50ab-99fb-5068857f6b69" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CoolingWaterFlowRate_2kYwBwSB1GgvdxK6Y5Vsjf" Name="CoolingWaterFlowRate" UniqueId="ae8ba2fa-70b0-50ab-99fb-5068857f6b69" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

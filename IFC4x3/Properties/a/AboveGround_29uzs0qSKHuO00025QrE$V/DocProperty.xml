@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Oberirdisches Geschoss">
 			<Documentation>Angabe, ob dieses Geschoss vollständig überhalb oberirdisch ist (WAHR), vollständig unterirdisch (FALSCH), oder teilweise unter- und überirdisch (UNKNOWN).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Above Ground"/>
+		<DocLocalization Locale="en" Name="Above Ground" />
 		<DocLocalization Locale="fr-FR" Name="AuDessusSol">
-			<Documentation>Indication si l'étage est complètement au dessus du niveau du sol (VRAI), au dessous du niveau du sol (FAUX) ou partiellement enterré (INCONNU) comme dans le cas d'un terrain en pente.</Documentation>
+			<Documentation>Indication si l&apos;étage est complètement au dessus du niveau du sol (VRAI), au dessous du niveau du sol (FAUX) ou partiellement enterré (INCONNU) comme dans le cas d&apos;un terrain en pente.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="地上判別">
 			<Documentation>この建物階が地上(TRUE)、地下(FALSE)、一部が地下部分(UNKOWN)かどうかを示すロジカル値。</Documentation>
@@ -16,3 +16,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LandTitleID_1x4260qUiHuO00025QrEV" Name="LandTitleID" UniqueId="7b102180-d1eb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcIdentifier">
 	<Localization>
-		<DocLocalization Locale="en" Name="Land Title ID"/>
+		<DocLocalization Locale="en" Name="Land Title ID" />
 		<DocLocalization Locale="fr-FR" Name="IdTitreParcelle">
 			<Documentation>Identifiant numérique du titre de la parcelle attribué par une autorité.</Documentation>
 		</DocLocalization>
@@ -13,3 +13,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

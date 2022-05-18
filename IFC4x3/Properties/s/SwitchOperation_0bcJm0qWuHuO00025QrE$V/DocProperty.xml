@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SwitchOperation_0bcJm0qWuHuO00025QrEV" Name="SwitchOperation" UniqueId="25993c00-d20e-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Switch Operation"/>
+		<DocLocalization Locale="en" Name="Switch Operation" />
 		<DocLocalization Locale="ja-JP" Name="スイッチ操作">
 			<Documentation>緊急停止スイッチの操作を示す。</Documentation>
 		</DocLocalization>
@@ -9,5 +9,6 @@
 			<Documentation>비상 정지 스위치의 조작을 보여준다.</Documentation>
 		</DocLocalization>
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_SwitchingDeviceEmergencyStopType"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_SwitchingDeviceEmergencyStopType" />
 </DocProperty>
+

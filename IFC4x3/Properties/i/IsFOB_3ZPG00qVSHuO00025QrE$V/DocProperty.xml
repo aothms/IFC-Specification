@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsFOB_3ZPG00qVSHuO00025QrEV" Name="IsFOB" UniqueId="e3650000-d1f7-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="Is FOB"/>
+		<DocLocalization Locale="en" Name="Is FOB" />
 	</Localization>
 </DocProperty>
+

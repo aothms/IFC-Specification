@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HasHoseUnion_2unMuRmoXQheCp0bQ_HW" Name="HasHoseUnion" UniqueId="b8c56e1b-c328-5aae-8333-03f95af9183f" PrimaryDataType="IfcBoolean"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HasHoseUnion_2unMuRmoXQheCp0bQ_HW" Name="HasHoseUnion" UniqueId="b8c56e1b-c328-5aae-8333-03f95af9183f" PrimaryDataType="IfcBoolean" />
+

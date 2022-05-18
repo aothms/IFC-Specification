@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FlowClass_2gS5_0qUOHuO00025QrEV" Name="FlowClass" UniqueId="aa705f80-d1e6-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Flow Class"/>
+		<DocLocalization Locale="en" Name="Flow Class" />
 		<DocLocalization Locale="ja-JP" Name="流量クラス">
 			<Documentation>消火栓流量クラスの英数字表示（流量属性と一緒に、または代わりに用いられる）。</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

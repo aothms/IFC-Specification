@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LampCompensationType_0oyFy0qUiHuO00025QrEV" Name="LampCompensationType" UniqueId="32f0ff00-d1eb-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Lamp Compensation Type"/>
+		<DocLocalization Locale="en" Name="Lamp Compensation Type" />
 		<DocLocalization Locale="ja-JP" Name="ランプ補正">
 			<Documentation>力率の改善と高調波の抑制のために使用される補正</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="ko-KR" Name="램프보정"/>
+		<DocLocalization Locale="ko-KR" Name="램프보정" />
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_LampCompensationType"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_LampCompensationType" />
 </DocProperty>
+

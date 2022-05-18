@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RatedTemperature_2SW7SJY2rThBlmTciv_2VT" Name="RatedTemperature" UniqueId="9c807713-882d-5dac-bbf0-766b39f827dd" PropertyType="p_boundedvalue" PrimaryDataType="IfcThermodynamicTemperatureMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RatedTemperature_2SW7SJY2rThBlmTciv_2VT" Name="RatedTemperature" UniqueId="9c807713-882d-5dac-bbf0-766b39f827dd" PropertyType="p_boundedvalue" PrimaryDataType="IfcThermodynamicTemperatureMeasure" />
+

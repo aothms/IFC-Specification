@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ToppingType_0sYOE0qVKHuO00025QrEV" Name="ToppingType" UniqueId="36898380-d1f5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Topping Type"/>
+		<DocLocalization Locale="en" Name="Topping Type" />
 	</Localization>
 </DocProperty>
+

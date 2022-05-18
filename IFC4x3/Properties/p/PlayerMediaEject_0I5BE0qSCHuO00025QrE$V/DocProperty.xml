@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PlayerMediaEject_0I5BE0qSCHuO00025QrEV" Name="PlayerMediaEject" UniqueId="1214b380-d1c3-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="Player Media Eject"/>
+		<DocLocalization Locale="en" Name="Player Media Eject" />
 		<DocLocalization Locale="ja-JP" Name="メディア取り出し可否">
 			<Documentation>メディアを取り出すことができるかどうかを示す。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

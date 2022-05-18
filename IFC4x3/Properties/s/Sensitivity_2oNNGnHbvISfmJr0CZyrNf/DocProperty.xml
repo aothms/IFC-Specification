@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Sensitivity_2oNNGnHbvISfmJr0CZyrNf" Name="Sensitivity" UniqueId="b25d7431-465e-5272-9c13-d40323f355e9" PrimaryDataType="IfcElectricCurrentMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Sensitivity_2oNNGnHbvISfmJr0CZyrNf" Name="Sensitivity" UniqueId="b25d7431-465e-5272-9c13-d40323f355e9" PrimaryDataType="IfcElectricCurrentMeasure" />
+

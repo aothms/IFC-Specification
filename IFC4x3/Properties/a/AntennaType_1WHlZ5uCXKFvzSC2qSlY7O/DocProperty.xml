@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AntennaType_1WHlZ5uCXKFvzSC2qSlY7O" Name="AntennaType" UniqueId="6046f8c5-e0c8-543f-9f5c-302d1cbe21d8" PrimaryDataType="IfcLabel"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AntennaType_1WHlZ5uCXKFvzSC2qSlY7O" Name="AntennaType" UniqueId="6046f8c5-e0c8-543f-9f5c-302d1cbe21d8" PrimaryDataType="IfcLabel" />
+

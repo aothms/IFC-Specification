@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Deckenplattenbreite">
 			<Documentation>Breite der Unterdeckenplatten, oder -panele, die zur Verkleidung verwendet werden.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Tile Width"/>
+		<DocLocalization Locale="en" Name="Tile Width" />
 		<DocLocalization Locale="fr-FR" Name="Largeur des carreaux">
-			<Documentation>Largeur des carreaux de plafond. Cette propriété est donnée en complément de la représentation de la forme et des paramètres géométriques qui la déterminent. En cas d'incohérence entre ces paramètres géométriques et cette propriété, ce sont les paramètres géométriques qui priment.</Documentation>
+			<Documentation>Largeur des carreaux de plafond. Cette propriété est donnée en complément de la représentation de la forme et des paramètres géométriques qui la déterminent. En cas d&apos;incohérence entre ces paramètres géométriques et cette propriété, ce sont les paramètres géométriques qui priment.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="zh-CN" Name="面砖宽度">
 			<Documentation>天花板面砖的宽度。
@@ -14,3 +14,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OperatingTime_3uHmyrvpDQwOvsCP5nfheB" Name="OperatingTime" UniqueId="f8470f35-e733-5ae9-8e76-319171a6ba0b" QuantityType="q_time"/>
+<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OperatingTime_3uHmyrvpDQwOvsCP5nfheB" Name="OperatingTime" UniqueId="f8470f35-e733-5ae9-8e76-319171a6ba0b" QuantityType="q_time" />
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HeatingWetBulb_3urok0qV4HuO00025QrEV" Name="HeatingWetBulb" UniqueId="f8d72b80-d1f1-11e1-8000-00215ad4efdf" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Heating Wet Bulb"/>
+		<DocLocalization Locale="en" Name="Heating Wet Bulb" />
 		<DocLocalization Locale="ja-JP" Name="暖房用設計外気湿球温度">
 			<Documentation>暖房用設計用外気湿球温度。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

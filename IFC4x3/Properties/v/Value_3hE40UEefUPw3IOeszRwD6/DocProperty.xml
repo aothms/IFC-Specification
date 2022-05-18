@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Value_3hE40UEefUPw3IOeszRwD6" Name="Value" UniqueId="eb38401e-3a8a-5e67-a0d2-628dbd6fa346" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Value_3hE40UEefUPw3IOeszRwD6" Name="Value" UniqueId="eb38401e-3a8a-5e67-a0d2-628dbd6fa346" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+
