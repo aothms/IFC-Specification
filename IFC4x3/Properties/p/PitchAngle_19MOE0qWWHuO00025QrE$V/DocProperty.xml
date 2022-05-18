@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PitchAngle_19MOE0qWWHuO00025QrEV" Name="PitchAngle" UniqueId="19MOE0qWWHuO00025QrE$V" PrimaryDataType="IfcPlaneAngleMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PitchAngle_19MOE0qWWHuO00025QrEV" Name="PitchAngle" UniqueId="49598380-d208-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPlaneAngleMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Dachflächenneigung">
 			<Documentation>Neigungswinkel der Decke gegenüber der Horizontalen wenn es sich um eine Dachfläche handelt. Angabe 0 Grad definiert eine horizontale Fläche.

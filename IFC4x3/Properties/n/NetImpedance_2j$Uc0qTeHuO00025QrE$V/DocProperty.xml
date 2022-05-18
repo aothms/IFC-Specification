@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NetImpedance_2jUc0qTeHuO00025QrEV" Name="NetImpedance" UniqueId="2j$Uc0qTeHuO00025QrE$V" PrimaryDataType="IfcElectricResistanceMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NetImpedance_2jUc0qTeHuO00025QrEV" Name="NetImpedance" UniqueId="adfde980-d1da-11e1-8000-00215ad4efdf" PrimaryDataType="IfcElectricResistanceMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Net Impedance" />
 		<DocLocalization Locale="ja-JP" Name="ネットインピーダンス">

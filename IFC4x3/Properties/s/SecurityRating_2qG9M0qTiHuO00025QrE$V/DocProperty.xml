@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SecurityRating_2qG9M0qTiHuO00025QrEV" Name="SecurityRating" UniqueId="2qG9M0qTiHuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SecurityRating_2qG9M0qTiHuO00025QrEV" Name="SecurityRating" UniqueId="b4409580-d1db-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Widerstandsklasse">
 			<Documentation>Widerstandsklasse für den Einbruchschutz gemäß der nationalen oder regionalen Richtlinie die als Mindestanforderung für die Einbruchhemmung der Tür gewährleistet sein muss.</Documentation>

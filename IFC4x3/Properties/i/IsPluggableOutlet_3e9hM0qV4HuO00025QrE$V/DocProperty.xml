@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsPluggableOutlet_3e9hM0qV4HuO00025QrEV" Name="IsPluggableOutlet" UniqueId="3e9hM0qV4HuO00025QrE$V" PrimaryDataType="IfcLogical">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsPluggableOutlet_3e9hM0qV4HuO00025QrEV" Name="IsPluggableOutlet" UniqueId="e826b580-d1f1-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLogical">
 	<Localization>
 		<DocLocalization Locale="en" Name="Is Pluggable Outlet" />
 		<DocLocalization Locale="ja-JP" Name="プラグ接続可否">

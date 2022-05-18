@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AmplifierType_3Nzk80qS4HuO00025QrEV" Name="AmplifierType" UniqueId="3Nzk80qS4HuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AmplifierType_3Nzk80qS4HuO00025QrEV" Name="AmplifierType" UniqueId="d7f6e200-d1c1-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Amplifier Type" />
 		<DocLocalization Locale="ja-JP" Name="アンプ形式">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ReinforcementBarType_3rIg40qVyHuO00025QrEV" Name="ReinforcementBarType" UniqueId="3rIg40qVyHuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ReinforcementBarType_3rIg40qVyHuO00025QrEV" Name="ReinforcementBarType" UniqueId="f54aa100-d1ff-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Reinforcement Bar Type" />
 		<DocLocalization Locale="ja-JP" Name="補強筋タイプ">

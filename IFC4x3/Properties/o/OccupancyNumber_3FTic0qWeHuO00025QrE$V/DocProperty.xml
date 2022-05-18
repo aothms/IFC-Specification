@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OccupancyNumber_3FTic0qWeHuO00025QrEV" Name="OccupancyNumber" UniqueId="3FTic0qWeHuO00025QrE$V" PrimaryDataType="IfcCountMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OccupancyNumber_3FTic0qWeHuO00025QrEV" Name="OccupancyNumber" UniqueId="cf76c980-d20a-11e1-8000-00215ad4efdf" PrimaryDataType="IfcCountMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Belegung">
 			<Documentation>Durchschnittliche Anzahl der Personen für deren  Aktivitäten der Raum vorgesehen ist.</Documentation>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShadingDeviceType_1TwKm0qWSHuO00025QrEV" Name="ShadingDeviceType" UniqueId="1TwKm0qWSHuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShadingDeviceType_1TwKm0qWSHuO00025QrEV" Name="ShadingDeviceType" UniqueId="5de94c00-d207-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Sonnenschutztyp" />
 		<DocLocalization Locale="en" Name="Shading Device Type" />

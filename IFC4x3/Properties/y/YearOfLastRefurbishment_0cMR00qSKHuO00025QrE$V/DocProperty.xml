@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="YearOfLastRefurbishment_0cMR00qSKHuO00025QrEV" Name="YearOfLastRefurbishment" UniqueId="0cMR00qSKHuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="YearOfLastRefurbishment_0cMR00qSKHuO00025QrEV" Name="YearOfLastRefurbishment" UniqueId="2659b000-d1c5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="letztes Renovierungsjahr">
 			<Documentation>Jahr der letzten Renovierung des Gebäudes.</Documentation>

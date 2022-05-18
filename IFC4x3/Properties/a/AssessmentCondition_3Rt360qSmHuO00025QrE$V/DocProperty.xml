@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AssessmentCondition_3Rt360qSmHuO00025QrEV" Name="AssessmentCondition" UniqueId="3Rt360qSmHuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AssessmentCondition_3Rt360qSmHuO00025QrEV" Name="AssessmentCondition" UniqueId="dbdc3180-d1cc-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Assessment Condition" />
 		<DocLocalization Locale="ja-JP" Name="評価状態">

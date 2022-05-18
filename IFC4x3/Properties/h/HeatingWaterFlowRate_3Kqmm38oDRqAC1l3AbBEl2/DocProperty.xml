@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HeatingWaterFlowRate_3Kqmm38oDRqAC1l3AbBEl2" Name="HeatingWaterFlowRate" UniqueId="d4d30c03-2323-5bd0-a301-bc32a52cebc2" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

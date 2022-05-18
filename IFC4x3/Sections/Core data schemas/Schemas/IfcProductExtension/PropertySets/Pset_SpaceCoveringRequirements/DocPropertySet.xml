@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceCoveringRequirements" UniqueId="7e5e0c89-424f-46bf-a2bb-cd0cf72e03c4" ApplicableType="IfcSpace" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
-	<Localization>
-		<DocLocalization Locale="de-DE">
-			<Documentation>Eigenschaften der Bekleidungen des Raumes.
-
-Diese Eigenschaften werden als Anforderungen in frühen Phasen im Raumprogramm geführt und können für spätere Phasen als Informationen für das Raumbuch dienen, falls die Bekleidungen nicht als eigenständige Elemente angelegt werden.</Documentation>
-		</DocLocalization>
-		<DocLocalization Locale="en" Name="Space Covering Requirements" />
-		<DocLocalization Locale="ja-JP">
-			<Documentation>IfcSpace（部屋）の仕上げ(Covering)の共通属性。プロジェクト初期の空間計画からの仕上げ要求仕様情報を設定する。もし。Coveringオブジェクトが生成されていない場合は、このプロパティセットの情報は仕上げ表作成に使用することができる。</Documentation>
-		</DocLocalization>
-	</Localization>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceCoveringRequirements" UniqueId="7e5e0c89-424f-46bf-a2bb-cd0cf72e03c4" ApplicableType="IfcSpatialElement" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Properties>
 		<DocProperty xsi:nil="true" href="FloorCovering_2qVQcoWX429aMNJ7Te4Wn" />
 		<DocProperty xsi:nil="true" href="FloorCoveringThickness_2MKCJJm7zCp9O57i9dmav" />

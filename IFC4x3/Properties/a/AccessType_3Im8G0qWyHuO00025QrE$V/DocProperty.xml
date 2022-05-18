@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AccessType_3Im8G0qWyHuO00025QrEV" Name="AccessType" UniqueId="3Im8G0qWyHuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AccessType_3Im8G0qWyHuO00025QrEV" Name="AccessType" UniqueId="d2c08400-d20f-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Access Type" />
 		<DocLocalization Locale="ja-JP" Name="点検タイプ">

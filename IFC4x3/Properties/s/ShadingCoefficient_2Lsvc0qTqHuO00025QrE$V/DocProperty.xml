@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShadingCoefficient_2Lsvc0qTqHuO00025QrEV" Name="ShadingCoefficient" UniqueId="2Lsvc0qTqHuO00025QrE$V" PrimaryDataType="IfcNormalisedRatioMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShadingCoefficient_2Lsvc0qTqHuO00025QrEV" Name="ShadingCoefficient" UniqueId="95db9980-d1dd-11e1-8000-00215ad4efdf" PrimaryDataType="IfcNormalisedRatioMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="mittlere Durchlassfaktor b">
 			<Documentation>Das Verhältnis aus g-Wert der jeweiligen Verglasung und dem g-Wert eines Zweischeiben-Normalglasfensters.

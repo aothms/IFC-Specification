@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalParticleGeometricStandardDeviation_02yoq0qUOHuO00025QrEV" Name="NominalParticleGeometricStandardDeviation" UniqueId="02yoq0qUOHuO00025QrE$V" PrimaryDataType="IfcReal">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalParticleGeometricStandardDeviation_02yoq0qUOHuO00025QrEV" Name="NominalParticleGeometricStandardDeviation" UniqueId="02f32d00-d1e6-11e1-8000-00215ad4efdf" PrimaryDataType="IfcReal">
 	<Localization>
 		<DocLocalization Locale="en" Name="Nominal Particle Geometric Standard Deviation" />
 	</Localization>

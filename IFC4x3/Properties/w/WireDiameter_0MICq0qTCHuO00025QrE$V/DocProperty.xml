@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WireDiameter_0MICq0qTCHuO00025QrEV" Name="WireDiameter" UniqueId="0MICq0qTCHuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WireDiameter_0MICq0qTCHuO00025QrEV" Name="WireDiameter" UniqueId="1648cd00-d1d3-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Wire Diameter" />
 		<DocLocalization Locale="ja-JP" Name="ワイヤー径">

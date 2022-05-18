@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FlammabilityRating_0qOFu0qT0HuO00025QrEV" Name="FlammabilityRating" UniqueId="0qOFu0qT0HuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FlammabilityRating_0qOFu0qT0HuO00025QrEV" Name="FlammabilityRating" UniqueId="3460fe00-d1d0-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Entflammbarkeitsklasse">
 			<Documentation>Angabe zur Entflammbarkeit des Materials gemäß der nationalen oder regionalen Normen.</Documentation>

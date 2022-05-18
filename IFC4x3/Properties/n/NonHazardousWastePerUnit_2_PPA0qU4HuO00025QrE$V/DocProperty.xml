@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NonHazardousWastePerUnit_2_PPA0qU4HuO00025QrEV" Name="NonHazardousWastePerUnit" UniqueId="2_PPA0qU4HuO00025QrE$V" PrimaryDataType="IfcMassMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NonHazardousWastePerUnit_2_PPA0qU4HuO00025QrEV" Name="NonHazardousWastePerUnit" UniqueId="be659280-d1e1-11e1-8000-00215ad4efdf" PrimaryDataType="IfcMassMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Non Hazardous Waste Per Unit" />
 		<DocLocalization Locale="fr-FR" Name="DechetsNonDangereuxParUnite">

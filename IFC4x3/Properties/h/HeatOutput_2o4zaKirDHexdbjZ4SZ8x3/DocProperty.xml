@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HeatOutput_2o4zaKirDHexdbjZ4SZ8x3" Name="HeatOutput" UniqueId="b213d914-b353-51a3-b9e5-b6311c8c8ec3" PropertyType="p_tablevalue" PrimaryDataType="IfcThermodynamicTemperatureMeasure" SecondaryDataType="IfcEnergyMeasure" />
+

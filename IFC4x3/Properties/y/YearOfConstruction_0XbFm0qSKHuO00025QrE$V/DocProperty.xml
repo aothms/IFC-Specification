@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="YearOfConstruction_0XbFm0qSKHuO00025QrEV" Name="YearOfConstruction" UniqueId="0XbFm0qSKHuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="YearOfConstruction_0XbFm0qSKHuO00025QrEV" Name="YearOfConstruction" UniqueId="2194fc00-d1c5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Baujahr">
 			<Documentation>Jahr der Errichtung des Gebäudes, einschließliich des Jahres der geplanten Fertigstellung.</Documentation>

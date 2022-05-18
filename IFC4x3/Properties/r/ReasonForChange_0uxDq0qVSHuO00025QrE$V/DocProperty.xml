@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ReasonForChange_0uxDq0qVSHuO00025QrEV" Name="ReasonForChange" UniqueId="0uxDq0qVSHuO00025QrE$V" PrimaryDataType="IfcText">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ReasonForChange_0uxDq0qVSHuO00025QrEV" Name="ReasonForChange" UniqueId="38ecdd00-d1f7-11e1-8000-00215ad4efdf" PrimaryDataType="IfcText">
 	<Localization>
 		<DocLocalization Locale="en" Name="Reason For Change" />
 		<DocLocalization Locale="ja-JP" Name="変更理由">

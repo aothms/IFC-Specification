@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirTerminalMountingType_0J9Ek5fUfODgBMbHKSVECX" Name="AirTerminalMountingType" UniqueId="1324eb85-a5ea-5836-a2d6-95151c7ce321" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_AirTerminalMountingType" />
+</DocProperty>
+

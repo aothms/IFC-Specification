@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PatternType_0KKIy0qX0HuO00025QrEV" Name="PatternType" UniqueId="0KKIy0qX0HuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PatternType_0KKIy0qX0HuO00025QrEV" Name="PatternType" UniqueId="14512f00-d210-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Pattern Type" />
 		<DocLocalization Locale="ja-JP" Name="パターンタイプ">

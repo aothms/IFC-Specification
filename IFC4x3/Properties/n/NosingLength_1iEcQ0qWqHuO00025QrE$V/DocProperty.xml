@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NosingLength_1iEcQ0qWqHuO00025QrEV" Name="NosingLength" UniqueId="1iEcQ0qWqHuO00025QrE$V" PrimaryDataType="IfcLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NosingLength_1iEcQ0qWqHuO00025QrEV" Name="NosingLength" UniqueId="6c3a6680-d20d-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Überstand">
 			<Documentation>German-description-6</Documentation>

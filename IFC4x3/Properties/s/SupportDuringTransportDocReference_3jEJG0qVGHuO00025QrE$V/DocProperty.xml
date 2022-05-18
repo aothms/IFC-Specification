@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SupportDuringTransportDocReference_3jEJG0qVGHuO00025QrEV" Name="SupportDuringTransportDocReference" UniqueId="3jEJG0qVGHuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcExternalReference">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SupportDuringTransportDocReference_3jEJG0qVGHuO00025QrEV" Name="SupportDuringTransportDocReference" UniqueId="ed393400-d1f4-11e1-8000-00215ad4efdf" PropertyType="p_referencevalue" PrimaryDataType="IfcExternalReference">
 	<Localization>
 		<DocLocalization Locale="en" Name="Support During Transport Doc Reference" />
 		<DocLocalization Locale="ja-JP" Name="輸送中の支持に関する参考文献">

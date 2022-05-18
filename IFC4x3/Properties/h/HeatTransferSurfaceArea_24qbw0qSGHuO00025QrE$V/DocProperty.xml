@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HeatTransferSurfaceArea_24qbw0qSGHuO00025QrEV" Name="HeatTransferSurfaceArea" UniqueId="24qbw0qSGHuO00025QrE$V" PrimaryDataType="IfcAreaMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HeatTransferSurfaceArea_24qbw0qSGHuO00025QrEV" Name="HeatTransferSurfaceArea" UniqueId="84d25e80-d1c4-11e1-8000-00215ad4efdf" PrimaryDataType="IfcAreaMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Heat Transfer Surface Area" />
 		<DocLocalization Locale="fr-FR" Name="SurfaceEchangeChaleur">

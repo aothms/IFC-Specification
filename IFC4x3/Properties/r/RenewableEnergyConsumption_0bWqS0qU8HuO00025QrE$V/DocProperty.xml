@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RenewableEnergyConsumption_0bWqS0qU8HuO00025QrEV" Name="RenewableEnergyConsumption" UniqueId="0bWqS0qU8HuO00025QrE$V" PrimaryDataType="IfcEnergyMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RenewableEnergyConsumption_0bWqS0qU8HuO00025QrEV" Name="RenewableEnergyConsumption" UniqueId="25834700-d1e2-11e1-8000-00215ad4efdf" PrimaryDataType="IfcEnergyMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Renewable Energy Consumption" />
 		<DocLocalization Locale="fr-FR" Name="ConsommationEnergieRenouvelable">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VideoResolutionMode_0UJ440qS8HuO00025QrEV" Name="VideoResolutionMode" UniqueId="0UJ440qS8HuO00025QrE$V" PropertyType="p_tablevalue" PrimaryDataType="IfcIdentifier" SecondaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VideoResolutionMode_0UJ440qS8HuO00025QrEV" Name="VideoResolutionMode" UniqueId="1e4c4100-d1c2-11e1-8000-00215ad4efdf" PropertyType="p_tablevalue" PrimaryDataType="IfcIdentifier" SecondaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Video Resolution Mode" />
 		<DocLocalization Locale="ja-JP" Name="ビデオ解像度モード">

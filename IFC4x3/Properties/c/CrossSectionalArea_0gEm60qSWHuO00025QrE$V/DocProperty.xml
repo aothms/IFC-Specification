@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CrossSectionalArea_0gEm60qSWHuO00025QrEV" Name="CrossSectionalArea" UniqueId="0gEm60qSWHuO00025QrE$V" PrimaryDataType="IfcAreaMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CrossSectionalArea_0gEm60qSWHuO00025QrEV" Name="CrossSectionalArea" UniqueId="2a3b0180-d1c8-11e1-8000-00215ad4efdf" PrimaryDataType="IfcAreaMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Cross Sectional Area" />
 		<DocLocalization Locale="ja-JP" Name="断面積">

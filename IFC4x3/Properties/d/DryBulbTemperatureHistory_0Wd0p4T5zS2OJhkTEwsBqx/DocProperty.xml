@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DryBulbTemperatureHistory_0Wd0p4T5zS2OJhkTEwsBqx" Name="DryBulbTemperatureHistory" UniqueId="209c0cc4-745f-5c09-84eb-b9d3bad8bd3b" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

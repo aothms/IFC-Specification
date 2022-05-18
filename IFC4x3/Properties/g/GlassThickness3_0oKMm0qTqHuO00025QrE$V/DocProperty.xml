@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="GlassThickness3_0oKMm0qTqHuO00025QrEV" Name="GlassThickness3" UniqueId="0oKMm0qTqHuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="GlassThickness3_0oKMm0qTqHuO00025QrEV" Name="GlassThickness3" UniqueId="32516c00-d1dd-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="German-name-4">
 			<Documentation>German-description-4</Documentation>

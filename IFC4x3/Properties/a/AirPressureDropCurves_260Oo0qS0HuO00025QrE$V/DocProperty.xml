@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirPressureDropCurves_260Oo0qS0HuO00025QrEV" Name="AirPressureDropCurves" UniqueId="260Oo0qS0HuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirPressureDropCurves_260Oo0qS0HuO00025QrEV" Name="AirPressureDropCurves" UniqueId="86018c80-d1c0-11e1-8000-00215ad4efdf" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries">
 	<Localization>
 		<DocLocalization Locale="en" Name="Air Pressure Drop Curves" />
 		<DocLocalization Locale="fr-FR" Name="CourbesPerteChargeAir">

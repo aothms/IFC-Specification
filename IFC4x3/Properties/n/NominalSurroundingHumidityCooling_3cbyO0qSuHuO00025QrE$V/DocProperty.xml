@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalSurroundingHumidityCooling_3cbyO0qSuHuO00025QrEV" Name="NominalSurroundingHumidityCooling" UniqueId="3cbyO0qSuHuO00025QrE$V" PrimaryDataType="IfcNormalisedRatioMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalSurroundingHumidityCooling_3cbyO0qSuHuO00025QrEV" Name="NominalSurroundingHumidityCooling" UniqueId="e697c600-d1ce-11e1-8000-00215ad4efdf" PrimaryDataType="IfcNormalisedRatioMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Nominal Surrounding Humidity Cooling" />
 	</Localization>

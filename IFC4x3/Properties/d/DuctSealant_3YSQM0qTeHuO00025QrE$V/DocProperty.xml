@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DuctSealant_3YSQM0qTeHuO00025QrEV" Name="DuctSealant" UniqueId="3YSQM0qTeHuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcMaterialDefinition">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DuctSealant_3YSQM0qTeHuO00025QrEV" Name="DuctSealant" UniqueId="e271a580-d1da-11e1-8000-00215ad4efdf" PropertyType="p_referencevalue" PrimaryDataType="IfcMaterialDefinition">
 	<Localization>
 		<DocLocalization Locale="en" Name="Duct Sealant" />
 		<DocLocalization Locale="ja-JP" Name="ダクトの密閉性">

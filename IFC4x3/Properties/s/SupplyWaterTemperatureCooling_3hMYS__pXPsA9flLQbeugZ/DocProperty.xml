@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SupplyWaterTemperatureCooling_3hMYS__pXPsA9flLQbeugZ" Name="SupplyWaterTemperatureCooling" UniqueId="eb5a273e-fb38-59d8-a269-bd56a5a38aa3" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

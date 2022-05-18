@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AnchorBoltProtrusionLength_3OypW0qV0HuO00025QrEV" Name="AnchorBoltProtrusionLength" UniqueId="3OypW0qV0HuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AnchorBoltProtrusionLength_3OypW0qV0HuO00025QrEV" Name="AnchorBoltProtrusionLength" UniqueId="d8f33800-d1f0-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Anchor Bolt Protrusion Length" />
 		<DocLocalization Locale="ko-KR" Name="돌출부 길이">

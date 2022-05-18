@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OutletTemperatureRange_2ZqF20qSGHuO00025QrEV" Name="OutletTemperatureRange" UniqueId="2ZqF20qSGHuO00025QrE$V" PropertyType="p_boundedvalue" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OutletTemperatureRange_2ZqF20qSGHuO00025QrEV" Name="OutletTemperatureRange" UniqueId="a3d0f080-d1c4-11e1-8000-00215ad4efdf" PropertyType="p_boundedvalue" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Outlet Temperature Range" />
 		<DocLocalization Locale="fr-FR" Name="PlageTempératureSortie">

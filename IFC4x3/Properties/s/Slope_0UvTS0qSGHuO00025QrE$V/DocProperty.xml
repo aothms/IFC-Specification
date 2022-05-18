@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Slope_0UvTS0qSGHuO00025QrEV" Name="Slope" UniqueId="0UvTS0qSGHuO00025QrE$V" PrimaryDataType="IfcPlaneAngleMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Slope_0UvTS0qSGHuO00025QrEV" Name="Slope" UniqueId="1ee5d700-d1c4-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPlaneAngleMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Neigungswinkel">
 			<Documentation>Neigungswinkel des Balkens relative zur Horizontalen (0 Grad).

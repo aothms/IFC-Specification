@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AboveGround_29uzs0qSKHuO00025QrEV" Name="AboveGround" UniqueId="29uzs0qSKHuO00025QrE$V" PrimaryDataType="IfcLogical">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AboveGround_29uzs0qSKHuO00025QrEV" Name="AboveGround" UniqueId="89e3dd80-d1c5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLogical">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Oberirdisches Geschoss">
 			<Documentation>Angabe, ob dieses Geschoss vollständig überhalb oberirdisch ist (WAHR), vollständig unterirdisch (FALSCH), oder teilweise unter- und überirdisch (UNKNOWN).</Documentation>

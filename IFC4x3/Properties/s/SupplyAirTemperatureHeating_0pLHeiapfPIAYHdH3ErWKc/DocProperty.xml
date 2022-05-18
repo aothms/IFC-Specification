@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SupplyAirTemperatureHeating_0pLHeiapfPIAYHdH3ErWKc" Name="SupplyAirTemperatureHeating" UniqueId="33551a2c-933a-5948-a891-9d10ced60526" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CapacityPeople_003Z60qX8HuO00025QrEV" Name="CapacityPeople" UniqueId="003Z60qX8HuO00025QrE$V" PrimaryDataType="IfcCountMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CapacityPeople_003Z60qX8HuO00025QrEV" Name="CapacityPeople" UniqueId="000e3180-d212-11e1-8000-00215ad4efdf" PrimaryDataType="IfcCountMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Personenkapazität">
 			<Documentation>Kapazität nach Anzahl der Personen, die maximal befördert werden können.</Documentation>

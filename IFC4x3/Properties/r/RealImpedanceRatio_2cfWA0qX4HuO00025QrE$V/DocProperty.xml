@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RealImpedanceRatio_2cfWA0qX4HuO00025QrEV" Name="RealImpedanceRatio" UniqueId="2cfWA0qX4HuO00025QrE$V" PrimaryDataType="IfcRatioMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RealImpedanceRatio_2cfWA0qX4HuO00025QrEV" Name="RealImpedanceRatio" UniqueId="a6a60280-d211-11e1-8000-00215ad4efdf" PrimaryDataType="IfcRatioMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Real Impedance Ratio" />
 		<DocLocalization Locale="ja-JP" Name="インピーダンス実部比率">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalFilterFaceVelocity_3gWnA0qUKHuO00025QrEV" Name="NominalFilterFaceVelocity" UniqueId="3gWnA0qUKHuO00025QrE$V" PrimaryDataType="IfcLinearVelocityMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalFilterFaceVelocity_3gWnA0qUKHuO00025QrEV" Name="NominalFilterFaceVelocity" UniqueId="ea831280-d1e5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLinearVelocityMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Nominal Filter Face Velocity" />
 	</Localization>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FlushType_24yKy0qW8HuO00025QrEV" Name="FlushType" UniqueId="24yKy0qW8HuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FlushType_24yKy0qW8HuO00025QrEV" Name="FlushType" UniqueId="84f14f00-d202-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Flush Type" />
 		<DocLocalization Locale="ja-JP" Name="タイプフラッシュ">

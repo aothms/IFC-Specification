@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CombustionChamberTemperature_2tctXjiDrNwOfZO6TkCUls" Name="CombustionChamberTemperature" UniqueId="b79b786d-b0dd-57e9-8a63-60676e31ebf6" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

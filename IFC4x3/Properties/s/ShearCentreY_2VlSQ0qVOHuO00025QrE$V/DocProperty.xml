@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShearCentreY_2VlSQ0qVOHuO00025QrEV" Name="ShearCentreY" UniqueId="2VlSQ0qVOHuO00025QrE$V" PrimaryDataType="IfcLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShearCentreY_2VlSQ0qVOHuO00025QrEV" Name="ShearCentreY" UniqueId="9fbdc680-d1f6-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Shear Centre Y" />
 	</Localization>

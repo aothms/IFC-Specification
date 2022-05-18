@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceThermalLoad" UniqueId="1efU00qWiHuO00025QrE$V" ApplicableType="IfcSpace" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
-	<Localization>
-		<DocLocalization Locale="en" Name="Space Thermal Load" />
-		<DocLocalization Locale="ja-JP">
-			<Documentation>室内熱負荷は居室或いはゾーンの全ての熱ロスと熱取得を定義する。熱取得の要因属性は熱負荷の各因子を示している。最大値、最小値、時間変動など。</Documentation>
-		</DocLocalization>
-	</Localization>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceThermalLoad" UniqueId="1efU00qWiHuO00025QrE$V" ApplicableType="IfcSpatialElement" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Properties>
 		<DocProperty xsi:nil="true" href="People_1k0og0qWiHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="Lighting_1qaQ80qWiHuO00025QrEV" />
@@ -15,7 +9,7 @@
 		<DocProperty xsi:nil="true" href="RecirculatedAir_2N8xi0qWiHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="ExhaustAir_2TiZA0qWiHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="AirExchangeRate_2asK20qWiHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="DryBulbTemperature_2gxK0qWiHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="DryBulbTemperature_1GaEkqzrGXulGPLaSXhAG" />
 		<DocProperty xsi:nil="true" href="RelativeHumidity_36qiC0qWiHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="InfiltrationSensible_3EacU0qWiHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="TotalSensibleLoad_3MKWm0qWiHuO00025QrEV" />

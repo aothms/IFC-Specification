@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NumberOfDrafts_1NE_G0qSaHuO00025QrEV" Name="NumberOfDrafts" UniqueId="1NE_G0qSaHuO00025QrE$V" PrimaryDataType="IfcCountMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NumberOfDrafts_1NE_G0qSaHuO00025QrEV" Name="NumberOfDrafts" UniqueId="573be400-d1c9-11e1-8000-00215ad4efdf" PrimaryDataType="IfcCountMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Zügigkeit">
 			<Documentation>Anzahl der Schornsteinzüge innerhalb eines Schornsteins. Gewöhnlich ein-, zwei, drei oder vierzügig.</Documentation>

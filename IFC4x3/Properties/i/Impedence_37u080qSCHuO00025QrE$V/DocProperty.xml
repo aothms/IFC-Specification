@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Impedence_37u080qSCHuO00025QrEV" Name="Impedence" UniqueId="37u080qSCHuO00025QrE$V" PrimaryDataType="IfcFrequencyMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Impedence_37u080qSCHuO00025QrEV" Name="Impedence" UniqueId="c7e00200-d1c3-11e1-8000-00215ad4efdf" PrimaryDataType="IfcFrequencyMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Impedence" />
 		<DocLocalization Locale="ja-JP" Name="インピーダンス値">

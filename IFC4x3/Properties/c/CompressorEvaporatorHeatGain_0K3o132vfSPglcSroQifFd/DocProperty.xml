@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CompressorEvaporatorHeatGain_0K3o132vfSPglcSroQifFd" Name="CompressorEvaporatorHeatGain" UniqueId="140f2043-0b9a-5c66-abe6-735c9ab293e7" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" />
+

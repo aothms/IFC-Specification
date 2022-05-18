@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ThermalTrippingUnitType_3Ziye0qVmHuO00025QrEV" Name="ThermalTrippingUnitType" UniqueId="3Ziye0qVmHuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ThermalTrippingUnitType_3Ziye0qVmHuO00025QrEV" Name="ThermalTrippingUnitType" UniqueId="e3b3ca00-d1fc-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Thermal Tripping Unit Type" />
 		<DocLocalization Locale="ja-JP" Name="サーマルトリップ装置タイプ">

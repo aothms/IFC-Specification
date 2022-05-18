@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HeatingTemperatureDelta_0zuMg0qRuHuO00025QrEV" Name="HeatingTemperatureDelta" UniqueId="0zuMg0qRuHuO00025QrE$V" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HeatingTemperatureDelta_0zuMg0qRuHuO00025QrEV" Name="HeatingTemperatureDelta" UniqueId="3de16a80-d1be-11e1-8000-00215ad4efdf" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Heating Temperature Delta" />
 		<DocLocalization Locale="ja-JP" Name="暖房時送風温度差">
