@@ -5,5 +5,3 @@ Status of the element, predominately used in renovation or retrofitting projects
 
 
 Indicates an error code or identifier, whose meaning is specific to the particular automation system. Example values include: 'ConfigurationError', 'NotConnected', 'DeviceFailure', 'SensorFailure', 'LastKnown, 'CommunicationsFailure', 'OutOfService'.
-
-

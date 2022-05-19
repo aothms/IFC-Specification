@@ -5,5 +5,3 @@ Total gross volume of the object. Openings, recesses, enclosed objects and proje
 
 
 Including material placed and wasted.
-
-

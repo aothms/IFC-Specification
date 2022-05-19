@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Reference_2nEgg0qSKHuO00025QrEV" Name="Reference" UniqueId="2nEgg0qSKHuO00025QrE$V" PrimaryDataType="IfcIdentifier">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Reference" UniqueId="2nEgg0qSKHuO00025QrE$V" PrimaryDataType="IfcIdentifier">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Kennzeichen">
 			<Documentation>Kennzeichen für diese bauliche System in dem Projekt (z.B. &apos;TRA/EL1&apos;). Die Kennzeichensystematik hängt von den jeweiligen nationalen/regionalen Regelungen ab.</Documentation>

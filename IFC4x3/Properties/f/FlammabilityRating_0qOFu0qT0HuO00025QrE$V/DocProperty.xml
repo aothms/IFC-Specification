@@ -4,12 +4,13 @@
 		<DocLocalization Locale="de-DE" Name="Entflammbarkeitsklasse">
 			<Documentation>Angabe zur Entflammbarkeit des Materials gemäß der nationalen oder regionalen Normen.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Flammability Rating"/>
+		<DocLocalization Locale="en" Name="Flammability Rating" />
 		<DocLocalization Locale="fr-FR" Name="Inflammabilité">
-			<Documentation>Classement de l'inflammabilité de l'élément selon la classification nationale de sécurité incendie.</Documentation>
+			<Documentation>Classement de l&apos;inflammabilité de l&apos;élément selon la classification nationale de sécurité incendie.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="可燃性等級">
 			<Documentation>可燃性等級。当該国の建築法規による。</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

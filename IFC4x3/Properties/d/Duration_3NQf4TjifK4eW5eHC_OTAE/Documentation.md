@@ -5,4 +5,3 @@ Duration.
 
 
 Duration of process.
-

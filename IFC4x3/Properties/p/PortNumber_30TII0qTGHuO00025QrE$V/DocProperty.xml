@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PortNumber_30TII0qTGHuO00025QrEV" Name="PortNumber" UniqueId="30TII0qTGHuO00025QrE$V" PrimaryDataType="IfcInteger">
 	<Localization>
-		<DocLocalization Locale="en" Name="Port Number"/>
+		<DocLocalization Locale="en" Name="Port Number" />
 		<DocLocalization Locale="ja-JP" Name="ポート番号">
 			<Documentation>ポートに含まれる要素、種類を示す番号。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

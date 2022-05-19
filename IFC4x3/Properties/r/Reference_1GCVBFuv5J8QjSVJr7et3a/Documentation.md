@@ -9,4 +9,3 @@ Reference ID for this specified type in this project (e.g. type 'A-1'), Also ref
 
 
 A descriptive label for the general reinforcement type.
-

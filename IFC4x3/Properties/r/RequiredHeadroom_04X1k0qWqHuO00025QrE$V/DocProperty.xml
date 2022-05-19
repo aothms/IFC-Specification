@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="erforderliche Durchgangshöhe">
 			<Documentation>German-description-6</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Required Headroom"/>
+		<DocLocalization Locale="en" Name="Required Headroom" />
 		<DocLocalization Locale="fr-FR" Name="HauteurPassageRequise">
 			<Documentation>Hauteur de passage (échappée) requise selon le Code en vigueur ou des spécifications additionnelles.</Documentation>
 		</DocLocalization>
@@ -16,3 +16,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -5,4 +5,3 @@ Total net volume of the object, taking into account possible processing features
 
 
 Total net volume of the element before applying product-level geometric features such as openings and projections.
-

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TemperatureRange_3jriW0qVuHuO00025QrEV" Name="TemperatureRange" UniqueId="3jriW0qVuHuO00025QrE$V" PropertyType="p_boundedvalue" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="TemperatureRange" UniqueId="3jriW0qVuHuO00025QrE$V" PropertyType="p_boundedvalue" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Temperature Range" />
 		<DocLocalization Locale="ja-JP" Name="温度範囲">

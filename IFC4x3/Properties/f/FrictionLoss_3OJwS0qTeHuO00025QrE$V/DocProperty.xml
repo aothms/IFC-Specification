@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FrictionLoss_3OJwS0qTeHuO00025QrEV" Name="FrictionLoss" UniqueId="3OJwS0qTeHuO00025QrE$V" PrimaryDataType="IfcReal">
 	<Localization>
-		<DocLocalization Locale="en" Name="Friction Loss"/>
+		<DocLocalization Locale="en" Name="Friction Loss" />
 		<DocLocalization Locale="ja-JP" Name="摩擦損失">
 			<Documentation>単位長さあたりの圧力損失（計測した圧力損失/ダクト長さ）。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

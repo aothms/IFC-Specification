@@ -5,5 +5,3 @@ Indicates whether the object has a protective earth connection (=TRUE) or not (=
 
 
 One core has protective earth marked insulation, Yellow/Green.
-
-

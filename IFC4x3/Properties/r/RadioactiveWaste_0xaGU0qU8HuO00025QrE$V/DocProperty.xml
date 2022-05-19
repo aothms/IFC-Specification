@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RadioactiveWaste_0xaGU0qU8HuO00025QrEV" Name="RadioactiveWaste" UniqueId="0xaGU0qU8HuO00025QrE$V" PrimaryDataType="IfcMassMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Radioactive Waste"/>
+		<DocLocalization Locale="en" Name="Radioactive Waste" />
 		<DocLocalization Locale="fr-FR" Name="DechetsRadioactifs">
 			<Documentation>Quantité de déchets radioactifs générés [NDT : selon la norme NF P01-010]</Documentation>
 		</DocLocalization>
@@ -13,3 +13,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

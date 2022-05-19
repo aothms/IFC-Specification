@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NeckAirVelocity_0khko0qRyHuO00025QrEV" Name="NeckAirVelocity" UniqueId="0khko0qRyHuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" SecondaryDataType="IfcLinearVelocityMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="NeckAirVelocity" UniqueId="0khko0qRyHuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" SecondaryDataType="IfcLinearVelocityMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Neck Air Velocity" />
 		<DocLocalization Locale="fr-FR" Name="Vitesse de l&apos;air au point le plus étroit">

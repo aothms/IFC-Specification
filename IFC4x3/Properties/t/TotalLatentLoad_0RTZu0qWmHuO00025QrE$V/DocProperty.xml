@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TotalLatentLoad_0RTZu0qWmHuO00025QrEV" Name="TotalLatentLoad" UniqueId="0RTZu0qWmHuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" SecondaryDataType="IfcPowerMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="TotalLatentLoad" UniqueId="0RTZu0qWmHuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" SecondaryDataType="IfcPowerMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Total Latent Load" />
 		<DocLocalization Locale="ja-JP" Name="潜熱負荷の合計">
