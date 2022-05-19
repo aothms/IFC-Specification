@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MoldingHeight_0U099eBbD7ihB51GlGFk4H" Name="MoldingHeight" UniqueId="1e009268-2e53-47b2-b2c5-050bd03ee111" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MoldingHeight_0U099eBbD7ihB51GlGFk4H" Name="MoldingHeight" UniqueId="0U099eBbD7ihB51GlGFk4H" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Höhe des Gesims">
 			<Documentation>Angabe der  Höhe des umlaufenden Gesims (Deckenkante). 

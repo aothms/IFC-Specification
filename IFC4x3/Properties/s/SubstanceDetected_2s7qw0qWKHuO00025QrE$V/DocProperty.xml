@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SubstanceDetected_2s7qw0qWKHuO00025QrEV" Name="SubstanceDetected" UniqueId="2s7qw0qWKHuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SubstanceDetected_2s7qw0qWKHuO00025QrEV" Name="SubstanceDetected" UniqueId="b61f4e80-d205-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Substance Detected" />
 		<DocLocalization Locale="ja-JP" Name="対象物質">

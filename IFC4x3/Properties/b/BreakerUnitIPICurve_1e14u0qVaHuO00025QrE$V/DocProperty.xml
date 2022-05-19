@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BreakerUnitIPICurve_1e14u0qVaHuO00025QrEV" Name="BreakerUnitIPICurve" UniqueId="1e14u0qVaHuO00025QrE$V" PropertyType="p_tablevalue" PrimaryDataType="IfcElectricCurrentMeasure" SecondaryDataType="IfcElectricCurrentMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BreakerUnitIPICurve_1e14u0qVaHuO00025QrEV" Name="BreakerUnitIPICurve" UniqueId="68044e00-d1f9-11e1-8000-00215ad4efdf" PropertyType="p_tablevalue" PrimaryDataType="IfcElectricCurrentMeasure" SecondaryDataType="IfcElectricCurrentMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Breaker Unit IPICurve" />
 		<DocLocalization Locale="ja-JP" Name="遮断機曲線">

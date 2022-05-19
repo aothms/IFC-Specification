@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalHeatTransferArea_1dOBq0qUCHuO00025QrEV" Name="NominalHeatTransferArea" UniqueId="1dOBq0qUCHuO00025QrE$V" PrimaryDataType="IfcAreaMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalHeatTransferArea_1dOBq0qUCHuO00025QrEV" Name="NominalHeatTransferArea" UniqueId="6760bd00-d1e3-11e1-8000-00215ad4efdf" PrimaryDataType="IfcAreaMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Nominal Heat Transfer Area" />
 		<DocLocalization Locale="ja-JP" Name="設計熱交換面積">

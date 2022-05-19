@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CenterlineAirVelocity_16Xd20qRyHuO00025QrEV" Name="CenterlineAirVelocity" UniqueId="16Xd20qRyHuO00025QrE$V" PropertyType="p_tablevalue" PrimaryDataType="IfcLinearVelocityMeasure" SecondaryDataType="IfcLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CenterlineAirVelocity_16Xd20qRyHuO00025QrEV" Name="CenterlineAirVelocity" UniqueId="46867080-d1bf-11e1-8000-00215ad4efdf" PropertyType="p_tablevalue" PrimaryDataType="IfcLinearVelocityMeasure" SecondaryDataType="IfcLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Centerline Air Velocity" />
 		<DocLocalization Locale="fr-FR" Name="Vitesse de l&apos;air en axe central de jet">

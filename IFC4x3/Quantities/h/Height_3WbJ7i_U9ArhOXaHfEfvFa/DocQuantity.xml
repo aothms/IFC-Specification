@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Height_3WbJ7i_U9ArhOXaHfEfvFa" Name="Height" UniqueId="e09531ec-f9e2-4ad6-b621-911a4ea793e4" QuantityType="q_length">
+<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Height" UniqueId="e09531ec-f9e2-4ad6-b621-911a4ea793e4" QuantityType="q_length">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Höhe">
 			<Documentation>Höhe der Wand. Der Wert wird nur angegeben, wenn die Höhe konstant ist.</Documentation>

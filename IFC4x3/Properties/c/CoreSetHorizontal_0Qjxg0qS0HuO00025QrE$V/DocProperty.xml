@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CoreSetHorizontal_0Qjxg0qS0HuO00025QrEV" Name="CoreSetHorizontal" UniqueId="0Qjxg0qS0HuO00025QrE$V" PrimaryDataType="IfcPlaneAngleMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CoreSetHorizontal_0Qjxg0qS0HuO00025QrEV" Name="CoreSetHorizontal" UniqueId="1ab7ba80-d1c0-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPlaneAngleMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Core Set Horizontal" />
 		<DocLocalization Locale="fr-FR" Name="PositionHorizontaleCentre">

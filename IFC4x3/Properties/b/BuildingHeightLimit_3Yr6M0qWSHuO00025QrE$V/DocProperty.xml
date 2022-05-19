@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BuildingHeightLimit_3Yr6M0qWSHuO00025QrEV" Name="BuildingHeightLimit" UniqueId="3Yr6M0qWSHuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BuildingHeightLimit_3Yr6M0qWSHuO00025QrEV" Name="BuildingHeightLimit" UniqueId="e2d46580-d207-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="maximale Bebauungshöhe">
 			<Documentation>Maximale Bebauungshöhe die auf diesem Grundstück zulässig ist.</Documentation>

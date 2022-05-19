@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ThrowLength_3K_l80qRyHuO00025QrEV" Name="ThrowLength" UniqueId="3K_l80qRyHuO00025QrE$V" PrimaryDataType="IfcLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ThrowLength_3K_l80qRyHuO00025QrEV" Name="ThrowLength" UniqueId="d4faf200-d1bf-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Throw Length" />
 		<DocLocalization Locale="fr-FR" Name="Longueur de jet">

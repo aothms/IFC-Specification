@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ContributedLuminousFlux_0Fna_0qUiHuO00025QrEV" Name="ContributedLuminousFlux" UniqueId="0Fna_0qUiHuO00025QrE$V" PrimaryDataType="IfcLuminousFluxMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ContributedLuminousFlux_0Fna_0qUiHuO00025QrEV" Name="ContributedLuminousFlux" UniqueId="0fc64f80-d1eb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLuminousFluxMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Contributed Luminous Flux" />
 		<DocLocalization Locale="ja-JP" Name="光束">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VacancyRateInCategoryNow_3JpCE0qSKHuO00025QrEV" Name="VacancyRateInCategoryNow" UniqueId="3JpCE0qSKHuO00025QrE$V" PrimaryDataType="IfcPositiveRatioMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VacancyRateInCategoryNow_3JpCE0qSKHuO00025QrEV" Name="VacancyRateInCategoryNow" UniqueId="d3ccc380-d1c5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveRatioMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Vacancy Rate In Category Now" />
 		<DocLocalization Locale="fr-FR" Name="TauxVacanceActuelParCategorie">

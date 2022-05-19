@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ConnectionSubtype_1A5cORvpX3_vdhIOgP0LY0" Name="ConnectionSubtype" UniqueId="4a16661b-e738-43fb-99eb-498a99015880" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ConnectionSubtype_1A5cORvpX3_vdhIOgP0LY0" Name="ConnectionSubtype" UniqueId="1A5cORvpX3_vdhIOgP0LY0" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Connection Subtype" />
 		<DocLocalization Locale="ja-JP" Name="接続サブタイプ">

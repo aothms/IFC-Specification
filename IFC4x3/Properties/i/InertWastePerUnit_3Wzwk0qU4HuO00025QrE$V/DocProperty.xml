@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="InertWastePerUnit_3Wzwk0qU4HuO00025QrEV" Name="InertWastePerUnit" UniqueId="3Wzwk0qU4HuO00025QrE$V" PrimaryDataType="IfcMassMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="InertWastePerUnit_3Wzwk0qU4HuO00025QrEV" Name="InertWastePerUnit" UniqueId="e0f7ab80-d1e1-11e1-8000-00215ad4efdf" PrimaryDataType="IfcMassMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Inert Waste Per Unit" />
 		<DocLocalization Locale="fr-FR" Name="DechetsInertesParUnite">

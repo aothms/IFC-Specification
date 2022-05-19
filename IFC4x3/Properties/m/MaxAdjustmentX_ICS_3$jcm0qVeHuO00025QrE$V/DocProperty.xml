@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MaxAdjustmentX_ICS_3jcm0qVeHuO00025QrEV" Name="MaxAdjustmentX_ICS" UniqueId="3$jcm0qVeHuO00025QrE$V" PrimaryDataType="IfcElectricCurrentMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MaxAdjustmentX_ICS_3jcm0qVeHuO00025QrEV" Name="MaxAdjustmentX_ICS" UniqueId="ffb66c00-d1fa-11e1-8000-00215ad4efdf" PrimaryDataType="IfcElectricCurrentMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Max Adjustment X_ ICS" />
 		<DocLocalization Locale="ja-JP" Name="最大調整X_ICS">

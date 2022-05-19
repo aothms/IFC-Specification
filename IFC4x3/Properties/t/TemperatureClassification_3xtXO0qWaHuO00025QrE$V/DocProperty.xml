@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TemperatureClassification_3xtXO0qWaHuO00025QrEV" Name="TemperatureClassification" UniqueId="3xtXO0qWaHuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TemperatureClassification_3xtXO0qWaHuO00025QrEV" Name="TemperatureClassification" UniqueId="fbde1600-d209-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Temperature Classification" />
 		<DocLocalization Locale="ja-JP" Name="温度分類">

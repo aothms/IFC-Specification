@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RequiredSlope_1C0wi0qVyHuO00025QrEV" Name="RequiredSlope" UniqueId="1C0wi0qVyHuO00025QrE$V" PrimaryDataType="IfcPlaneAngleMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="RequiredSlope_1C0wi0qVyHuO00025QrEV" Name="RequiredSlope" UniqueId="4c03ab00-d1ff-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPlaneAngleMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="erforderliche Neigung">
 			<Documentation>German-description-3</Documentation>

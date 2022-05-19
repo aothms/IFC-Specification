@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FireRiskFactor_0pc8u0qWaHuO00025QrEV" Name="FireRiskFactor" UniqueId="0pc8u0qWaHuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FireRiskFactor_0pc8u0qWaHuO00025QrEV" Name="FireRiskFactor" UniqueId="33988e00-d209-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Brandgefahrenklasse">
 			<Documentation>Brandgefahrenklasse des Raums, angegeben nach der nationalen oder regionalen Brandschutzverordnung.</Documentation>

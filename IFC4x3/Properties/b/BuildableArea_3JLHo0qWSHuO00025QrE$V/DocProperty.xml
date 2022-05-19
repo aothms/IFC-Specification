@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BuildableArea_3JLHo0qWSHuO00025QrEV" Name="BuildableArea" UniqueId="3JLHo0qWSHuO00025QrE$V" PrimaryDataType="IfcAreaMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BuildableArea_3JLHo0qWSHuO00025QrEV" Name="BuildableArea" UniqueId="d3551c80-d207-11e1-8000-00215ad4efdf" PrimaryDataType="IfcAreaMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="bebaubare Fläche">
 			<Documentation>bebaubare Fläche als maximale überbaubare Fläche des Grundstücks.</Documentation>

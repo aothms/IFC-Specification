@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LowestSeatingHeight_3W5aW0qUWHuO00025QrEV" Name="LowestSeatingHeight" UniqueId="3W5aW0qUWHuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LowestSeatingHeight_3W5aW0qUWHuO00025QrEV" Name="LowestSeatingHeight" UniqueId="e0164800-d1e8-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Lowest Seating Height" />
 	</Localization>

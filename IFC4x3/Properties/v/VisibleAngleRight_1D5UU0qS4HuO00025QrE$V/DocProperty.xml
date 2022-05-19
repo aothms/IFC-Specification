@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VisibleAngleRight_1D5UU0qS4HuO00025QrEV" Name="VisibleAngleRight" UniqueId="1D5UU0qS4HuO00025QrE$V" PrimaryDataType="IfcPositivePlaneAngleMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VisibleAngleRight_1D5UU0qS4HuO00025QrEV" Name="VisibleAngleRight" UniqueId="4d15e780-d1c1-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositivePlaneAngleMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Visible Angle Right" />
 		<DocLocalization Locale="fr-FR" Name="VisibiliteAngleDroit">

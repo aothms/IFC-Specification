@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SetPointIlluminance_3XeZa0qWKHuO00025QrEV" Name="SetPointIlluminance" UniqueId="3XeZa0qWKHuO00025QrE$V" PropertyType="p_boundedvalue" PrimaryDataType="IfcIlluminanceMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SetPointIlluminance_3XeZa0qWKHuO00025QrEV" Name="SetPointIlluminance" UniqueId="e1a23900-d205-11e1-8000-00215ad4efdf" PropertyType="p_boundedvalue" PrimaryDataType="IfcIlluminanceMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Set Point Illuminance" />
 		<DocLocalization Locale="ja-JP" Name="照度設定値">

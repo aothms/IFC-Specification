@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PlanningControlStatus_0MZfk0qSOHuO00025QrEV" Name="PlanningControlStatus" UniqueId="0MZfk0qSOHuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PlanningControlStatus_0MZfk0qSOHuO00025QrEV" Name="PlanningControlStatus" UniqueId="168e9b80-d1c6-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Planning Control Status" />
 		<DocLocalization Locale="fr-FR" Name="EtatPlanningControle">

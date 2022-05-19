@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="GlazingAreaFraction_1TXuk0qTmHuO00025QrEV" Name="GlazingAreaFraction" UniqueId="1TXuk0qTmHuO00025QrE$V" PrimaryDataType="IfcPositiveRatioMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="GlazingAreaFraction_1TXuk0qTmHuO00025QrEV" Name="GlazingAreaFraction" UniqueId="5d878b80-d1dc-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveRatioMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Glasflächenanteil">
 			<Documentation>Anteil der verglasten Fläche an der Gesamtfläche der Tür.</Documentation>

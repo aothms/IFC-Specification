@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EnergyGainTotal_08rHW0qRuHuO00025QrEV" Name="EnergyGainTotal" UniqueId="08rHW0qRuHuO00025QrE$V" PrimaryDataType="IfcPowerMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EnergyGainTotal_08rHW0qRuHuO00025QrEV" Name="EnergyGainTotal" UniqueId="08d51800-d1be-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPowerMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Energy Gain Total" />
 		<DocLocalization Locale="ja-JP" Name="総熱取得">

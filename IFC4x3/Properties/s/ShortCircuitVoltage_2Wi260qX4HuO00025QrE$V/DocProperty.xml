@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShortCircuitVoltage_2Wi260qX4HuO00025QrEV" Name="ShortCircuitVoltage" UniqueId="2Wi260qX4HuO00025QrE$V" PrimaryDataType="IfcComplexNumber">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShortCircuitVoltage_2Wi260qX4HuO00025QrEV" Name="ShortCircuitVoltage" UniqueId="a0b02180-d211-11e1-8000-00215ad4efdf" PrimaryDataType="IfcComplexNumber">
 	<Localization>
 		<DocLocalization Locale="en" Name="Short Circuit Voltage" />
 		<DocLocalization Locale="ja-JP" Name="短絡電圧">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AccuracyOfFireSensor_0cUQ00qWKHuO00025QrEV" Name="AccuracyOfFireSensor" UniqueId="0cUQ00qWKHuO00025QrE$V" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AccuracyOfFireSensor_0cUQ00qWKHuO00025QrEV" Name="AccuracyOfFireSensor" UniqueId="2679a000-d205-11e1-8000-00215ad4efdf" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Accuracy Of Fire Sensor" />
 		<DocLocalization Locale="ja-JP" Name="精度">

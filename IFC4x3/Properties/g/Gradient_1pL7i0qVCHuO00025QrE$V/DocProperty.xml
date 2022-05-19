@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Gradient_1pL7i0qVCHuO00025QrEV" Name="Gradient" UniqueId="1pL7i0qVCHuO00025QrE$V" PrimaryDataType="IfcPositiveRatioMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Gradient_1pL7i0qVCHuO00025QrEV" Name="Gradient" UniqueId="73547b00-d1f3-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveRatioMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Gradient" />
 		<DocLocalization Locale="ja-JP" Name="勾配">

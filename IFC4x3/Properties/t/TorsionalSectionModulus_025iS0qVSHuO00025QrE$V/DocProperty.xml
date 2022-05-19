@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TorsionalSectionModulus_025iS0qVSHuO00025QrEV" Name="TorsionalSectionModulus" UniqueId="025iS0qVSHuO00025QrE$V" PrimaryDataType="IfcSectionModulusMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TorsionalSectionModulus_025iS0qVSHuO00025QrEV" Name="TorsionalSectionModulus" UniqueId="0216c700-d1f7-11e1-8000-00215ad4efdf" PrimaryDataType="IfcSectionModulusMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Torsional Section Modulus" />
 	</Localization>

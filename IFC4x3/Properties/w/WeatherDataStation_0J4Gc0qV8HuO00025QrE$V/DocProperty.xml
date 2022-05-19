@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WeatherDataStation_0J4Gc0qV8HuO00025QrEV" Name="WeatherDataStation" UniqueId="0J4Gc0qV8HuO00025QrE$V" PrimaryDataType="IfcText">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WeatherDataStation_0J4Gc0qV8HuO00025QrEV" Name="WeatherDataStation" UniqueId="13110980-d1f2-11e1-8000-00215ad4efdf" PrimaryDataType="IfcText">
 	<Localization>
 		<DocLocalization Locale="en" Name="Weather Data Station" />
 		<DocLocalization Locale="ja-JP" Name="気象台所在地">

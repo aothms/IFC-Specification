@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ConcreteElementGeneral" UniqueId="1$B4S0qSiHuO00025QrE$V" ApplicableType="IfcBeam,IfcBuildingElementProxy,IfcChimney,IfcColumn,IfcFooting,IfcMember,IfcPile,IfcPlate,IfcRailing,IfcRamp,IfcRampFlight,IfcRoof,IfcSlab,IfcStair,IfcStairFlight,IfcWall,IfcCivilElement" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
-	<Localization>
-		<DocLocalization Locale="de">
-			<Documentation>Generelle Eigenschaften die allen Betonbauteilen, einschließlich Stahlbetonbauteilen, gemeinsam sind. Dieser Eigenschaftssatz kann den verschiedenen Bauelementklassen (Subtypen von IfcBuildingElement) zugeordnet werden.</Documentation>
-		</DocLocalization>
-		<DocLocalization Locale="en" Name="Concrete Element General" />
-		<DocLocalization Locale="ja-JP">
-			<Documentation>コンクリート要素の異なるタイプに対する共通の一般的な属性。 Pset は IfcBuildingElement の多くのサブタイプによって使うことができる。</Documentation>
-		</DocLocalization>
-	</Localization>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ConcreteElementGeneral" UniqueId="1$B4S0qSiHuO00025QrE$V" ApplicableType="IfcBeam,IfcBuildingElementProxy,IfcChimney,IfcCivilElement,IfcColumn,IfcFooting,IfcMember,IfcPile,IfcPlate,IfcRailing,IfcRampFlight,IfcRamp,IfcRoof,IfcSlab,IfcStairFlight,IfcStair,IfcWall" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Properties>
-		<DocProperty xsi:nil="true" href="ConstructionMethod_1ahrQp2qL0mhGzTBIQABdR" />
+		<DocProperty xsi:nil="true" href="AssemblyPlace_1YL3k0qUmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="CastingMethod_12ILGhW8PIBOEvTeAS_pJq" />
 		<DocProperty xsi:nil="true" href="StructuralClass_24YP60qSiHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="StrengthClass_2MEGt4Gr1s8oshAXjpacJ" />
 		<DocProperty xsi:nil="true" href="ExposureClass_2RxWltAjDAPhxrUt6toXTR" />

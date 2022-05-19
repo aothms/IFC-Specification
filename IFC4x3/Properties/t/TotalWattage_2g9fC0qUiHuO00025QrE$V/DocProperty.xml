@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TotalWattage_2g9fC0qUiHuO00025QrEV" Name="TotalWattage" UniqueId="2g9fC0qUiHuO00025QrE$V" PrimaryDataType="IfcPowerMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TotalWattage_2g9fC0qUiHuO00025QrEV" Name="TotalWattage" UniqueId="aa269300-d1eb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPowerMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Total Wattage" />
 		<DocLocalization Locale="ja-JP" Name="総ワット数">

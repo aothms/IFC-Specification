@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Length_3z_1RK79zEYQlNxgE2SP3k" Name="Length" UniqueId="fdf816d4-1c9f-4e89-abd7-eea3827190ee" QuantityType="q_length">
+<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Length" UniqueId="fdf816d4-1c9f-4e89-abd7-eea3827190ee" QuantityType="q_length">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Länge">
 			<Documentation>Physikalische Länge der Stütze ohne Berücksichtigung von Abschrägungen, Ausklinkungen, und ähnliches.</Documentation>

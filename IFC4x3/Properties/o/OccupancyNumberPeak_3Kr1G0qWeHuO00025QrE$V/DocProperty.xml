@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OccupancyNumberPeak_3Kr1G0qWeHuO00025QrEV" Name="OccupancyNumberPeak" UniqueId="3Kr1G0qWeHuO00025QrE$V" PrimaryDataType="IfcCountMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OccupancyNumberPeak_3Kr1G0qWeHuO00025QrEV" Name="OccupancyNumberPeak" UniqueId="d4d41400-d20a-11e1-8000-00215ad4efdf" PrimaryDataType="IfcCountMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Maximale Belegung">
 			<Documentation>Maximale Anzahl der Personen für deren  Aktivitäten der Raum vorgesehen ist.</Documentation>

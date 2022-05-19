@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PipeConnection_0bnXS0qSyHuO00025QrEV" Name="PipeConnection" UniqueId="0bnXS0qSyHuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PipeConnection_0bnXS0qSyHuO00025QrEV" Name="PipeConnection" UniqueId="25c61700-d1cf-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Pipe Connection Enum" />
 	</Localization>

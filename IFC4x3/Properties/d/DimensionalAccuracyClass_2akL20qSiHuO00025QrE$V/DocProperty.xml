@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DimensionalAccuracyClass_2akL20qSiHuO00025QrEV" Name="DimensionalAccuracyClass" UniqueId="2akL20qSiHuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DimensionalAccuracyClass_2akL20qSiHuO00025QrEV" Name="DimensionalAccuracyClass" UniqueId="a4b95080-d1cb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Dimensional Accuracy Class" />
 		<DocLocalization Locale="ja-JP" Name="寸法精度クラス">

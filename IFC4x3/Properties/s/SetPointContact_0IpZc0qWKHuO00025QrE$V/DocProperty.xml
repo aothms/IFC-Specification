@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SetPointContact_0IpZc0qWKHuO00025QrEV" Name="SetPointContact" UniqueId="0IpZc0qWKHuO00025QrE$V" PropertyType="p_boundedvalue" PrimaryDataType="IfcInteger">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SetPointContact_0IpZc0qWKHuO00025QrEV" Name="SetPointContact" UniqueId="12ce3980-d205-11e1-8000-00215ad4efdf" PropertyType="p_boundedvalue" PrimaryDataType="IfcInteger">
 	<Localization>
 		<DocLocalization Locale="en" Name="Set Point Contact" />
 		<DocLocalization Locale="ja-JP" Name="接触状態設定値">

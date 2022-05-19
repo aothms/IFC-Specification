@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_PointMachine" UniqueId="4a353d62-a0a6-4d58-9b26-cdc6f01f8abc" ApplicableType="IfcActuator/ELECTRICACTUATOR,IfcActuator/HYDRAULICACTUATOR,IfcActuator/HANDOPERATEDACTUATOR,IfcActuator/PNEUMATICACTUATOR" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_PointMachine" UniqueId="4a353d62-a0a6-4d58-9b26-cdc6f01f8abc" ApplicableType="IfcActuator/ELECTRICACTUATOR,IfcActuator/HANDOPERATEDACTUATOR,IfcActuator/HYDRAULICACTUATOR,IfcActuator/PNEUMATICACTUATOR" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Properties>
 		<DocProperty xsi:nil="true" href="ActionBarMovementLength_3g9eB0QrCGgwW7XmrxaeO" />
 		<DocProperty xsi:nil="true" href="TractionForce_1h6R3D6qz8J9tT_sZdxp1y" />

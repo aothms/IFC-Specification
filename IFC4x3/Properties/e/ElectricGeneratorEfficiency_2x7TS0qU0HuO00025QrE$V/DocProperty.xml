@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ElectricGeneratorEfficiency_2x7TS0qU0HuO00025QrEV" Name="ElectricGeneratorEfficiency" UniqueId="2x7TS0qU0HuO00025QrE$V" PrimaryDataType="IfcPositiveRatioMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ElectricGeneratorEfficiency_2x7TS0qU0HuO00025QrEV" Name="ElectricGeneratorEfficiency" UniqueId="bb1dd700-d1e0-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveRatioMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Electric Generator Efficiency" />
 		<DocLocalization Locale="ja-JP" Name="発電効率">

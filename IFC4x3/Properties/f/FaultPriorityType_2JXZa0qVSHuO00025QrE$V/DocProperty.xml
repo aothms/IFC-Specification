@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FaultPriorityType_2JXZa0qVSHuO00025QrEV" Name="FaultPriorityType" UniqueId="2JXZa0qVSHuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FaultPriorityType_2JXZa0qVSHuO00025QrEV" Name="FaultPriorityType" UniqueId="93863900-d1f7-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Fault Priority Type" />
 	</Localization>

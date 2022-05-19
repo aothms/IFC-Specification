@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FloorCovering_2qVQcoWX429aMNJ7Te4Wn" Name="FloorCovering" UniqueId="bfd1f6a6-ca08-4408-9916-5d31dda04831" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FloorCovering_2qVQcoWX429aMNJ7Te4Wn" Name="FloorCovering" UniqueId="2$qVQcoWX429aMNJ7Te4Wn" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Bodenbelag">
 			<Documentation>Angabe des Materials für den Bodenbelag. Diese Angabe wird im Raumbuch verwendet und oft im Raumstempel angezeigt.

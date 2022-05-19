@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CeilingCoveringThickness_2hshDdCPB2B0zM4kkk1d8" Name="CeilingCoveringThickness" UniqueId="abdab367-fcc6-4b08-b03d-584baeb819c8" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CeilingCoveringThickness_2hshDdCPB2B0zM4kkk1d8" Name="CeilingCoveringThickness" UniqueId="2hshDd$CPB2B0zM4kkk1d8" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Dicke der Deckenbekleidung">
 			<Documentation>Angabe der  Dicke der Materialschichten für die Deckenbekleidung. 

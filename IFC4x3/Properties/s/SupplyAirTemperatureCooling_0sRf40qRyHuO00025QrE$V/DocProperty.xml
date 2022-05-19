@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SupplyAirTemperatureCooling_0sRf40qRyHuO00025QrEV" Name="SupplyAirTemperatureCooling" UniqueId="0sRf40qRyHuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" SecondaryDataType="IfcThermodynamicTemperatureMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="SupplyAirTemperatureCooling" UniqueId="0sRf40qRyHuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" SecondaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Supply Air Temperature Cooling" />
 		<DocLocalization Locale="fr-FR" Name="Température de l&apos;air soufflé en refroidissement">

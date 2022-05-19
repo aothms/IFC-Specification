@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalSumpLength_0cWfk0qXSHuO00025QrEV" Name="NominalSumpLength" UniqueId="0cWfk0qXSHuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalSumpLength_0cWfk0qXSHuO00025QrEV" Name="NominalSumpLength" UniqueId="26829b80-d217-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Nominal Sump Length" />
 		<DocLocalization Locale="ja-JP" Name="汚水槽長さ">

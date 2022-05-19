@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsLandmarked_0gXSs0qSKHuO00025QrEV" Name="IsLandmarked" UniqueId="0gXSs0qSKHuO00025QrE$V" PrimaryDataType="IfcLogical">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsLandmarked_0gXSs0qSKHuO00025QrEV" Name="IsLandmarked" UniqueId="2a85cd80-d1c5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLogical">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Denkmalschutz">
 			<Documentation>Angabe, ob das Gebäude dem Denkmalschutz unterliegt (WAHR) oder nicht (FALSCH).</Documentation>

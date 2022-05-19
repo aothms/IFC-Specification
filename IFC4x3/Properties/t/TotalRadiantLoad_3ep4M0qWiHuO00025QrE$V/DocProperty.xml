@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TotalRadiantLoad_3ep4M0qWiHuO00025QrEV" Name="TotalRadiantLoad" UniqueId="3ep4M0qWiHuO00025QrE$V" PropertyType="p_boundedvalue" PrimaryDataType="IfcPowerMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TotalRadiantLoad_3ep4M0qWiHuO00025QrEV" Name="TotalRadiantLoad" UniqueId="e8cc4580-d20b-11e1-8000-00215ad4efdf" PropertyType="p_boundedvalue" PrimaryDataType="IfcPowerMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Total Radiant Load" />
 		<DocLocalization Locale="ja-JP" Name="放射熱負荷の合計">
