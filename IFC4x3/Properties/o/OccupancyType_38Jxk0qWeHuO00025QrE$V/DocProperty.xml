@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OccupancyType_38Jxk0qWeHuO00025QrEV" Name="OccupancyType" UniqueId="38Jxk0qWeHuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="OccupancyType" UniqueId="38Jxk0qWeHuO00025QrE$V" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Nutzungsart">
 			<Documentation>Nutzungsart des Raums gemäß der gültigen Raumnutzungstabelle des Raumprogramms.</Documentation>

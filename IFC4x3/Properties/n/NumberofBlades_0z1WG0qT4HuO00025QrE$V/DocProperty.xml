@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NumberofBlades_0z1WG0qT4HuO00025QrEV" Name="NumberofBlades" UniqueId="3d060400-d1d1-11e1-8000-00215ad4efdf" PrimaryDataType="IfcInteger">
 	<Localization>
-		<DocLocalization Locale="en" Name="Numberof Blades"/>
+		<DocLocalization Locale="en" Name="Numberof Blades" />
 	</Localization>
 </DocProperty>
+

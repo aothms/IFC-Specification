@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="erforderliche Neigung">
 			<Documentation>German-description-3</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Required Slope"/>
+		<DocLocalization Locale="en" Name="Required Slope" />
 		<DocLocalization Locale="fr-FR" Name="InclinaisonRequise">
-			<Documentation>Inclinaison de la rampe par rapport à l'horizontal (0 degrés). Valeur maximale de l'inclinaison du passage selon le code applicable ou pour respecter des contraintes additionnelles.</Documentation>
+			<Documentation>Inclinaison de la rampe par rapport à l&apos;horizontal (0 degrés). Valeur maximale de l&apos;inclinaison du passage selon le code applicable ou pour respecter des contraintes additionnelles.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="要求傾斜">
 			<Documentation>要求される傾斜角度。水平を０度とする。</Documentation>
@@ -17,3 +17,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

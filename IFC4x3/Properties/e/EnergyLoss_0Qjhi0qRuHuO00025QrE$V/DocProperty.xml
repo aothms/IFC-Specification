@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EnergyLoss_0Qjhi0qRuHuO00025QrEV" Name="EnergyLoss" UniqueId="1ab6bb00-d1be-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPowerMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Energy Loss"/>
+		<DocLocalization Locale="en" Name="Energy Loss" />
 		<DocLocalization Locale="ja-JP" Name="熱（エネルギー）ロス">
 			<Documentation>ピーク時空調システム最大暖房負荷を提供する際の熱ロス。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="KeyOffset_3tfs0qVKHuO00025QrEV" Name="KeyOffset" UniqueId="f7a7fd80-d1f5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcNonNegativeLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Key Offset"/>
+		<DocLocalization Locale="en" Name="Key Offset" />
 	</Localization>
 </DocProperty>
+

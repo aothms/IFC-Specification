@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Diskontinuierliche Heizung">
 			<Documentation>Anfoderung, ob der Raum durch eine diskontinuierliche Heizung versorgt werden soll (WAHR) oder nicht (FALSCH).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Discontinued Heating"/>
+		<DocLocalization Locale="en" Name="Discontinued Heating" />
 		<DocLocalization Locale="fr-FR" Name="Chauffage intermittent">
-			<Documentation>Indique si un chauffage intermittent est requis ou souhaité par l'usager ou le concepteur (VRAI) ou non (FAUX).</Documentation>
+			<Documentation>Indique si un chauffage intermittent est requis ou souhaité par l&apos;usager ou le concepteur (VRAI) ou non (FAUX).</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="不連続暖房">
 			<Documentation>不連続暖房が利用者/設計者の視点から要求/要望されるかどうかを示すブーリアン値。(TRUE)要、(FALSE)不要。</Documentation>
@@ -16,3 +16,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

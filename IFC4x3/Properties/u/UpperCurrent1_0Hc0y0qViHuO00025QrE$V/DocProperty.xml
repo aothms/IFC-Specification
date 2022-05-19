@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="UpperCurrent1_0Hc0y0qViHuO00025QrEV" Name="UpperCurrent1" UniqueId="11980f00-d1fb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcElectricCurrentMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Upper Current1"/>
+		<DocLocalization Locale="en" Name="Upper Current1" />
 		<DocLocalization Locale="ja-JP" Name="上電流1">
 			<Documentation>[x In]の電流,電流をトリップするL関数のI2t部分は、上限電流1よりも大きい電流を示す。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

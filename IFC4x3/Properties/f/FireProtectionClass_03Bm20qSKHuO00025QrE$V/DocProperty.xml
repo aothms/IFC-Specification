@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Gebäudeklasse Brandschutz">
 			<Documentation>Zugewiesene Gebäudeklasse nach der nationalen Brandschutzverordnung.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Fire Protection Class"/>
+		<DocLocalization Locale="en" Name="Fire Protection Class" />
 		<DocLocalization Locale="fr-FR" Name="RisqueIncendieUsageSecondaire">
 			<Documentation>Classe principale de protection contre le risque incendie, selon la réglementation nationale.</Documentation>
 		</DocLocalization>
@@ -16,3 +16,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

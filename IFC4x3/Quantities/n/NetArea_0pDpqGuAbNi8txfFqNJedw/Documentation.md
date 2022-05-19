@@ -5,4 +5,3 @@ Total net area of the object. Openings, recesses and cut-outs are taken into acc
 
 
 Total net area of the outer surface of the roof. It is the suma of all roof slab net areas.
-

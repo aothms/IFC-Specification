@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AtexVerified_0i7hW0qVmHuO00025QrEV" Name="AtexVerified" UniqueId="2c1eb800-d1fc-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="Atex Verified"/>
+		<DocLocalization Locale="en" Name="Atex Verified" />
 		<DocLocalization Locale="ja-JP" Name="アテックス認証">
 			<Documentation>トリップ装置がEX-環境で適用されるかどうか。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

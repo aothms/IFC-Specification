@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TemperatureFactor_09GDE0qVqHuO00025QrEV" Name="TemperatureFactor" UniqueId="0940d380-d1fd-11e1-8000-00215ad4efdf" PrimaryDataType="IfcRatioMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Temperature Factor"/>
+		<DocLocalization Locale="en" Name="Temperature Factor" />
 		<DocLocalization Locale="ja-JP" Name="温度係数">
 			<Documentation>熱の電流/時間を、定義済みの温度によって与えられる値と異なる場合に周囲温度に合わせるための補正係数（%/deg K で計測する）。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

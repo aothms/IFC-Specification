@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NetWeight_3pzRYkes59nwqFKndMTa2o" Name="NetWeight" UniqueId="f3f5b8ae-a361-49c7-ad0f-5319d67640b2" QuantityType="q_weight">
+<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="NetWeight" UniqueId="f3f5b8ae-a361-49c7-ad0f-5319d67640b2" QuantityType="q_weight">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Nettogewicht">
 			<Documentation>Gewicht der Decke. Alle Öffnungen und Aussparungen werden abgezogen.</Documentation>

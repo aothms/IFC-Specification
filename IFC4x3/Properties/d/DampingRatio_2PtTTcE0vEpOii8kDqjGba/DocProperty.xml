@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DampingRatio_2PtTTcE0vEpOii8kDqjGba" Name="DampingRatio" UniqueId="2PtTTcE0vEpOii8kDqjGba" PrimaryDataType="IfcRatioMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DampingRatio_2PtTTcE0vEpOii8kDqjGba" Name="DampingRatio" UniqueId="2PtTTcE0vEpOii8kDqjGba" PrimaryDataType="IfcRatioMeasure" />
+

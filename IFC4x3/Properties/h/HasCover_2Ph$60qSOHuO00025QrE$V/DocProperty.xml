@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="HasCover_2Ph60qSOHuO00025QrEV" Name="HasCover" UniqueId="99aff180-d1c6-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="Has Cover"/>
+		<DocLocalization Locale="en" Name="Has Cover" />
 		<DocLocalization Locale="ja-JP" Name="カバー">
 			<Documentation>カバー付かどうか。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

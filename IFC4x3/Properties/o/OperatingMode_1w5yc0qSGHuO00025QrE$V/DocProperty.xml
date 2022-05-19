@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OperatingMode_1w5yc0qSGHuO00025QrEV" Name="OperatingMode" UniqueId="7a17c980-d1c4-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Operating Mode"/>
+		<DocLocalization Locale="en" Name="Operating Mode" />
 		<DocLocalization Locale="fr-FR" Name="ModeFonctionnement">
 			<Documentation>Identifie le mode de fonctionnement de la chaudière.</Documentation>
 		</DocLocalization>
@@ -9,5 +9,6 @@
 			<Documentation>ボイラの動作モードのID　（固定、２段階、比例．．．）</Documentation>
 		</DocLocalization>
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_BoilerOperatingMode"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_BoilerOperatingMode" />
 </DocProperty>
+

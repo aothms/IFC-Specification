@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Twisting_06sdk0qVKHuO00025QrEV" Name="Twisting" UniqueId="06da7b80-d1f5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPlaneAngleMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Twisting"/>
+		<DocLocalization Locale="en" Name="Twisting" />
 	</Localization>
 </DocProperty>
+

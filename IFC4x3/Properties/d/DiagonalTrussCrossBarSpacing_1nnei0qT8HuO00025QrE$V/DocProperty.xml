@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DiagonalTrussCrossBarSpacing_1nnei0qT8HuO00025QrEV" Name="DiagonalTrussCrossBarSpacing" UniqueId="71c68b00-d1d2-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Diagonal Truss Cross Bar Spacing"/>
+		<DocLocalization Locale="en" Name="Diagonal Truss Cross Bar Spacing" />
 		<DocLocalization Locale="ja-JP" Name="クロスバー間隔">
 			<Documentation>斜めのクロスバーの間隔。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

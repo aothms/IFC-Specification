@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NumberOfSections_1oUnE0qWeHuO00025QrEV" Name="NumberOfSections" UniqueId="1oUnE0qWeHuO00025QrE$V" PrimaryDataType="IfcInteger">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="NumberOfSections" UniqueId="1oUnE0qWeHuO00025QrE$V" PrimaryDataType="IfcInteger">
 	<Localization>
 		<DocLocalization Locale="en" Name="Number Of Sections" />
 		<DocLocalization Locale="ja-JP" Name="セクションの数">

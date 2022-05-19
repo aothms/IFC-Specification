@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Roll_0Zgei0qSGHuO00025QrEV" Name="Roll" UniqueId="0Zgei0qSGHuO00025QrE$V" PrimaryDataType="IfcPlaneAngleMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Roll" UniqueId="0Zgei0qSGHuO00025QrE$V" PrimaryDataType="IfcPlaneAngleMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Kippwinkel">
 			<Documentation>Kippwinkel des Balkens relative zur Vertikalen (O Grad).

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShearModulus_20Rck0qUqHuO00025QrEV" Name="ShearModulus" UniqueId="806e6b80-d1ed-11e1-8000-00215ad4efdf" PrimaryDataType="IfcModulusOfElasticityMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Shear Modulus"/>
+		<DocLocalization Locale="en" Name="Shear Modulus" />
 	</Localization>
 </DocProperty>
+

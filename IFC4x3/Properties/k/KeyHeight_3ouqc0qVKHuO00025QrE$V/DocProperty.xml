@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="KeyHeight_3ouqc0qVKHuO00025QrEV" Name="KeyHeight" UniqueId="f2e34980-d1f5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcNonNegativeLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Key Height"/>
+		<DocLocalization Locale="en" Name="Key Height" />
 	</Localization>
 </DocProperty>
+

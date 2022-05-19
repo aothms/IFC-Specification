@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Natürliche Luftwechselzahl">
 			<Documentation>Geforderte Luftwechselzahl (in Wechsel per Stunde) im Fall der natürlichen Lüftung.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Natural Ventilation Rate"/>
+		<DocLocalization Locale="en" Name="Natural Ventilation Rate" />
 		<DocLocalization Locale="fr-FR" Name="Taux ventilation naturelle">
 			<Documentation>Taux de ventilation naturelle exprimé en volumes par heure.</Documentation>
 		</DocLocalization>
@@ -16,3 +16,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

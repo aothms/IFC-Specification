@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ExternalAdjusted_1H4Yk0qVeHuO00025QrEV" Name="ExternalAdjusted" UniqueId="51122b80-d1fa-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="External Adjusted"/>
+		<DocLocalization Locale="en" Name="External Adjusted" />
 		<DocLocalization Locale="ja-JP" Name="外部調整">
 			<Documentation>外部調整が可能かどうか。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

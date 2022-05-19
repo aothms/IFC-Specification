@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="öffentlich zugänglich">
 			<Documentation>Angabe, ob dieser Raum (wie z.B. eine Toilette) öffentlich zugänglich sein soll (JA) oder nicht (NEIN).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Publicly Accessible"/>
+		<DocLocalization Locale="en" Name="Publicly Accessible" />
 		<DocLocalization Locale="fr-FR" Name="AccessibleAuPublic">
-			<Documentation>Indique si l'espace (par exemple des toilettes) est conçu pour être un espace accessible au public (TRUE) ou non (FALSE).</Documentation>
+			<Documentation>Indique si l&apos;espace (par exemple des toilettes) est conçu pour être un espace accessible au public (TRUE) ou non (FALSE).</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="公共アクセス可能性">
 			<Documentation>この部屋（空間）が公共アクセス空間かどうかを示すブーリアン値。例：公共トイレの場合TRUE。</Documentation>
@@ -16,3 +16,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FlangeTable_2C4640qV8HuO00025QrEV" Name="FlangeTable" UniqueId="8c106100-d1f2-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Flange Table"/>
+		<DocLocalization Locale="en" Name="Flange Table" />
 		<DocLocalization Locale="ja-JP" Name="フランジ基準">
 			<Documentation>フランジ形状の名称基準</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

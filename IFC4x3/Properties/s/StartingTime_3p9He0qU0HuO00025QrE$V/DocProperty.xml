@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="StartingTime_3p9He0qU0HuO00025QrEV" Name="StartingTime" UniqueId="f3251a00-d1e0-11e1-8000-00215ad4efdf" PrimaryDataType="IfcTimeMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Starting Time"/>
+		<DocLocalization Locale="en" Name="Starting Time" />
 		<DocLocalization Locale="ja-JP" Name="始動時間">
 			<Documentation>モーターが停止状態から定格電圧を印加し定格速度に到達するまでに必要な時間。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

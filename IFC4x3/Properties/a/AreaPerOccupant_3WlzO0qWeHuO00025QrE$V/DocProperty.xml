@@ -4,12 +4,13 @@
 		<DocLocalization Locale="de-DE" Name="Fläche pro Nutzer">
 			<Documentation>Anteil der Raumfläche pro Benutzer für Nutzung des Raums.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Area Per Occupant"/>
+		<DocLocalization Locale="en" Name="Area Per Occupant" />
 		<DocLocalization Locale="fr-FR" Name="SurfaceParOccupant">
-			<Documentation>Taux de remplissage de l'espace pour l'usage type</Documentation>
+			<Documentation>Taux de remplissage de l&apos;espace pour l&apos;usage type</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="利用者毎面積">
 			<Documentation>この空間に割り当てられた用途に対する想定利用負荷。</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

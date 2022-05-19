@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NetVolume_1EPVHEhWXF3OSxlo2Mfe9E" Name="NetVolume" UniqueId="4e65f44e-ae08-4f0d-873b-bf2096a6824e" QuantityType="q_volume">
+<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="NetVolume" UniqueId="4e65f44e-ae08-4f0d-873b-bf2096a6824e" QuantityType="q_volume">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Nettorauminhalt">
 			<Documentation>Summe aller Nettorauminhalte der Räume eines Geschosses. Kann zusätzlich zu den einzelnen Mengen der Räumeangegeben werden. Bei Inkonsistenz zählen die einzelnen Mengen der Räume.</Documentation>

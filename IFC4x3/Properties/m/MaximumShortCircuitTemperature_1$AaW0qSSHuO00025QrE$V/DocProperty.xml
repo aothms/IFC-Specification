@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MaximumShortCircuitTemperature_1AaW0qSSHuO00025QrEV" Name="MaximumShortCircuitTemperature" UniqueId="7f2a4800-d1c7-11e1-8000-00215ad4efdf" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Maximum Short Circuit Temperature"/>
+		<DocLocalization Locale="en" Name="Maximum Short Circuit Temperature" />
 		<DocLocalization Locale="ja-JP" Name="短絡許容最高温度">
 			<Documentation>ケーブルや母線の最大短絡温度を示す。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

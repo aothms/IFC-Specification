@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MediaExtendedArea_1qTS0qUKHuO00025QrEV" Name="MediaExtendedArea" UniqueId="7fd1d700-d1e5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcAreaMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Media Extended Area"/>
+		<DocLocalization Locale="en" Name="Media Extended Area" />
 	</Localization>
 </DocProperty>
+

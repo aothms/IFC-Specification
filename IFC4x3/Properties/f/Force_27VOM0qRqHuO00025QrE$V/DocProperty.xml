@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Force_27VOM0qRqHuO00025QrEV" Name="Force" UniqueId="877d8580-d1bd-11e1-8000-00215ad4efdf" PrimaryDataType="IfcForceMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Force"/>
+		<DocLocalization Locale="en" Name="Force" />
 		<DocLocalization Locale="ja-JP" Name="最大推力">
 			<Documentation>アクチュエータの最大締め切り力を示す。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

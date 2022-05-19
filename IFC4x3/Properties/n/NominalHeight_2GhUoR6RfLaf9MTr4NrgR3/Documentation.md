@@ -5,4 +5,3 @@ The nominal height of the object. The size information is provided in addition t
 
 
 Height of the vibration isolator before the application of load.
-

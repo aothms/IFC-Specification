@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalSupplyVoltageOffset_0kSna0qU0HuO00025QrEV" Name="NominalSupplyVoltageOffset" UniqueId="2e731900-d1e0-11e1-8000-00215ad4efdf" PropertyType="p_boundedvalue" PrimaryDataType="IfcElectricVoltageMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Nominal Supply Voltage Offset"/>
+		<DocLocalization Locale="en" Name="Nominal Supply Voltage Offset" />
 		<DocLocalization Locale="ja-JP" Name="オフセット公称電圧">
 			<Documentation>電源の最大値と最小許容電圧。たとえば380V/440Vの境界は400Vの公称電圧に適用される。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

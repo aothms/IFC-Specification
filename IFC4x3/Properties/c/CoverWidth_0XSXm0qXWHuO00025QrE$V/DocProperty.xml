@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CoverWidth_0XSXm0qXWHuO00025QrEV" Name="CoverWidth" UniqueId="0XSXm0qXWHuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="CoverWidth" UniqueId="0XSXm0qXWHuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Cover Width" />
 		<DocLocalization Locale="ja-JP" Name="カバーの幅">

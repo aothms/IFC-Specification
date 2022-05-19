@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ImaginaryImpedanceRatio_2ic_E0qX4HuO00025QrEV" Name="ImaginaryImpedanceRatio" UniqueId="ac9be380-d211-11e1-8000-00215ad4efdf" PrimaryDataType="IfcRatioMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Imaginary Impedance Ratio"/>
+		<DocLocalization Locale="en" Name="Imaginary Impedance Ratio" />
 		<DocLocalization Locale="ja-JP" Name="インピーダンス虚部比率">
 			<Documentation>零相インピーダンスと正相インピーダンス（例．短絡電圧の虚部）の間の比率。N-コンダクターを含む三相トランスのために使用。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

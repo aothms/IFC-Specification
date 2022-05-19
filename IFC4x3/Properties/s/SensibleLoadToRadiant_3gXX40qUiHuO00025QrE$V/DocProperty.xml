@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SensibleLoadToRadiant_3gXX40qUiHuO00025QrEV" Name="SensibleLoadToRadiant" UniqueId="ea861100-d1eb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveRatioMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Sensible Load To Radiant"/>
+		<DocLocalization Locale="en" Name="Sensible Load To Radiant" />
 	</Localization>
 </DocProperty>
+

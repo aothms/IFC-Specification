@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FireSensorSetPoint_0WWxy0qWKHuO00025QrEV" Name="FireSensorSetPoint" UniqueId="2083bf00-d205-11e1-8000-00215ad4efdf" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Fire Sensor Set Point"/>
+		<DocLocalization Locale="en" Name="Fire Sensor Set Point" />
 		<DocLocalization Locale="ja-JP" Name="感知温度">
 			<Documentation>炎の存在を示すために感知される温度値。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShowerType_06uNW0qWCHuO00025QrEV" Name="ShowerType" UniqueId="06e17800-d203-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Shower Type"/>
+		<DocLocalization Locale="en" Name="Shower Type" />
 		<DocLocalization Locale="ja-JP" Name="シャワータイプ">
 			<Documentation>場所からのシャワータイプの選択：
 
@@ -10,5 +10,6 @@
 ・トンネル：シャワーヘッドの連続で設置されているか長さ方向に同時操作となる水散布機型のシャワー</Documentation>
 		</DocLocalization>
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_ShowerType"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_ShowerType" />
 </DocProperty>
+

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="I2_3ua5s0qVmHuO00025QrEV" Name="I2" UniqueId="3ua5s0qVmHuO00025QrE$V" PrimaryDataType="IfcReal">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="I2" UniqueId="3ua5s0qVmHuO00025QrE$V" PrimaryDataType="IfcReal">
 	<Localization>
 		<DocLocalization Locale="en" Name="I2" />
 		<DocLocalization Locale="ja-JP" Name="I2">

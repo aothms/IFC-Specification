@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TrippingCurveType_0aNXG0qVeHuO00025QrEV" Name="TrippingCurveType" UniqueId="245e1400-d1fa-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Tripping Curve Type"/>
+		<DocLocalization Locale="en" Name="Tripping Curve Type" />
 		<DocLocalization Locale="ja-JP" Name="動作特性曲線のタイプ">
 			<Documentation>動作特性曲線のタイプを指定。</Documentation>
 		</DocLocalization>
@@ -9,5 +9,6 @@
 			<Documentation>동작 특성 곡선의 유형을 지정합니다.</Documentation>
 		</DocLocalization>
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_TrippingCurveType"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_TrippingCurveType" />
 </DocProperty>
+

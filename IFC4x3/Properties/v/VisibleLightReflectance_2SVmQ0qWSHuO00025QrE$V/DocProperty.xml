@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VisibleLightReflectance_2SVmQ0qWSHuO00025QrEV" Name="VisibleLightReflectance" UniqueId="2SVmQ0qWSHuO00025QrE$V" PrimaryDataType="IfcPositiveRatioMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="VisibleLightReflectance" UniqueId="2SVmQ0qWSHuO00025QrE$V" PrimaryDataType="IfcPositiveRatioMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Reflektionsgrad für sichtbares Licht" />
 		<DocLocalization Locale="en" Name="Visible Light Reflectance" />

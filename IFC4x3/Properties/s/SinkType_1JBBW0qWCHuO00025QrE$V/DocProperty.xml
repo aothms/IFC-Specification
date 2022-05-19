@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SinkType_1JBBW0qWCHuO00025QrEV" Name="SinkType" UniqueId="532cb800-d203-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Sink Type"/>
+		<DocLocalization Locale="en" Name="Sink Type" />
 		<DocLocalization Locale="ja-JP" Name="シンクの種類">
 			<Documentation>シンクタイプの選択
 
@@ -21,5 +21,6 @@
 ・野菜流し：ゴミの廃棄もできる、洗浄や調理の準備をする大きめの鉄製のシンク</Documentation>
 		</DocLocalization>
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_SinkType"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_SinkType" />
 </DocProperty>
+

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="VisibleAngleLeft_17k9q0qS4HuO00025QrEV" Name="VisibleAngleLeft" UniqueId="47b89d00-d1c1-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositivePlaneAngleMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Visible Angle Left"/>
+		<DocLocalization Locale="en" Name="Visible Angle Left" />
 		<DocLocalization Locale="fr-FR" Name="VisibiliteAngleGauche">
-			<Documentation>Angle de visibilité à la gauche de l'accès.</Documentation>
+			<Documentation>Angle de visibilité à la gauche de l&apos;accès.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="左側可視角度">
 			<Documentation>左側の経路に可視出来る角度。</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

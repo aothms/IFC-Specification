@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="German-name-16">
 			<Documentation>German-description-18</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Thermal Transmittance Winter"/>
+		<DocLocalization Locale="en" Name="Thermal Transmittance Winter" />
 		<DocLocalization Locale="fr-FR" Name="TransmittanceThermiqueHiver">
-			<Documentation>Coefficient de transmission thermique (U) d'un matériau. Coefficient de transmission thermique en hiver du vitrage seul, souvent désigné comme étant Uw.</Documentation>
+			<Documentation>Coefficient de transmission thermique (U) d&apos;un matériau. Coefficient de transmission thermique en hiver du vitrage seul, souvent désigné comme étant Uw.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="冬季の熱透過係数">
 			<Documentation>素材の熱透過係数（U値）。夏期のガラスの熱透過係数だけ、U値として参照される。</Documentation>
@@ -17,3 +17,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SecondCurvatureRadius_2IhT40qX0HuO00025QrEV" Name="SecondCurvatureRadius" UniqueId="2IhT40qX0HuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="SecondCurvatureRadius" UniqueId="2IhT40qX0HuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Second Curvature Radius" />
 		<DocLocalization Locale="ja-JP" Name="2番目の曲率半径">

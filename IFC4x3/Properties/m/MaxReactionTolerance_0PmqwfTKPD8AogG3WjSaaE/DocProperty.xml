@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MaxReactionTolerance_0PmqwfTKPD8AogG3WjSaaE" Name="MaxReactionTolerance" UniqueId="0PmqwfTKPD8AogG3WjSaaE" PrimaryDataType="IfcPositiveRatioMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MaxReactionTolerance_0PmqwfTKPD8AogG3WjSaaE" Name="MaxReactionTolerance" UniqueId="0PmqwfTKPD8AogG3WjSaaE" PrimaryDataType="IfcPositiveRatioMeasure" />
+

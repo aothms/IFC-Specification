@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LongTimeFunction_3v9GlTSDzClwzgroqc5m82" Name="LongTimeFunction" UniqueId="3v9GlTSDzClwzgroqc5m82" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="Long Time Function"/>
+		<DocLocalization Locale="en" Name="Long Time Function" />
 	</Localization>
 </DocProperty>
+

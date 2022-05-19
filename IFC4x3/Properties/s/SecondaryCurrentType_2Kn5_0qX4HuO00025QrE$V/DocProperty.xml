@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SecondaryCurrentType_2Kn5_0qX4HuO00025QrEV" Name="SecondaryCurrentType" UniqueId="94c45f80-d211-11e1-8000-00215ad4efdf" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Secondary Current Type"/>
+		<DocLocalization Locale="en" Name="Secondary Current Type" />
 		<DocLocalization Locale="ja-JP" Name="第2電流タイプ">
 			<Documentation>変圧器より出力される第2電流の種類の一覧。</Documentation>
 		</DocLocalization>
@@ -9,5 +9,6 @@
 			<Documentation>변압기에서 출력되는 제 2 전류의 종류 목록입니다.</Documentation>
 		</DocLocalization>
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_SecondaryCurrentType"/>
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_SecondaryCurrentType" />
 </DocProperty>
+

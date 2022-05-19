@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MoneyStuckRatio_0woPgPGeb8KAg_EvnJFaFT" Name="MoneyStuckRatio" UniqueId="0woPgPGeb8KAg_EvnJFaFT" PrimaryDataType="IfcRatioMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MoneyStuckRatio_0woPgPGeb8KAg_EvnJFaFT" Name="MoneyStuckRatio" UniqueId="0woPgPGeb8KAg_EvnJFaFT" PrimaryDataType="IfcRatioMeasure" />
+

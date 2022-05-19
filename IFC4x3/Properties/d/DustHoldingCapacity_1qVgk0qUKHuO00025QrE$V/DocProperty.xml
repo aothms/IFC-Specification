@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DustHoldingCapacity_1qVgk0qUKHuO00025QrEV" Name="DustHoldingCapacity" UniqueId="747eab80-d1e5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcMassMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Dust Holding Capacity"/>
+		<DocLocalization Locale="en" Name="Dust Holding Capacity" />
 	</Localization>
 </DocProperty>
+

@@ -11,4 +11,3 @@ The shape information is provided in addition to the shape representation and th
 
 
 Note: new property in IFC4
-

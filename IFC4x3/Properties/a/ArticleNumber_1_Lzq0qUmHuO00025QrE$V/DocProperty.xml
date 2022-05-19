@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ArticleNumber_1_Lzq0qUmHuO00025QrEV" Name="ArticleNumber" UniqueId="7e57dd00-d1ec-11e1-8000-00215ad4efdf" PrimaryDataType="IfcIdentifier">
 	<Localization>
-		<DocLocalization Locale="en" Name="Article Number"/>
+		<DocLocalization Locale="en" Name="Article Number" />
 	</Localization>
 </DocProperty>
+

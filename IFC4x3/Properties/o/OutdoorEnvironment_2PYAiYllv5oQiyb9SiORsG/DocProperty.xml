@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OutdoorEnvironment_2PYAiYllv5oQiyb9SiORsG" Name="OutdoorEnvironment" UniqueId="2PYAiYllv5oQiyb9SiORsG" PropertyType="p_boundedvalue" PrimaryDataType="IfcPositiveRatioMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Outdoor Environment"/>
+		<DocLocalization Locale="en" Name="Outdoor Environment" />
 	</Localization>
 </DocProperty>
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MaxAdjustmentX_ICS_3jcm0qVeHuO00025QrEV" Name="MaxAdjustmentX_ICS" UniqueId="ffb66c00-d1fa-11e1-8000-00215ad4efdf" PrimaryDataType="IfcElectricCurrentMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Max Adjustment X_ ICS"/>
+		<DocLocalization Locale="en" Name="Max Adjustment X_ ICS" />
 		<DocLocalization Locale="ja-JP" Name="最大調整X_ICS">
 			<Documentation>実際のトリップ装置の一部である保護装置のIcs 遮断容量に関連して利用可能な電流の最大調整値。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

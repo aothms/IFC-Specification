@@ -1,2 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TransmittedFrequency_0b56gXbrD1LxWzOSRwnBOh" Name="TransmittedFrequency" UniqueId="0b56gXbrD1LxWzOSRwnBOh" PrimaryDataType="IfcFrequencyMeasure"/>
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TransmittedFrequency_0b56gXbrD1LxWzOSRwnBOh" Name="TransmittedFrequency" UniqueId="0b56gXbrD1LxWzOSRwnBOh" PrimaryDataType="IfcFrequencyMeasure" />
+

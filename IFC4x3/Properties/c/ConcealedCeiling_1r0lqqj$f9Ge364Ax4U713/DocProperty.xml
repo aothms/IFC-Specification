@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Installationsdecke">
 			<Documentation>Angabe, ob dieser Raum mit einer Installationsdecke (abgehängten Decke) ausgestattet ist (JA), oder nicht (NEIN).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Concealed Ceiling"/>
+		<DocLocalization Locale="en" Name="Concealed Ceiling" />
 		<DocLocalization Locale="fr-FR" Name="FauxPlafond">
 			<Documentation>Indique si la pièce comprend un faux plafond (VRAI) ou non (FAUX)</Documentation>
 		</DocLocalization>
@@ -13,3 +13,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

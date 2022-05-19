@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Legend_3R5x_0qWqHuO00025QrEV" Name="Legend" UniqueId="db17bf80-d20d-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Legend"/>
+		<DocLocalization Locale="en" Name="Legend" />
 		<DocLocalization Locale="ja-JP" Name="凡例">
 			<Documentation>目的または機能を示す凡例など、スイッチに適用されるテキスト。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

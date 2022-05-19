@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SecondarySurfaceArea_0QlBW0qSeHuO00025QrEV" Name="SecondarySurfaceArea" UniqueId="1abcb800-d1ca-11e1-8000-00215ad4efdf" PrimaryDataType="IfcAreaMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Secondary Surface Area"/>
+		<DocLocalization Locale="en" Name="Secondary Surface Area" />
 		<DocLocalization Locale="fr-FR" Name="SurfaceEchangeSecondaire">
-			<Documentation>Surface d'échange thermique au secondaire crée par les ailettes.</Documentation>
+			<Documentation>Surface d&apos;échange thermique au secondaire crée par les ailettes.</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

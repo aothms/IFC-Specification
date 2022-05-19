@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PropertyName_1ZYsM0qVWHuO00025QrEV" Name="PropertyName" UniqueId="638b6580-d1f8-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Property Name"/>
+		<DocLocalization Locale="en" Name="Property Name" />
 	</Localization>
 </DocProperty>
+
