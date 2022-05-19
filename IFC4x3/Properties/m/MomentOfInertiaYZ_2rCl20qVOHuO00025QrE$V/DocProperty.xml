@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MomentOfInertiaYZ_2rCl20qVOHuO00025QrEV" Name="MomentOfInertiaYZ" UniqueId="2rCl20qVOHuO00025QrE$V" PrimaryDataType="IfcMomentOfInertiaMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MomentOfInertiaYZ_2rCl20qVOHuO00025QrEV" Name="MomentOfInertiaYZ" UniqueId="b532f080-d1f6-11e1-8000-00215ad4efdf" PrimaryDataType="IfcMomentOfInertiaMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Moment Of Inertia YZ" />
+		<DocLocalization Locale="en" Name="Moment Of Inertia YZ"/>
 	</Localization>
 </DocProperty>
-

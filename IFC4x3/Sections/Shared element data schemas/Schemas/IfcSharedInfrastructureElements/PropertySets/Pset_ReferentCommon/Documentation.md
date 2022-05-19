@@ -1,1 +1,1 @@
-Specifies common properties for _IfcReferent_
+Specifies common properties for IfcReferent

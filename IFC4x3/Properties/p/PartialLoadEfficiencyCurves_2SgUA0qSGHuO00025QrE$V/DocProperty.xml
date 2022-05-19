@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PartialLoadEfficiencyCurves_2SgUA0qSGHuO00025QrEV" Name="PartialLoadEfficiencyCurves" UniqueId="2SgUA0qSGHuO00025QrE$V" PropertyType="p_tablevalue" PrimaryDataType="IfcPositiveRatioMeasure" SecondaryDataType="IfcNormalisedRatioMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PartialLoadEfficiencyCurves_2SgUA0qSGHuO00025QrEV" Name="PartialLoadEfficiencyCurves" UniqueId="9ca9e280-d1c4-11e1-8000-00215ad4efdf" PropertyType="p_tablevalue" PrimaryDataType="IfcPositiveRatioMeasure" SecondaryDataType="IfcNormalisedRatioMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Partial Load Efficiency Curves" />
+		<DocLocalization Locale="en" Name="Partial Load Efficiency Curves"/>
 		<DocLocalization Locale="fr-FR" Name="CourbesEfficacitéChargePartielle">
 			<Documentation>Rendement de la chaudière en fonction de la facteur de charge partielle; E= f(FacteurChargePartielle).</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

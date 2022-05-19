@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Headroom_25F1i0qVyHuO00025QrEV" Name="Headroom" UniqueId="25F1i0qVyHuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Headroom_25F1i0qVyHuO00025QrEV" Name="Headroom" UniqueId="853c1b00-d1ff-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Durchgangshöhe">
 			<Documentation>German-description-2</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Headroom" />
+		<DocLocalization Locale="en" Name="Headroom"/>
 		<DocLocalization Locale="fr-FR" Name="HauteurPassage">
-			<Documentation>Hauteur de passage (échappée) actuellement projetée. Cette propriété est donnée en complément de la représentation de la forme de l&apos;élément et des paramètres géométriques qui la déterminent. En cas d&apos;incohérence entre ces paramètres géométriques et cette propriété, ce sont les paramètres géométriques qui priment.</Documentation>
+			<Documentation>Hauteur de passage (échappée) actuellement projetée. Cette propriété est donnée en complément de la représentation de la forme de l'élément et des paramètres géométriques qui la déterminent. En cas d'incohérence entre ces paramètres géométriques et cette propriété, ce sont les paramètres géométriques qui priment.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="頭上スペース">
 			<Documentation>現状の設計に一致した斜路の実際の頭上スペース高
@@ -19,4 +19,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

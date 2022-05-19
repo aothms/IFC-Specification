@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AngleBetweenComponentAxes_1E_Pu0qVKHuO00025QrEV" Name="AngleBetweenComponentAxes" UniqueId="1E_Pu0qVKHuO00025QrE$V" PrimaryDataType="IfcPlaneAngleMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AngleBetweenComponentAxes_1E_Pu0qVKHuO00025QrEV" Name="AngleBetweenComponentAxes" UniqueId="4ef99e00-d1f5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPlaneAngleMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Angle Between Component Axes" />
+		<DocLocalization Locale="en" Name="Angle Between Component Axes"/>
 	</Localization>
 </DocProperty>
-

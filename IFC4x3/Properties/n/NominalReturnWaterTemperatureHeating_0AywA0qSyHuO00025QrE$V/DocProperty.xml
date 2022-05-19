@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalReturnWaterTemperatureHeating_0AywA0qSyHuO00025QrEV" Name="NominalReturnWaterTemperatureHeating" UniqueId="0AywA0qSyHuO00025QrE$V" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalReturnWaterTemperatureHeating_0AywA0qSyHuO00025QrEV" Name="NominalReturnWaterTemperatureHeating" UniqueId="0af3a280-d1cf-11e1-8000-00215ad4efdf" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Nominal Return Water Temperature Heating" />
+		<DocLocalization Locale="en" Name="Nominal Return Water Temperature Heating"/>
 	</Localization>
 </DocProperty>
-

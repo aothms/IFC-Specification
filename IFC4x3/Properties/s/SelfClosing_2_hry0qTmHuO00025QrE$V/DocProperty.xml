@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SelfClosing_2_hry0qTmHuO00025QrEV" Name="SelfClosing" UniqueId="2_hry0qTmHuO00025QrE$V" PrimaryDataType="IfcBoolean">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SelfClosing_2_hry0qTmHuO00025QrEV" Name="SelfClosing" UniqueId="beaf5f00-d1dc-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Selbstschliessend">
 			<Documentation>Angabe, ob die Tür sicher und selbständig nach der Benutzung durch einen Türschließer schließt (Ja) oder nicht (NEIN).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Self Closing" />
+		<DocLocalization Locale="en" Name="Self Closing"/>
 		<DocLocalization Locale="fr-FR" Name="FermetureAutomatique">
 			<Documentation>Indique si cet objet est conçu pour une fermeture automatique après usage (VRAI) ou non (FAUX)</Documentation>
 		</DocLocalization>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

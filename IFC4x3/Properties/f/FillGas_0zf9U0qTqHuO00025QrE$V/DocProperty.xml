@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FillGas_0zf9U0qTqHuO00025QrEV" Name="FillGas" UniqueId="0zf9U0qTqHuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FillGas_0zf9U0qTqHuO00025QrEV" Name="FillGas" UniqueId="3da49780-d1dd-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="German-name-5">
 			<Documentation>German-description-5</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Fill Gas" />
+		<DocLocalization Locale="en" Name="Fill Gas"/>
 		<DocLocalization Locale="fr-FR" Name="GazEntreVitrages">
-			<Documentation>Nom du gaz remplissant l&apos;espace entre deux couches de verre. Donné à titre informatif seulement.</Documentation>
+			<Documentation>Nom du gaz remplissant l'espace entre deux couches de verre. Donné à titre informatif seulement.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="充填ガス種">
 			<Documentation>2枚のガラス間の隙間に充填されたガスの名称。これは情報目的専用に提供される。</Documentation>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

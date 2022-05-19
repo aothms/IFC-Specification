@@ -1,1 +1,1 @@
-Properties appliable to _IfcFacilityPart_ with PredefinedType set to LEVELCROSSING.
+Properties applicable to IfcFacilityPartCommon with PredefinedType set to LEVELCROSSING.

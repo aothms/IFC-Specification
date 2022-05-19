@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WaterConsumption_09VwM0qU8HuO00025QrEV" Name="WaterConsumption" UniqueId="09VwM0qU8HuO00025QrE$V" PrimaryDataType="IfcVolumeMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WaterConsumption_09VwM0qU8HuO00025QrEV" Name="WaterConsumption" UniqueId="097fa580-d1e2-11e1-8000-00215ad4efdf" PrimaryDataType="IfcVolumeMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Water Consumption" />
+		<DocLocalization Locale="en" Name="Water Consumption"/>
 		<DocLocalization Locale="fr-FR" Name="ConsommationEau">
-			<Documentation>Quantité d&apos;eau utilisée [NDT : telle que définie dans la norme NF P01-010]</Documentation>
+			<Documentation>Quantité d'eau utilisée [NDT : telle que définie dans la norme NF P01-010]</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="水消費量">
 			<Documentation>水の消費量。</Documentation>
@@ -13,4 +13,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalEnergyConsumption_2fnj60qSGHuO00025QrEV" Name="NominalEnergyConsumption" UniqueId="2fnj60qSGHuO00025QrE$V" PrimaryDataType="IfcPowerMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalEnergyConsumption_2fnj60qSGHuO00025QrEV" Name="NominalEnergyConsumption" UniqueId="a9c6d180-d1c4-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPowerMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Nominal Energy Consumption" />
-		<DocLocalization Locale="fr-FR" Name="Consommation nominale d&apos;energie">
+		<DocLocalization Locale="en" Name="Nominal Energy Consumption"/>
+		<DocLocalization Locale="fr-FR" Name="Consommation nominale d'energie">
 			<Documentation>Consommation nominale de combustible correspondant à la production nominale totale de la chaudière.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="設計エネルギー消費量">
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

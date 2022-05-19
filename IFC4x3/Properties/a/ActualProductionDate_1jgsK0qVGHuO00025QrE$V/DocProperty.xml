@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ActualProductionDate_1jgsK0qVGHuO00025QrEV" Name="ActualProductionDate" UniqueId="1jgsK0qVGHuO00025QrE$V" PrimaryDataType="IfcDateTime">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ActualProductionDate_1jgsK0qVGHuO00025QrEV" Name="ActualProductionDate" UniqueId="6dab6500-d1f4-11e1-8000-00215ad4efdf" PrimaryDataType="IfcDateTime">
 	<Localization>
-		<DocLocalization Locale="en" Name="Actual Production Date" />
+		<DocLocalization Locale="en" Name="Actual Production Date"/>
 	</Localization>
 </DocProperty>
-

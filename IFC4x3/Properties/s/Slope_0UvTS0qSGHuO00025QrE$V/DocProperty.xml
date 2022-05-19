@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Slope_0UvTS0qSGHuO00025QrEV" Name="Slope" UniqueId="0UvTS0qSGHuO00025QrE$V" PrimaryDataType="IfcPlaneAngleMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Slope_0UvTS0qSGHuO00025QrEV" Name="Slope" UniqueId="1ee5d700-d1c4-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPlaneAngleMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Neigungswinkel">
 			<Documentation>Neigungswinkel des Balkens relative zur Horizontalen (0 Grad).
 
 Dieser Parameter wird zusätzlich zur geometrischen Repräsentation bereitgestellt. Im Fall der Inkonsistenz zwischen dem Parameter und der Geometrie hat die geometrische Repräsention Priorität. Dieser Parameter ist für CAD Software write-only.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Slope" />
+		<DocLocalization Locale="en" Name="Slope"/>
 		<DocLocalization Locale="fr-FR" Name="Inclinaison">
-			<Documentation>Angle d&apos;inclinaison avec l&apos;horizontale (0 degrés). Cette propriété  est donnée en complément de la représentation de la forme et des paramètres géométriques qui la déterminent. En cas d&apos;incohérence entre ces paramètres géométriques et cette propriété, ce sont les paramètres géométriques qui priment. Les applications qui déterminent la géométrie comme les logiciels de CAO ne doivent pas autoriser la modification de cette propriété</Documentation>
+			<Documentation>Angle d'inclinaison avec l'horizontale (0 degrés). Cette propriété  est donnée en complément de la représentation de la forme et des paramètres géométriques qui la déterminent. En cas d'incohérence entre ces paramètres géométriques et cette propriété, ce sont les paramètres géométriques qui priment. Les applications qui déterminent la géométrie comme les logiciels de CAO ne doivent pas autoriser la modification de cette propriété</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="傾斜">
 			<Documentation>傾斜角度。水平を0度とする。
@@ -21,4 +21,3 @@ Dieser Parameter wird zusätzlich zur geometrischen Repräsentation bereitgestel
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

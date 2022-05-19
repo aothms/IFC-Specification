@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DesignLocationNumber_0O8uW0qVKHuO00025QrEV" Name="DesignLocationNumber" UniqueId="0O8uW0qVKHuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="DesignLocationNumber_0O8uW0qVKHuO00025QrEV" Name="DesignLocationNumber" UniqueId="18238800-d1f5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Design Location Number" />
+		<DocLocalization Locale="en" Name="Design Location Number"/>
 	</Localization>
 </DocProperty>
-

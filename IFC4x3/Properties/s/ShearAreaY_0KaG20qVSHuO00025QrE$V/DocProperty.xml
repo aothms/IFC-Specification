@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShearAreaY_0KaG20qVSHuO00025QrEV" Name="ShearAreaY" UniqueId="0KaG20qVSHuO00025QrE$V" PrimaryDataType="IfcAreaMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ShearAreaY_0KaG20qVSHuO00025QrEV" Name="ShearAreaY" UniqueId="14910080-d1f7-11e1-8000-00215ad4efdf" PrimaryDataType="IfcAreaMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Shear Area Y" />
+		<DocLocalization Locale="en" Name="Shear Area Y"/>
 	</Localization>
 </DocProperty>
-

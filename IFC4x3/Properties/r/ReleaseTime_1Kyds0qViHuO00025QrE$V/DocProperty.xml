@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ReleaseTime_1Kyds0qViHuO00025QrEV" Name="ReleaseTime" UniqueId="1Kyds0qViHuO00025QrE$V" PrimaryDataType="IfcTimeMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ReleaseTime_1Kyds0qViHuO00025QrEV" Name="ReleaseTime" UniqueId="54f27d80-d1fb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcTimeMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Release Time" />
+		<DocLocalization Locale="en" Name="Release Time"/>
 		<DocLocalization Locale="ja-JP" Name="放出時間">
 			<Documentation>関連する部分の初期トリップのための[s]が放出時間。
  このトリップ時間は、リリースの電流よりも低い電流の場合、指定された動作時間よりも長くなります。
@@ -12,4 +12,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

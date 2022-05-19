@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TotalArea_3gb0e0qWSHuO00025QrEV" Name="TotalArea" UniqueId="3gb0e0qWSHuO00025QrE$V" PrimaryDataType="IfcAreaMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TotalArea_3gb0e0qWSHuO00025QrEV" Name="TotalArea" UniqueId="ea940a00-d207-11e1-8000-00215ad4efdf" PrimaryDataType="IfcAreaMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Bruttogrundstücksfläche">
 			<Documentation>Gesamte Grundstücksfläche für diese Bauaufgabe.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Total Area" />
+		<DocLocalization Locale="en" Name="Total Area"/>
 		<DocLocalization Locale="fr-FR" Name="SurfaceBruteProgrammee">
 			<Documentation>Surface totale brute. Définie en phase de programmation.</Documentation>
 		</DocLocalization>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

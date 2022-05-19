@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MultipleTarriff_10MBe0qUWHuO00025QrEV" Name="MultipleTarriff" UniqueId="10MBe0qUWHuO00025QrE$V" PrimaryDataType="IfcBoolean">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MultipleTarriff_10MBe0qUWHuO00025QrEV" Name="MultipleTarriff" UniqueId="4058ba00-d1e8-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="Multiple Tarriff" />
+		<DocLocalization Locale="en" Name="Multiple Tarriff"/>
 	</Localization>
 </DocProperty>
-

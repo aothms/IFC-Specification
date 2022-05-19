@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NaturalVentilationRate_2KTPM0qWmHuO00025QrEV" Name="NaturalVentilationRate" UniqueId="2KTPM0qWmHuO00025QrE$V" PrimaryDataType="IfcCountMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NaturalVentilationRate_2KTPM0qWmHuO00025QrEV" Name="NaturalVentilationRate" UniqueId="94759580-d20c-11e1-8000-00215ad4efdf" PrimaryDataType="IfcCountMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Natürliche Luftwechselzahl">
 			<Documentation>Geforderte Luftwechselzahl (in Wechsel per Stunde) im Fall der natürlichen Lüftung.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Natural Ventilation Rate" />
+		<DocLocalization Locale="en" Name="Natural Ventilation Rate"/>
 		<DocLocalization Locale="fr-FR" Name="Taux ventilation naturelle">
 			<Documentation>Taux de ventilation naturelle exprimé en volumes par heure.</Documentation>
 		</DocLocalization>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

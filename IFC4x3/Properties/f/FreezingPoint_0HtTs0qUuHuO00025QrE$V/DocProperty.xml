@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FreezingPoint_0HtTs0qUuHuO00025QrEV" Name="FreezingPoint" UniqueId="0HtTs0qUuHuO00025QrE$V" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FreezingPoint_0HtTs0qUuHuO00025QrEV" Name="FreezingPoint" UniqueId="11dddd80-d1ee-11e1-8000-00215ad4efdf" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Freezing Point" />
+		<DocLocalization Locale="en" Name="Freezing Point"/>
 	</Localization>
 </DocProperty>
-

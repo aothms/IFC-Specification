@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsIlluminated_3KYKW0qWqHuO00025QrEV" Name="IsIlluminated" UniqueId="3KYKW0qWqHuO00025QrE$V" PrimaryDataType="IfcBoolean">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsIlluminated_3KYKW0qWqHuO00025QrEV" Name="IsIlluminated" UniqueId="d4894800-d20d-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="Is Illuminated" />
+		<DocLocalization Locale="en" Name="Is Illuminated"/>
 		<DocLocalization Locale="ja-JP" Name="自照型">
 			<Documentation>イルミネーション型（自照型）表示機でスイッチのオン（TRUE）やオフ（FALSE）を示す。</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

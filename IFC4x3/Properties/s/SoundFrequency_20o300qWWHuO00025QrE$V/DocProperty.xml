@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SoundFrequency_20o300qWWHuO00025QrEV" Name="SoundFrequency" UniqueId="20o300qWWHuO00025QrE$V" PropertyType="p_listvalue" PrimaryDataType="IfcFrequencyMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SoundFrequency_20o300qWWHuO00025QrEV" Name="SoundFrequency" UniqueId="80c83000-d208-11e1-8000-00215ad4efdf" PropertyType="p_listvalue" PrimaryDataType="IfcFrequencyMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Sound Frequency" />
+		<DocLocalization Locale="en" Name="Sound Frequency"/>
 		<DocLocalization Locale="ja-JP" Name="音の周波数">
 			<Documentation>代表的な周波数リスト、時系列音圧値と関連する。（IfcTimeSeriesにリストされた値）</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

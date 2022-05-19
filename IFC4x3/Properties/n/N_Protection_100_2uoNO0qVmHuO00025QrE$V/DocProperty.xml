@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="N_Protection_100_2uoNO0qVmHuO00025QrEV" Name="N_Protection_100" UniqueId="2uoNO0qVmHuO00025QrE$V" PrimaryDataType="IfcBoolean">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="N_Protection_100_2uoNO0qVmHuO00025QrEV" Name="N_Protection_100" UniqueId="b8c97600-d1fc-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="N_ Protection_100" />
+		<DocLocalization Locale="en" Name="N_ Protection_100"/>
 		<DocLocalization Locale="ja-JP" Name="N_Protection_100">
 			<Documentation>電磁式トリップ装置がN導体の100％以上で保護するか否かの設定。</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

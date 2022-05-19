@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SolarAbsorption_24aeq0qTqHuO00025QrEV" Name="SolarAbsorption" UniqueId="24aeq0qTqHuO00025QrE$V" PrimaryDataType="IfcNormalisedRatioMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SolarAbsorption_24aeq0qTqHuO00025QrEV" Name="SolarAbsorption" UniqueId="84928d00-d1dd-11e1-8000-00215ad4efdf" PrimaryDataType="IfcNormalisedRatioMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Strahlungsabsorbtionsgrad">
 			<Documentation>German-description-13</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Solar Absorption" />
+		<DocLocalization Locale="en" Name="Solar Absorption"/>
 		<DocLocalization Locale="fr-FR" Name="AbsorptionRayonnementSolaire">
-			<Documentation>(Asol). Ratio du rayonnement solaire incident qui est absorbé par le vitrage. Somme de l&apos;absorption distribuée à l&apos;extérieur (a) et à l&apos;intérieur (qi). Noter l&apos;équation suivante : Asol + Rsol + Tsol = 1.</Documentation>
+			<Documentation>(Asol). Ratio du rayonnement solaire incident qui est absorbé par le vitrage. Somme de l'absorption distribuée à l'extérieur (a) et à l'intérieur (qi). Noter l'équation suivante : Asol + Rsol + Tsol = 1.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="日射吸収率">
 			<Documentation>（Asol)ガラスで吸収される日射の比率。吸収の合計は外部（a）と、室内（qi）に分配される。以下の方程式に注意。Asol + Rsol + Tsol = 1</Documentation>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

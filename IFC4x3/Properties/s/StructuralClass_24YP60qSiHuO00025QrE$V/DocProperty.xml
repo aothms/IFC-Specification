@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="StructuralClass_24YP60qSiHuO00025QrEV" Name="StructuralClass" UniqueId="24YP60qSiHuO00025QrE$V" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="StructuralClass_24YP60qSiHuO00025QrEV" Name="StructuralClass" UniqueId="84899180-d1cb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Structural Class" />
+		<DocLocalization Locale="en" Name="Structural Class"/>
 		<DocLocalization Locale="ja-JP" Name="構造クラス">
 			<Documentation>構造クラスはコンクリート構造を定義した。（例えば「１」）</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

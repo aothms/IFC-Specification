@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="StemBaseFillet_2y3JE0qVKHuO00025QrEV" Name="StemBaseFillet" UniqueId="2y3JE0qVKHuO00025QrE$V" PrimaryDataType="IfcNonNegativeLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="StemBaseFillet_2y3JE0qVKHuO00025QrEV" Name="StemBaseFillet" UniqueId="bc0d3380-d1f5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcNonNegativeLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Stem Base Fillet" />
+		<DocLocalization Locale="en" Name="Stem Base Fillet"/>
 	</Localization>
 </DocProperty>
-

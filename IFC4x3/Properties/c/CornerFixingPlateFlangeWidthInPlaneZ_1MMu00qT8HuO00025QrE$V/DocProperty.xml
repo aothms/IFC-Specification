@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CornerFixingPlateFlangeWidthInPlaneZ_1MMu00qT8HuO00025QrEV" Name="CornerFixingPlateFlangeWidthInPlaneZ" UniqueId="1MMu00qT8HuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CornerFixingPlateFlangeWidthInPlaneZ_1MMu00qT8HuO00025QrEV" Name="CornerFixingPlateFlangeWidthInPlaneZ" UniqueId="565b8000-d1d2-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Corner Fixing Plate Flange Width In Plane Z" />
+		<DocLocalization Locale="en" Name="Corner Fixing Plate Flange Width In Plane Z"/>
 		<DocLocalization Locale="ja-JP" Name="フランジ幅Z">
 			<Documentation>L型コーナープレートのZ面のフランジ幅。</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

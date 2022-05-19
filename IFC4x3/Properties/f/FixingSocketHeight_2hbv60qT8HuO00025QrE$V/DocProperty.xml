@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FixingSocketHeight_2hbv60qT8HuO00025QrEV" Name="FixingSocketHeight" UniqueId="2hbv60qT8HuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FixingSocketHeight_2hbv60qT8HuO00025QrEV" Name="FixingSocketHeight" UniqueId="ab979180-d1d2-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Fixing Socket Height" />
+		<DocLocalization Locale="en" Name="Fixing Socket Height"/>
 		<DocLocalization Locale="ja-JP" Name="全体長さ">
 			<Documentation>固定ソケットの全体長さ。</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

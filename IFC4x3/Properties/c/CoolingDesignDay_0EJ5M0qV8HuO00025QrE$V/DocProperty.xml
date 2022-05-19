@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CoolingDesignDay_0EJ5M0qV8HuO00025QrEV" Name="CoolingDesignDay" UniqueId="0EJ5M0qV8HuO00025QrE$V" PrimaryDataType="IfcDateTime">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="CoolingDesignDay_0EJ5M0qV8HuO00025QrEV" Name="CoolingDesignDay" UniqueId="0e4c5580-d1f2-11e1-8000-00215ad4efdf" PrimaryDataType="IfcDateTime">
 	<Localization>
-		<DocLocalization Locale="en" Name="Cooling Design Day" />
+		<DocLocalization Locale="en" Name="Cooling Design Day"/>
 		<DocLocalization Locale="ja-JP" Name="冷房設計基準日">
 			<Documentation>冷房設計用気象データの日時（月、日、時刻）。</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

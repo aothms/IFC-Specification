@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ConcreteCoverAtLinks_2_yow0qSiHuO00025QrEV" Name="ConcreteCoverAtLinks" UniqueId="2_yow0qSiHuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ConcreteCoverAtLinks_2_yow0qSiHuO00025QrEV" Name="ConcreteCoverAtLinks" UniqueId="bef32e80-d1cb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Betonüberdeckung Verbindungsstäbe">
 			<Documentation>Abstand zwischen der Betonoberfläche und der Außenkante der vom Beton umhüllten Bewehrungsverbindungsstäben.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Concrete Cover At Links" />
+		<DocLocalization Locale="en" Name="Concrete Cover At Links"/>
 		<DocLocalization Locale="ja-JP" Name="補強筋のコンクリート被り">
 			<Documentation>国の建築基準に従い、補強筋をコンクリートの被りで保護する。</Documentation>
 		</DocLocalization>
@@ -13,4 +13,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

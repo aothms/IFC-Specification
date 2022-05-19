@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalWeightedEfficiency_2AZ6m0qUKHuO00025QrEV" Name="NominalWeightedEfficiency" UniqueId="2AZ6m0qUKHuO00025QrE$V" PrimaryDataType="IfcReal">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalWeightedEfficiency_2AZ6m0qUKHuO00025QrEV" Name="NominalWeightedEfficiency" UniqueId="8a8c6c00-d1e5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcReal">
 	<Localization>
-		<DocLocalization Locale="en" Name="Nominal Weighted Efficiency" />
+		<DocLocalization Locale="en" Name="Nominal Weighted Efficiency"/>
 	</Localization>
 </DocProperty>
-

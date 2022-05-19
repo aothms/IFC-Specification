@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ScrapFactor_3ThF60qTeHuO00025QrEV" Name="ScrapFactor" UniqueId="3ThF60qTeHuO00025QrE$V" PrimaryDataType="IfcReal">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ScrapFactor_3ThF60qTeHuO00025QrEV" Name="ScrapFactor" UniqueId="ddacf180-d1da-11e1-8000-00215ad4efdf" PrimaryDataType="IfcReal">
 	<Localization>
-		<DocLocalization Locale="en" Name="Scrap Factor" />
+		<DocLocalization Locale="en" Name="Scrap Factor"/>
 		<DocLocalization Locale="ja-JP" Name="廃材率">
 			<Documentation>金属板の廃材率。</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

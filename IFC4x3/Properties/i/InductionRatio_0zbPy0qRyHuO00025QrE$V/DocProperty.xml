@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="InductionRatio_0zbPy0qRyHuO00025QrEV" Name="InductionRatio" UniqueId="0zbPy0qRyHuO00025QrE$V" PropertyType="p_tablevalue" PrimaryDataType="IfcReal" SecondaryDataType="IfcLengthMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="InductionRatio_0zbPy0qRyHuO00025QrEV" Name="InductionRatio" UniqueId="3d959f00-d1bf-11e1-8000-00215ad4efdf" PropertyType="p_tablevalue" PrimaryDataType="IfcReal" SecondaryDataType="IfcLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Induction Ratio" />
-		<DocLocalization Locale="fr-FR" Name="Taux d&apos;induction">
-			<Documentation>Taux d&apos;induction par rapport à la distance entre le diffuseur et sa direction de rejet;
-Le taux d&apos;induction est le rapport entre  le débit volumique d&apos;air dans le jet sur  le débit volumique d&apos;air au niveau du terminal.</Documentation>
+		<DocLocalization Locale="en" Name="Induction Ratio"/>
+		<DocLocalization Locale="fr-FR" Name="Taux d'induction">
+			<Documentation>Taux d'induction par rapport à la distance entre le diffuseur et sa direction de rejet;
+Le taux d'induction est le rapport entre  le débit volumique d'air dans le jet sur  le débit volumique d'air au niveau du terminal.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="誘引率">
 			<Documentation>制気口からの距離とその排出方向に対する誘引比、
@@ -12,4 +12,3 @@ Le taux d&apos;induction est le rapport entre  le débit volumique d&apos;air da
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

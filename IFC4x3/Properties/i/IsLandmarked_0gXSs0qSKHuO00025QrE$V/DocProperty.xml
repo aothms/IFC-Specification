@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsLandmarked_0gXSs0qSKHuO00025QrEV" Name="IsLandmarked" UniqueId="0gXSs0qSKHuO00025QrE$V" PrimaryDataType="IfcLogical">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="IsLandmarked_0gXSs0qSKHuO00025QrEV" Name="IsLandmarked" UniqueId="2a85cd80-d1c5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcLogical">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Denkmalschutz">
 			<Documentation>Angabe, ob das Gebäude dem Denkmalschutz unterliegt (WAHR) oder nicht (FALSCH).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Is Landmarked" />
+		<DocLocalization Locale="en" Name="Is Landmarked"/>
 		<DocLocalization Locale="fr-FR" Name="ClasseMonumentHistorique">
-			<Documentation>Indique si le bâtiment est classé aux monuments historiques (VRAI) ou non (FAUX), ou si l&apos;information n&apos;est pas connue.</Documentation>
+			<Documentation>Indique si le bâtiment est classé aux monuments historiques (VRAI) ou non (FAUX), ou si l'information n'est pas connue.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="ランドマーク区分">
 			<Documentation>この建物は歴史的な建物かどうかを示すブーリアン値。</Documentation>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

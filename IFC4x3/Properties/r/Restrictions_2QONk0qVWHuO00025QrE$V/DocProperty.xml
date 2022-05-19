@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Restrictions_2QONk0qVWHuO00025QrEV" Name="Restrictions" UniqueId="2QONk0qVWHuO00025QrE$V" PrimaryDataType="IfcText">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Restrictions_2QONk0qVWHuO00025QrEV" Name="Restrictions" UniqueId="9a617b80-d1f8-11e1-8000-00215ad4efdf" PrimaryDataType="IfcText">
 	<Localization>
-		<DocLocalization Locale="en" Name="Restrictions" />
+		<DocLocalization Locale="en" Name="Restrictions"/>
 	</Localization>
 </DocProperty>
-

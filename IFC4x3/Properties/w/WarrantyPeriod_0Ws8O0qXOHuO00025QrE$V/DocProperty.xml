@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WarrantyPeriod_0Ws8O0qXOHuO00025QrEV" Name="WarrantyPeriod" UniqueId="0Ws8O0qXOHuO00025QrE$V" PrimaryDataType="IfcDuration">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WarrantyPeriod_0Ws8O0qXOHuO00025QrEV" Name="WarrantyPeriod" UniqueId="20d88600-d216-11e1-8000-00215ad4efdf" PrimaryDataType="IfcDuration">
 	<Localization>
-		<DocLocalization Locale="en" Name="Warranty Period" />
+		<DocLocalization Locale="en" Name="Warranty Period"/>
 	</Localization>
 </DocProperty>
-

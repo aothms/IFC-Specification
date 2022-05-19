@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Staggered_0eCsk0qUKHuO00025QrEV" Name="Staggered" UniqueId="0eCsk0qUKHuO00025QrE$V" PrimaryDataType="IfcBoolean">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Staggered_0eCsk0qUKHuO00025QrEV" Name="Staggered" UniqueId="28336b80-d1e5-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="Staggered" />
+		<DocLocalization Locale="en" Name="Staggered"/>
 	</Localization>
 </DocProperty>
-

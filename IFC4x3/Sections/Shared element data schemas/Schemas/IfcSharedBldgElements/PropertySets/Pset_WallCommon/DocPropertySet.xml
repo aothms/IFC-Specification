@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_WallCommon" UniqueId="2VWFE0qXKHuO00025QrE$V" ApplicableType="IfcWall" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
-	<Localization>
-		<DocLocalization Locale="en" Name="Wall Common" />
-		<DocLocalization Locale="fr-FR">
-			<Documentation>Définition de l&apos;IAI : propriétés communes à la définition de toutes les instances des classes IfcWall et IfcWallStandardCase</Documentation>
-		</DocLocalization>
-		<DocLocalization Locale="ja-JP">
-			<Documentation>IfcWall(壁)オブジェクトに関する共通プロパティセット定義。</Documentation>
-		</DocLocalization>
-		<DocLocalization Locale="zh-CN">
-			<Documentation>所有IfcWall和IfcWallStandardCase实例的定义中通用的属性。</Documentation>
-		</DocLocalization>
-	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_2gEuY0qXKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Status_2moW00qXKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AcousticRating_31UdO0qXKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FireRating_39EXg0qXKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Combustible_3Fo980qXKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SurfaceSpreadOfFlame_3MLmc0qXKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ThermalTransmittance_3U5gu0qXKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="IsExternal_3Yss80qXKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="LoadBearing_3nmXI0qXKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ExtendToStructure_3g0d00qXKHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Compartmentation_3vWRa0qXKHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Reference_1n9ajmVlDTg8pEjvAkN_YZ"/>
+		<DocProperty xsi:nil="true" href="Status_002JG0qWWHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="AcousticRating_3Jqe4PaULUhfx6IqZvgDMc"/>
+		<DocProperty xsi:nil="true" href="FireRating_0Jj9g0qWWHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="Combustible_0QGn80qWWHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="SurfaceSpreadOfFlame_06vC0qT0HuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="ThermalTransmittance_1DrVZbeibOQwzbnyLxYfge"/>
+		<DocProperty xsi:nil="true" href="IsExternal_0AhTG0qTmHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="LoadBearing_0UPJI0qVGHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="ExtendToStructure_3g0d00qXKHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="Compartmentation_11cTy0qWWHuO00025QrEV"/>
 	</Properties>
 </DocPropertySet>
-

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirExchangeRate_2asK20qWiHuO00025QrEV" Name="AirExchangeRate" UniqueId="2asK20qWiHuO00025QrE$V" PropertyType="p_boundedvalue" PrimaryDataType="IfcPowerMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AirExchangeRate_2asK20qWiHuO00025QrEV" Name="AirExchangeRate" UniqueId="a4d94080-d20b-11e1-8000-00215ad4efdf" PropertyType="p_boundedvalue" PrimaryDataType="IfcPowerMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Air Exchange Rate" />
+		<DocLocalization Locale="en" Name="Air Exchange Rate"/>
 		<DocLocalization Locale="ja-JP" Name="換気回数">
 			<Documentation>換気による熱負荷。</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

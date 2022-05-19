@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BoilingPoint_0Bvo0qUuHuO00025QrEV" Name="BoilingPoint" UniqueId="0Bv$o0qUuHuO00025QrE$V" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BoilingPoint_0Bvo0qUuHuO00025QrEV" Name="BoilingPoint" UniqueId="0be7fc80-d1ee-11e1-8000-00215ad4efdf" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Boiling Point" />
+		<DocLocalization Locale="en" Name="Boiling Point"/>
 	</Localization>
 </DocProperty>
-

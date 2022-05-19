@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="UpperTime2_0Xh_w0qViHuO00025QrEV" Name="UpperTime2" UniqueId="0Xh_w0qViHuO00025QrE$V" PrimaryDataType="IfcTimeMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="UpperTime2_0Xh_w0qViHuO00025QrEV" Name="UpperTime2" UniqueId="21afee80-d1fb-11e1-8000-00215ad4efdf" PrimaryDataType="IfcTimeMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Upper Time2" />
+		<DocLocalization Locale="en" Name="Upper Time2"/>
 		<DocLocalization Locale="ja-JP" Name="上時間2">
 			<Documentation>[s]の時間,上電流2より上部の特性曲線のトリップ時間を示す</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

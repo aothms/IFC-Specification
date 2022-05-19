@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LoadBearing_0UPJI0qVGHuO00025QrEV" Name="LoadBearing" UniqueId="0UPJI0qVGHuO00025QrE$V" PrimaryDataType="IfcBoolean">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LoadBearing_0UPJI0qVGHuO00025QrEV" Name="LoadBearing" UniqueId="1e653480-d1f4-11e1-8000-00215ad4efdf" PrimaryDataType="IfcBoolean">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Tragendes Bauteil">
 			<Documentation>Angabe, ob dieses Bauteil tragend ist (JA) oder nichttragend (NEIN)</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Load Bearing" />
+		<DocLocalization Locale="en" Name="Load Bearing"/>
 		<DocLocalization Locale="fr-FR" Name="Porteur">
-			<Documentation>Indique si l&apos;objet est censé porter des charges (VRAI) ou non (FAUX).</Documentation>
+			<Documentation>Indique si l'objet est censé porter des charges (VRAI) ou non (FAUX).</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="耐力部材">
 			<Documentation>オブジェクトが荷重を保持するか（TRUE）、保持しないか（FALSE）を示す。</Documentation>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-
