@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WashHandBasinType_20BPg0qWGHuO00025QrEV" Name="WashHandBasinType" UniqueId="20BPg0qWGHuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
-		<DocLocalization Locale="en" Name="Wash Hand Basin Type" />
+		<DocLocalization Locale="en" Name="Wash Hand Basin Type"/>
 		<DocLocalization Locale="ja-JP" Name="手洗い種類">
 			<Documentation>手洗いの種類は設置される場所で定義されます。
 
@@ -14,6 +14,5 @@
 洗浄ボウル：一人以上の人間が同時に使用できる多角形の洗面台</Documentation>
 		</DocLocalization>
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_WashHandBasinType" />
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_WashHandBasinType"/>
 </DocProperty>
-

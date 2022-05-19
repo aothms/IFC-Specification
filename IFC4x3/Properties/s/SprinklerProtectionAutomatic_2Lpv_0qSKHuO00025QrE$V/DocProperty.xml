@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Sprinklerschutz automatisch">
 			<Documentation>Angabe, ob das Geschoss durch eine automatische Sprinkleranlage geschützt wird (WAHR) oder nicht (FALSCH).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Sprinkler Protection Automatic" />
+		<DocLocalization Locale="en" Name="Sprinkler Protection Automatic"/>
 		<DocLocalization Locale="fr-FR" Name="ProtectionAutomatiqueParSprinkler">
-			<Documentation>Indication selon laquelle ce bâtiment bénéficie d&apos;une protection automatique par sprinkler (VRAI) ou non (FAUX). Indication à ne fournir que si la propriété &quot;SprinklerProtection&quot; est cochée &quot;VRAI&quot;.</Documentation>
+			<Documentation>Indication selon laquelle ce bâtiment bénéficie d'une protection automatique par sprinkler (VRAI) ou non (FAUX). Indication à ne fournir que si la propriété &quot;SprinklerProtection&quot; est cochée &quot;VRAI&quot;.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="スプリンクラー防御自動区分">
 			<Documentation>スプリンクラー設備が自動かどうか示すブーリアン値。</Documentation>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

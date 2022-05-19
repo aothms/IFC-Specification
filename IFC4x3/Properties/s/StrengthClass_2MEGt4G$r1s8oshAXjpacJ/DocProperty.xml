@@ -4,7 +4,6 @@
 		<DocLocalization Locale="de-DE" Name="Betonfestigkeitsklasse">
 			<Documentation>Klassifikation der Betonfestigkeit gemäß der aktuellen, im Projekt angewandten, Norm.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Strength Class" />
+		<DocLocalization Locale="en" Name="Strength Class"/>
 	</Localization>
 </DocProperty>
-

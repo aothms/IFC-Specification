@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceThermalLoadPHistory" UniqueId="3nlHS0qWiHuO00025QrE$V" ApplicableType="IfcSpace" PropertySetType="PSET_PERFORMANCEDRIVEN">
-	<Localization>
-		<DocLocalization Locale="en" Name="Space Thermal Load PHistory" />
-		<DocLocalization Locale="ja-JP">
-			<Documentation>室内熱負荷属性IfcSpaceThermalLoadProperties はある居室或いはゾーンの実際の熱ロスと熱取得を定義する。熱取得の要因属性は熱負荷の各因子を示している。</Documentation>
-		</DocLocalization>
-	</Localization>
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceThermalLoadPHistory" UniqueId="3nlHS0qWiHuO00025QrE$V" ApplicableType="IfcSpatialElement" PropertySetType="PSET_PERFORMANCEDRIVEN">
 	<Properties>
-		<DocProperty xsi:nil="true" href="People_3tilW0qWiHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Lighting_3whUY0qWiHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="EquipmentSensible_3zgDa0qWiHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="VentilationIndoorAir_002pC0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="VentilationOutdoorAir_031YE0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="RecirculatedAir_060HG0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ExhaustAir_080I0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AirExchangeRate_0BzlK0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="DryBulbTemperature_0FYdm0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="RelativeHumidity_0IXMo0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="InfiltrationSensible_0LW5q0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TotalSensibleLoad_0OUqs0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TotalLatentLoad_0RTZu0qWmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TotalRadiantLoad_0USIw0qWmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="PeopleHistory_1z1zeWl45VKPPmk5D3coQ"/>
+		<DocProperty xsi:nil="true" href="LightingHistory_0pyhmorPbT7g1lPNyWq5e"/>
+		<DocProperty xsi:nil="true" href="EquipmentSensibleHistory_09RxVaLoXTpAXp7cWuHjCt"/>
+		<DocProperty xsi:nil="true" href="VentilationIndoorAirHistory_1wtWi1FVnUYeFhuNv1nsA"/>
+		<DocProperty xsi:nil="true" href="VentilationOutdoorAirHistory_1aSyJpxLOwgQtCI5NieOY"/>
+		<DocProperty xsi:nil="true" href="RecirculatedAirHistory_1LrLBF32rR1eI3vm_Jos8h"/>
+		<DocProperty xsi:nil="true" href="ExhaustAirHistory_3cwCu_CXHTAR_jRzppzstI"/>
+		<DocProperty xsi:nil="true" href="AirExchangeRateTimeHistory_3MoHVE4cjOmQSit17Lt61x"/>
+		<DocProperty xsi:nil="true" href="DryBulbTemperatureHistory_0Wd0p4T5zS2OJhkTEwsBqx"/>
+		<DocProperty xsi:nil="true" href="RelativeHumidityHistory_3jOwBP27jRjxzFsVOYCfWg"/>
+		<DocProperty xsi:nil="true" href="InfiltrationSensibleHistory_39FLvW4hrT0AMIeaV2aRDM"/>
+		<DocProperty xsi:nil="true" href="TotalSensibleLoadHistory_3C7SsgwX5OEu0JSJVr4xUm"/>
+		<DocProperty xsi:nil="true" href="TotalLatentLoadHistory_04RnN8gaLUKesKh2sJXzKa"/>
+		<DocProperty xsi:nil="true" href="TotalRadiantLoadHistory_3myIYpUb5JQRDUmSQIoPoK"/>
 	</Properties>
 </DocPropertySet>
-

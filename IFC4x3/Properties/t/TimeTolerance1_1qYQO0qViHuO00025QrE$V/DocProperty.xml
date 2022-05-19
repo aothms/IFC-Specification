@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TimeTolerance1_1qYQO0qViHuO00025QrEV" Name="TimeTolerance1" UniqueId="1qYQO0qViHuO00025QrE$V" PrimaryDataType="IfcPositiveRatioMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Time Tolerance1" />
+		<DocLocalization Locale="en" Name="Time Tolerance1"/>
 		<DocLocalization Locale="ja-JP" Name="許容時間1">
 			<Documentation>[％]で時間/特性曲線の許容時間を設定</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

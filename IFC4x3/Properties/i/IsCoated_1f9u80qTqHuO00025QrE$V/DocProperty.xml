@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="German-name-9">
 			<Documentation>German-description-9</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Is Coated" />
+		<DocLocalization Locale="en" Name="Is Coated"/>
 		<DocLocalization Locale="fr-FR" Name="VitrageTraite">
 			<Documentation>Indique si le verre a subi un traitement de surface (VRAI) ou non (FAUX).</Documentation>
 		</DocLocalization>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

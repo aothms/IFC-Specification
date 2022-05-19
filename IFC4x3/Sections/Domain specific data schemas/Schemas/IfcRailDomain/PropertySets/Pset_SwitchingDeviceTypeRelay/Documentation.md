@@ -1,1 +1,1 @@
-Properties in this property set are applicable for _IfcSwitchingDevice_ with PredefinedType _RELAY_.
+Properties in this property set are applicable for IfcSwitchingDevice with PredefinedType RELAY.

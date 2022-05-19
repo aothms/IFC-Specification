@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Beleuchtungsstärke">
 			<Documentation>Geforderte durchschnittliche Beleuchtungsstärke in diesem Raum.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Illuminance" />
+		<DocLocalization Locale="en" Name="Illuminance"/>
 		<DocLocalization Locale="fr-FR" Name="EclairementAttendu">
-			<Documentation>Valeur de l&apos;éclairement attendu pour la pièce.</Documentation>
+			<Documentation>Valeur de l'éclairement attendu pour la pièce.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="照度">
 			<Documentation>領域に対しての必要とされる照度の値の平均値。</Documentation>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

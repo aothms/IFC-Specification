@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="German-name-2">
 			<Documentation>German-description-2</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Glass Thickness1" />
+		<DocLocalization Locale="en" Name="Glass Thickness1"/>
 		<DocLocalization Locale="fr-FR" Name="EpaisseurVitrage1">
 			<Documentation>Epaisseur de la première couche de verre (côté intérieur)</Documentation>
 		</DocLocalization>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Strahlungsreflectionsgrad">
 			<Documentation>German-description-14</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Solar Reflectance" />
+		<DocLocalization Locale="en" Name="Solar Reflectance"/>
 		<DocLocalization Locale="fr-FR" Name="ReflexionRayonnementSolaire">
-			<Documentation>(Rsol). Ratio du rayonnement solaire incident qui est réfléchi par le vitrage. Noter l&apos;équation suivante : Asol + Rsol + Tsol = 1.</Documentation>
+			<Documentation>(Rsol). Ratio du rayonnement solaire incident qui est réfléchi par le vitrage. Noter l'équation suivante : Asol + Rsol + Tsol = 1.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="日射反射率">
 			<Documentation>（Rsol）ガラスで反射する日射の比率（ρeとも表わされる）。以下の方程式に注意。Asol + Rsol + Tsol = 1</Documentation>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

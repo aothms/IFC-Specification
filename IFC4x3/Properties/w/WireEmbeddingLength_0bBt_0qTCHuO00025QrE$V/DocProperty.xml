@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WireEmbeddingLength_0bBt_0qTCHuO00025QrEV" Name="WireEmbeddingLength" UniqueId="0bBt_0qTCHuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Wire Embedding Length" />
+		<DocLocalization Locale="en" Name="Wire Embedding Length"/>
 		<DocLocalization Locale="ja-JP" Name="埋め込み長さ">
 			<Documentation>プレキャストコンクリート部材の中に埋め込まれたワイヤーの長さ。</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

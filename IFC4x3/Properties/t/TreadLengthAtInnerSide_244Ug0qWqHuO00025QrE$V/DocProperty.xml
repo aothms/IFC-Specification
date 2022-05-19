@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="minimaler Auftritt an der Innenseite">
 			<Documentation>German-description-9</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Tread Length At Inner Side" />
+		<DocLocalization Locale="en" Name="Tread Length At Inner Side"/>
 		<DocLocalization Locale="fr-FR" Name="LongueurGironCoteInterieur">
-			<Documentation>Longueur minimum des girons du côté intérieur de l&apos;enroulement. Pertinent seulement pour les escaliers tournants car pour une volée droite, la valeur est donnée par la propriété &quot;Longueur du giron&quot;. C&apos;est une valeur précalculée. En cas d&apos;incohérence, c&apos;est la valeur dérivée de la représentation de la forme qui prime.</Documentation>
+			<Documentation>Longueur minimum des girons du côté intérieur de l'enroulement. Pertinent seulement pour les escaliers tournants car pour une volée droite, la valeur est donnée par la propriété &quot;Longueur du giron&quot;. C'est une valeur précalculée. En cas d'incohérence, c'est la valeur dérivée de la représentation de la forme qui prime.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="zh-CN" Name="内侧踏板长度">
 			<Documentation>螺旋楼梯踏板内侧的最小长度。
@@ -14,4 +14,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

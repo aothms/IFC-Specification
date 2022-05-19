@@ -4,10 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Luftdurchlässigkeit">
 			<Documentation>Luftaustausch über die Fugen der geschlossenen Tür  (Q-Wert). Gibt die Luftdurchlässigkeit der gesamten Tür bei einem Luftdruckniveau von 50 Pascal an.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Infiltration" />
+		<DocLocalization Locale="en" Name="Infiltration"/>
 		<DocLocalization Locale="fr-FR" Name="TauxInfiltration">
-			<Documentation>Taux d&apos;infiltration de l&apos;air extérieur lorsqu&apos;on soumet la porte à une pression de 50 pascals. Cette valeur sera utilisée si la longueur des joints n&apos;est pas connue.</Documentation>
+			<Documentation>Taux d'infiltration de l'air extérieur lorsqu'on soumet la porte à une pression de 50 pascals. Cette valeur sera utilisée si la longueur des joints n'est pas connue.</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

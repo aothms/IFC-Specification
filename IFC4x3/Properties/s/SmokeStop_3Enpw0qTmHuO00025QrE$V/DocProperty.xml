@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Rauchschutz">
 			<Documentation>Angabe, ob die Tür einen Rauchschutz gemäß der nationalen oder regionalen Brandschutzverordnung gewährleistet (JA) oder nicht (NEIN). Rauchschutztüren müssen selbstschließend sein.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Smoke Stop" />
+		<DocLocalization Locale="en" Name="Smoke Stop"/>
 		<DocLocalization Locale="fr-FR" Name="CoupeFumee">
 			<Documentation>Indique si la porte est conçue pour une fonction coupe-fumée (VRAI) ou non (FAUX)</Documentation>
 		</DocLocalization>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

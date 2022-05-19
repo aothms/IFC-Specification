@@ -4,7 +4,6 @@
 		<DocLocalization Locale="de-DE" Name="Antrieb">
 			<Documentation>Angabe, ob dieses Bauteil einen automatischen Antrieb zum Öffnen und Schließen besitzt (JA) oder nicht (NEIN).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Has Drive" />
+		<DocLocalization Locale="en" Name="Has Drive"/>
 	</Localization>
 </DocProperty>
-
