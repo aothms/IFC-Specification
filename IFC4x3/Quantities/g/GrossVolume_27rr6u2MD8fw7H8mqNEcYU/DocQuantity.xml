@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="GrossVolume" UniqueId="87d751b8-0963-48a7-a1d1-230d173a689e" QuantityType="q_volume">
+<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="GrossVolume_27rr6u2MD8fw7H8mqNEcYU" Name="GrossVolume" UniqueId="87d751b8-0963-48a7-a1d1-230d173a689e" QuantityType="q_volume">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Bruttovolumen">
 			<Documentation>Gesamtes Volumen eines Raumes ohne Abzüge von Einbauteilen (z.B. im Raum stehende Stützen, Balken, feste Einbauteile).</Documentation>

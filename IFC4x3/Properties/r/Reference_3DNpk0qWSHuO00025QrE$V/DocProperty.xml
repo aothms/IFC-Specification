@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Reference" UniqueId="3DNpk0qWSHuO00025QrE$V" PrimaryDataType="IfcIdentifier">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Reference_3DNpk0qWSHuO00025QrEV" Name="Reference" UniqueId="3DNpk0qWSHuO00025QrE$V" PrimaryDataType="IfcIdentifier">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Referenz ID">
 			<Documentation>Identifikator der projektinternen Referenz für dieses Grundstück, z.B. nach der Grundstückklassifizierung des Bauherrn. Wird verwendet, wenn keine allgemein anerkanntes Klassifizierungssystem angewandt wird.</Documentation>

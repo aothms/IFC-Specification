@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="GrossHeight" UniqueId="a60cf4fc-2271-4124-b957-8def62686b48" QuantityType="q_length">
+<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="GrossHeight_2c3FJy8d519BbNZUzYQ6j8" Name="GrossHeight" UniqueId="a60cf4fc-2271-4124-b957-8def62686b48" QuantityType="q_length">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Systemhöhe">
 			<Documentation>Systemhöhe des Geschosses, gemessen von der Oberkante Rohfdecke bis zur Oberkante Rohdecke im darüberliegenden Geschoss. Wird nur angegeben, wenn es eine konstante Höhe gibt.</Documentation>

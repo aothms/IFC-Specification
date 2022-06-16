@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="TemperatureFactor" UniqueId="1ku900qVmHuO00025QrE$V" PrimaryDataType="IfcRatioMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="TemperatureFactor_1ku900qVmHuO00025QrEV" Name="TemperatureFactor" UniqueId="1ku900qVmHuO00025QrE$V" PrimaryDataType="IfcRatioMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Temperature Factor" />
 		<DocLocalization Locale="ja-JP" Name="温度係数">

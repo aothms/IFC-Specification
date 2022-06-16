@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="FireExit" UniqueId="1sylo0qWaHuO00025QrE$V" PrimaryDataType="IfcBoolean">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FireExit_1sylo0qWaHuO00025QrEV" Name="FireExit" UniqueId="1sylo0qWaHuO00025QrE$V" PrimaryDataType="IfcBoolean">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Notausgang">
 			<Documentation>Angabe, ob der Raum einen Notausgang für den Brandfall hat und als ein Notausgangs(sammel)raum im Sinne der Brandschutzverordnung gilt (WAHR), oder nicht (FALSCH).</Documentation>

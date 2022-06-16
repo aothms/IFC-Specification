@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Width" UniqueId="5a54bf3d-7ede-4999-9b80-4a7e91b189fe" QuantityType="q_length">
+<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Width_1QLByzVjv9cPk0IdwHiOd_" Name="Width" UniqueId="5a54bf3d-7ede-4999-9b80-4a7e91b189fe" QuantityType="q_length">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Breite">
 			<Documentation>Breite der Önnung, bei Wandöffnugen ist es die horizontale Abmessung, bei Deckenöffnungen eine der beiden horizontalen Abmessungen. Wird nur dann angegeben, wenn die Öffnung rechteckig ist.</Documentation>

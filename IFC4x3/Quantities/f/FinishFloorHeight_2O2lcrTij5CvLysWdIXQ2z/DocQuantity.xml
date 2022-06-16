@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="FinishFloorHeight" UniqueId="980af9b5-76cb-4533-957c-da09d285a0bd" QuantityType="q_length">
+<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FinishFloorHeight_2O2lcrTij5CvLysWdIXQ2z" Name="FinishFloorHeight" UniqueId="980af9b5-76cb-4533-957c-da09d285a0bd" QuantityType="q_length">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Fussboden Höhe">
 			<Documentation>Höhe des Fußbodenaufbaus im Raum, von Rohboden zum Fertigboden, wird nur angegeben wenn der Raum einen konstanten Fußbodenaufbau hat.</Documentation>
