@@ -7,5 +7,3 @@ It is provided according to the national building code. It indicates the sound t
 
 
 Requirement for the element filling the opening.
-
-

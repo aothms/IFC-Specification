@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Denkmalschutz">
 			<Documentation>Angabe, ob das Gebäude dem Denkmalschutz unterliegt (WAHR) oder nicht (FALSCH).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Is Landmarked"/>
+		<DocLocalization Locale="en" Name="Is Landmarked" />
 		<DocLocalization Locale="fr-FR" Name="ClasseMonumentHistorique">
-			<Documentation>Indique si le bâtiment est classé aux monuments historiques (VRAI) ou non (FAUX), ou si l'information n'est pas connue.</Documentation>
+			<Documentation>Indique si le bâtiment est classé aux monuments historiques (VRAI) ou non (FAUX), ou si l&apos;information n&apos;est pas connue.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="ランドマーク区分">
 			<Documentation>この建物は歴史的な建物かどうかを示すブーリアン値。</Documentation>
@@ -16,3 +16,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

@@ -5,5 +5,3 @@ Total gross area of the object, normally generated as perimeter \* length + 2 \*
 
 
 Total gross surface area of the element before applying product-level geometric features such as openings and projections.
-
-

@@ -4,12 +4,13 @@
 		<DocLocalization Locale="de-DE" Name="Belegungszeit pro Tag">
 			<Documentation>Durchschnittliche Belegungszeit des Raums pro Tag.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Occupancy Time Per Day"/>
+		<DocLocalization Locale="en" Name="Occupancy Time Per Day" />
 		<DocLocalization Locale="fr-FR" Name="DureeOccupationJour">
-			<Documentation>Durée journalière de l'activité dans cet espace</Documentation>
+			<Documentation>Durée journalière de l&apos;activité dans cet espace</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="日毎利用時間">
 			<Documentation>この空間での活動をするために必要な日中の時間。</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

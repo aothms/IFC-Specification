@@ -5,4 +5,3 @@ Total net volume of the object, taking into account possible processing features
 
 
 Total net volume of the chamber, subtracting any enclosed elements such as pipes, ducts, cables, or equipment.
-

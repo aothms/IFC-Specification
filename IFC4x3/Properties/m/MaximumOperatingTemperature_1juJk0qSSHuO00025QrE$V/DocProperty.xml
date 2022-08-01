@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="MaximumOperatingTemperature_1juJk0qSSHuO00025QrEV" Name="MaximumOperatingTemperature" UniqueId="1juJk0qSSHuO00025QrE$V" PrimaryDataType="IfcThermodynamicTemperatureMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Maximum Operating Temperature"/>
+		<DocLocalization Locale="en" Name="Maximum Operating Temperature" />
 		<DocLocalization Locale="ja-JP" Name="許容最高温度">
 			<Documentation>ケーブルや母線の最大動作温度を示す。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

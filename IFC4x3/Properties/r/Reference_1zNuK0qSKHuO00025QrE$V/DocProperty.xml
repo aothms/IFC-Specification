@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Reference_1zNuK0qSKHuO00025QrEV" Name="Reference" UniqueId="1zNuK0qSKHuO00025QrE$V" PrimaryDataType="IfcIdentifier">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Reference" UniqueId="1zNuK0qSKHuO00025QrE$V" PrimaryDataType="IfcIdentifier">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Referenz ID">
 			<Documentation>Identifikator der projektinternen Referenz für dieses Geschoss, z.B. nach der Geschossklassifizierung des Bauherrn. Wird verwendet, wenn keine allgemein anerkanntes Klassifizierungssystem angewandt wird.</Documentation>

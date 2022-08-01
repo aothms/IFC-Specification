@@ -5,4 +5,3 @@ Total net weight of the object without add-on parts, taking into account possibl
 
 
 Weight of the element, including contained fluid as designed.
-

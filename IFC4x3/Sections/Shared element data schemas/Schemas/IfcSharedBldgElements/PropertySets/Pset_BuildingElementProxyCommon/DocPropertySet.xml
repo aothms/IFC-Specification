@@ -1,38 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_BuildingElementProxyCommon" UniqueId="0lIe60qSKHuO00025QrE$V" ApplicableType="IfcBuildingElementProxy" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Localization>
-		
-		
-		<DocLocalization Locale="en" Name="Building Element Proxy Common"/>
-		
-		
+		<DocLocalization Locale="en" Name="Building Element Proxy Common" />
 		<DocLocalization Locale="ja-JP">
-			
-			
 			<Documentation>IfcBuildingElementProxyの共通プロパティ情報を定義。明確なオブジェクトタイプが特定できないオブジェクトは、このIfcBuildingElementProxyオブジェクトで表現する。所謂代理(プロキシ）オブジェクト。</Documentation>
-			
-		
 		</DocLocalization>
-		
-		
 		<DocLocalization Locale="zh-CN">
-			
-			
 			<Documentation>所有IfcBuildingElementProxy实例的定义中通用的属性。</Documentation>
-			
-		
 		</DocLocalization>
-		
-	
 	</Localization>
-	
-	
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_1n9ajmVlDTg8pEjvAkN_YZ"/>
-		<DocProperty xsi:nil="true" href="Status_002JG0qWWHuO00025QrEV"/>
-		<DocProperty xsi:nil="true" href="IsExternal_0AhTG0qTmHuO00025QrEV"/>
-		<DocProperty xsi:nil="true" href="ThermalTransmittance_1DrVZbeibOQwzbnyLxYfge"/>
-		<DocProperty xsi:nil="true" href="LoadBearing_0UPJI0qVGHuO00025QrEV"/>
-		<DocProperty xsi:nil="true" href="FireRating_0Jj9g0qWWHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="Reference_1n9ajmVlDTg8pEjvAkN_YZ" />
+		<DocProperty xsi:nil="true" href="Status_002JG0qWWHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="IsExternal_0AhTG0qTmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="ThermalTransmittance_1DrVZbeibOQwzbnyLxYfge" />
+		<DocProperty xsi:nil="true" href="LoadBearing_0UPJI0qVGHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="FireRating_0Jj9g0qWWHuO00025QrEV" />
 	</Properties>
 </DocPropertySet>
+

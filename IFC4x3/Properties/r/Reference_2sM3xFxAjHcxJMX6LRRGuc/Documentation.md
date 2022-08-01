@@ -9,4 +9,3 @@ Reference ID for this specified type in this project (e.g. type 'A-1'), Also ref
 
 
 E.g. 'WWS/VS1/400/001', which indicates the occurrence belongs to system WWS, subsystems VSI/400, and has the component number 001.
-

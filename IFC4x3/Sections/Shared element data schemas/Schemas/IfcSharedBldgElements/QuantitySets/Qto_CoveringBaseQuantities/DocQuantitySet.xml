@@ -1,35 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantitySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Qto_CoveringBaseQuantities" UniqueId="e6af6ed4-78d9-4006-943c-b1cf4c4f8d38" ApplicableType="IfcCovering" PropertySetType="QTO_TYPEDRIVENOVERRIDE">
+<DocQuantitySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Qto_CoveringBaseQuantities" UniqueId="e6af6ed4-78d9-4006-943c-b1cf4c4f8d38" ApplicableType="IfcCovering">
 	<Localization>
-		
-		
 		<DocLocalization Locale="de-DE">
-			
-			
 			<Documentation>Basismengen für Bekleidungen</Documentation>
-			
-		
 		</DocLocalization>
-		
-		
-		<DocLocalization Locale="en" Name="Covering Base Quantities"/>
-		
-		
+		<DocLocalization Locale="en" Name="Covering Base Quantities" />
 		<DocLocalization Locale="ja-JP">
-			
-			
 			<Documentation>仕上げ(カバリング・覆い)に関わる共通の基本数量情報の定義。</Documentation>
-			
-		
 		</DocLocalization>
-		
-	
 	</Localization>
-	
-	
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="Width_26Zuia7QLRY9yWChXuEfCq"/>
-		<DocQuantity xsi:nil="true" href="GrossArea_0iGrycTn5KkecW35rIrOfp"/>
-		<DocQuantity xsi:nil="true" href="NetArea_21sRK1_DNj9y2hy_5Dljg"/>
+		<DocQuantity xsi:nil="true" href="Width_26Zuia7QLRY9yWChXuEfCq" />
+		<DocQuantity xsi:nil="true" href="GrossArea_0iGrycTn5KkecW35rIrOfp" />
+		<DocQuantity xsi:nil="true" href="NetArea_21sRK1_DNj9y2hy_5Dljg" />
 	</Quantities>
 </DocQuantitySet>
+

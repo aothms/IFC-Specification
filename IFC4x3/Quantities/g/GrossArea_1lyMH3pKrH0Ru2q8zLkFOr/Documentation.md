@@ -5,5 +5,3 @@ Gross Area of the object. Openings, recesses, projections and cut-outs are not t
 
 
 Total area of the ramp flight (not the projected area). Only given, if the element is prismatic.
-
-

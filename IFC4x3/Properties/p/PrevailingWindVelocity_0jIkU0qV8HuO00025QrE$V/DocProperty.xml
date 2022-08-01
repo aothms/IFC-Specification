@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PrevailingWindVelocity_0jIkU0qV8HuO00025QrEV" Name="PrevailingWindVelocity" UniqueId="0jIkU0qV8HuO00025QrE$V" PrimaryDataType="IfcLinearVelocityMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Prevailing Wind Velocity"/>
+		<DocLocalization Locale="en" Name="Prevailing Wind Velocity" />
 		<DocLocalization Locale="ja-JP" Name="卓越風の風速">
 			<Documentation>PrevailingWindDirection 属性に示された風向から来た卓越風の風速。</Documentation>
 		</DocLocalization>
@@ -10,3 +10,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

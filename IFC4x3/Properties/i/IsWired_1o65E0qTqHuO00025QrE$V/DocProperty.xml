@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="German-name-10">
 			<Documentation>German-description-10</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Is Wired"/>
+		<DocLocalization Locale="en" Name="Is Wired" />
 		<DocLocalization Locale="fr-FR" Name="VitrageArme">
 			<Documentation>Indique si le verre est un verre armé à maille anti-effraction (VRAI) ou non (FAUX)</Documentation>
 		</DocLocalization>
@@ -16,3 +16,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

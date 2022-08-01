@@ -5,5 +5,3 @@ Total Gross Weight of the object without any add-on parts and not taking into ac
 
 
 Including material placed and wasted.
-
-

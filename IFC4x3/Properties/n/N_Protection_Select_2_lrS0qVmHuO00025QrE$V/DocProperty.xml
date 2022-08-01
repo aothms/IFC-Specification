@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="N_Protection_Select_2_lrS0qVmHuO00025QrEV" Name="N_Protection_Select" UniqueId="2_lrS0qVmHuO00025QrE$V" PrimaryDataType="IfcBoolean">
 	<Localization>
-		<DocLocalization Locale="en" Name="N_ Protection_ Select"/>
+		<DocLocalization Locale="en" Name="N_ Protection_ Select" />
 		<DocLocalization Locale="ja-JP" Name="N_Protectionの選択">
 			<Documentation>どのN_Protectionを使うかユーザが設定できるかどうかを指定する。
 N_Protection_50とN_Protection_100の両方が有効な場合は、TRUEにします。</Documentation>
@@ -11,3 +11,4 @@ N_Protection_50とN_Protection_100の両方が有効な場合は、TRUEにしま
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

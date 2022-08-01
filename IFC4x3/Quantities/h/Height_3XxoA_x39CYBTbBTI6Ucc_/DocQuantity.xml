@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Height_3XxoA_x39CYBTbBTI6Ucc_" Name="Height" UniqueId="e1ef22be-ec32-4c88-b765-2dd4867a69be" QuantityType="q_length">
+<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Height" UniqueId="e1ef22be-ec32-4c88-b765-2dd4867a69be" QuantityType="q_length">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Höhe">
 			<Documentation>Gesamte Höhe des Raums, von Rohboden zur Rohdecke, wird nur angegeben wenn der Raum eine konstante Höhe hat.</Documentation>

@@ -1,29 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantitySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Qto_RampFlightBaseQuantities" UniqueId="35be0322-97c4-4009-b6ce-64fecbeed090" ApplicableType="IfcRampFlight" PropertySetType="QTO_TYPEDRIVENOVERRIDE">
+<DocQuantitySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Qto_RampFlightBaseQuantities" UniqueId="35be0322-97c4-4009-b6ce-64fecbeed090" ApplicableType="IfcRampFlight">
 	<Localization>
-		
-		
 		<DocLocalization Locale="de-DE">
-			
-			
 			<Documentation>Basismengen für alle Bauelemente vom Typ Rampe.</Documentation>
-			
-		
 		</DocLocalization>
-		
-		
-		<DocLocalization Locale="en" Name="Ramp Flight Base Quantities"/>
-		
-	
+		<DocLocalization Locale="en" Name="Ramp Flight Base Quantities" />
 	</Localization>
-	
-	
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="Length_1Gif9nWKTPIBfAvnHT1iNq"/>
-		<DocQuantity xsi:nil="true" href="Width_26Zuia7QLRY9yWChXuEfCq"/>
-		<DocQuantity xsi:nil="true" href="GrossArea_1lyMH3pKrH0Ru2q8zLkFOr"/>
-		<DocQuantity xsi:nil="true" href="NetArea_1EEAHQ7OLHq85t74tyawvb"/>
-		<DocQuantity xsi:nil="true" href="GrossVolume_1Ou86CjrfVGh0USgJxNW88"/>
-		<DocQuantity xsi:nil="true" href="NetVolume_25cOxAz7rUmxVjfGXvJItw"/>
+		<DocQuantity xsi:nil="true" href="Length_1Gif9nWKTPIBfAvnHT1iNq" />
+		<DocQuantity xsi:nil="true" href="Width_26Zuia7QLRY9yWChXuEfCq" />
+		<DocQuantity xsi:nil="true" href="GrossArea_1lyMH3pKrH0Ru2q8zLkFOr" />
+		<DocQuantity xsi:nil="true" href="NetArea_1EEAHQ7OLHq85t74tyawvb" />
+		<DocQuantity xsi:nil="true" href="GrossVolume_1Ou86CjrfVGh0USgJxNW88" />
+		<DocQuantity xsi:nil="true" href="NetVolume_25cOxAz7rUmxVjfGXvJItw" />
 	</Quantities>
 </DocQuantitySet>
+

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="LoadBearingCapacity_2RBEe0qSKHuO00025QrEV" Name="LoadBearingCapacity" UniqueId="2RBEe0qSKHuO00025QrE$V" PrimaryDataType="IfcPlanarForceMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="LoadBearingCapacity" UniqueId="2RBEe0qSKHuO00025QrE$V" PrimaryDataType="IfcPlanarForceMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Deckentragfähigkeit">
 			<Documentation>Maximale Deckentragfähigkeit in diesem Geschoss.</Documentation>

@@ -5,4 +5,3 @@ The nominal height of the object. The size information is provided in addition t
 
 
 The nominal height of the duct connection. Only provided for rectangular shaped ducts.
-

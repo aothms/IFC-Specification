@@ -5,4 +5,3 @@ Total net area of the object. Openings, recesses and cut-outs are taken into acc
 
 
 Sum of all net areas of the covering facing the space.
-

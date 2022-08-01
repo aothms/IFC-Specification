@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Steigung">
 			<Documentation>German-description-4</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Riser Height"/>
+		<DocLocalization Locale="en" Name="Riser Height" />
 		<DocLocalization Locale="fr-FR" Name="HauteurContreMarche">
-			<Documentation>Hauteur de la contremarche, supposée homogène pour toutes les marches de l'escalier ou de la volée de marches.</Documentation>
+			<Documentation>Hauteur de la contremarche, supposée homogène pour toutes les marches de l&apos;escalier ou de la volée de marches.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="蹴上げ高さ">
 			<Documentation>踏面と踏面の垂直方向の距離。この蹴上げ高さ値は、一連の階段において同じ値と仮定する。</Documentation>
@@ -17,3 +17,4 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
+

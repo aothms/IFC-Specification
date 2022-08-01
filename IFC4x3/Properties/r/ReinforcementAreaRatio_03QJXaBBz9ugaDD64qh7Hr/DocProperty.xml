@@ -4,6 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Bewehrungsgrad Fläche">
 			<Documentation>Das geforderte Verhältnis der effektiven flächenbezogenen Masse der Bewehrung im Verhältnis zur effektiven Fläche des Betons für dieses Element.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Reinforcement Area Ratio"/>
+		<DocLocalization Locale="en" Name="Reinforcement Area Ratio" />
 	</Localization>
 </DocProperty>
+

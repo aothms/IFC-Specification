@@ -5,5 +5,3 @@ Total net volume of the object, taking into account possible processing features
 
 
 Volume of the wall, after subtracting the openings and after considering the connection geometry.
-
-
