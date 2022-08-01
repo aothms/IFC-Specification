@@ -1,1 +1,1 @@
-Properties common to the definition of all occurrences of  _IfcMobileTelecommunicationsAppliance_ and types of _IfcMobileTelecommunicationsApplianceType_.
+Properties common to the definition of all occurrences of  IfcMobileTelecommunicationsAppliance and types of IfcMobileTelecommunicationsApplianceType.

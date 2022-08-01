@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ToggleSwitchType_3P0Z20qWuHuO00025QrEV" Name="ToggleSwitchType" UniqueId="3P0Z20qWuHuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ToggleSwitchType_3P0Z20qWuHuO00025QrEV" Name="ToggleSwitchType" UniqueId="3P0Z20qWuHuO00025QrE$V" PropertyType="p_enumeratedvalue">
 	<Localization>
-		<DocLocalization Locale="en" Name="Toggle Switch Type" />
+		<DocLocalization Locale="en" Name="Toggle Switch Type"/>
 		<DocLocalization Locale="ja-JP" Name="レバースイッチタイプ">
 			<Documentation>選択が必要となる、トグルスイッチの一覧リスト。</Documentation>
 		</DocLocalization>
@@ -9,6 +9,5 @@
 			<Documentation>선택이 필요한 토글 스위치 목록</Documentation>
 		</DocLocalization>
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_SwitchingDeviceToggleSwitchType" />
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_SwitchingDeviceToggleSwitchType"/>
 </DocProperty>
-

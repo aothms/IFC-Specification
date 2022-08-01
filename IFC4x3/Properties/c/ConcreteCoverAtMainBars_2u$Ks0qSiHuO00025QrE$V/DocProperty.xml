@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Betonüberdeckung Hauptstäbe">
 			<Documentation>Abstand zwischen der Betonoberfläche und der Außenkante den vom Beton umhüllten Bewehrungshauptstäben.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Concrete Cover At Main Bars" />
+		<DocLocalization Locale="en" Name="Concrete Cover At Main Bars"/>
 		<DocLocalization Locale="ja-JP" Name="主筋のコンクリート被り">
 			<Documentation>国の建築基準に従い、主鉄筋をコンクリートの被りで保護する。</Documentation>
 		</DocLocalization>
@@ -13,4 +13,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

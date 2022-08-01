@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Künstliche Luftwechselzahl">
 			<Documentation>Geforderte Luftwechselzahl (in Wechsel per Stunde) im Fall der künstlichen Lüftung.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Mechanical Ventilation Rate" />
+		<DocLocalization Locale="en" Name="Mechanical Ventilation Rate"/>
 		<DocLocalization Locale="fr-FR" Name="Taux ventilation mécanique">
 			<Documentation>Spécification du taux de ventilation mécanique exprimé en volumes par heure.</Documentation>
 		</DocLocalization>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

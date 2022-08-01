@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Gebäudekennzeichen">
 			<Documentation>Gebäudekennzeichen dieses Gebäudes. Während der Baueingabe ist es das temporäre Kennzeichnen des Bauantrags.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Building ID" />
+		<DocLocalization Locale="en" Name="Building ID"/>
 		<DocLocalization Locale="fr-FR" Name="IdBatiment">
 			<Documentation>Un identifiant unique attribué au bâtiment. Un identifiant temporaire est attribué au moment de la programmation. Il est ensuite remplacé par un identifiant permanent lorsque le bâtiment est enregistré dans une base de données de nature règlementaire.</Documentation>
 		</DocLocalization>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

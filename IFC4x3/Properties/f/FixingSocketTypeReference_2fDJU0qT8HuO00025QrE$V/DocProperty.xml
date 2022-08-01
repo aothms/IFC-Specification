@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="FixingSocketTypeReference_2fDJU0qT8HuO00025QrEV" Name="FixingSocketTypeReference" UniqueId="2fDJU0qT8HuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcExternalReference">
 	<Localization>
-		<DocLocalization Locale="en" Name="Fixing Socket Type Reference" />
+		<DocLocalization Locale="en" Name="Fixing Socket Type Reference"/>
 		<DocLocalization Locale="ja-JP" Name="参照基準">
 			<Documentation>固定ソケットが参照するローカル標準。</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="German-name-7">
 			<Documentation>German-description-7</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Is Tempered" />
+		<DocLocalization Locale="en" Name="Is Tempered"/>
 		<DocLocalization Locale="fr-FR" Name="VitrageTrempe">
 			<Documentation>Indique si le verre est trempé (VRAI) ou non (FAUX).</Documentation>
 		</DocLocalization>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

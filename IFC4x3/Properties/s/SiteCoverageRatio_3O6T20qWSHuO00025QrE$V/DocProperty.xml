@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Grundflächenzahl">
 			<Documentation>Grundflächenzahl als Verhältnis der bebaubaren Fläche zur Bruttogrundstücksfläche.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Site Coverage Ratio" />
+		<DocLocalization Locale="en" Name="Site Coverage Ratio"/>
 		<DocLocalization Locale="fr-FR" Name="RatioSurfaceConstructible">
 			<Documentation>Valeur maximale de la surface constructible exprimée en ratio. La valeur du ratio peut être utilisée pour déterminer la surface constructible.</Documentation>
 		</DocLocalization>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

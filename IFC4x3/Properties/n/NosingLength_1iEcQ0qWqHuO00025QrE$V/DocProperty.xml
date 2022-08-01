@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Überstand">
 			<Documentation>German-description-6</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Nosing Length" />
+		<DocLocalization Locale="en" Name="Nosing Length"/>
 		<DocLocalization Locale="fr-FR" Name="LongueurNez">
 			<Documentation>Longueur du nez de marche.</Documentation>
 		</DocLocalization>
@@ -13,4 +13,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

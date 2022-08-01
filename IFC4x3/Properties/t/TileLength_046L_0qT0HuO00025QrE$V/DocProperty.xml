@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Deckenplattenlänge">
 			<Documentation>Länge der Unterdeckenplatten, oder -panele, die zur Verkleidung verwendet werden.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Tile Length" />
+		<DocLocalization Locale="en" Name="Tile Length"/>
 		<DocLocalization Locale="fr-FR" Name="Longueur des carreaux">
-			<Documentation>Longueur des carreaux de plafond. Cette propriété est donnée en complément de la représentation de la forme et des paramètres géométriques qui la déterminent. En cas d&apos;incohérence entre ces paramètres géométriques et cette propriété, ce sont les paramètres géométriques qui priment.</Documentation>
+			<Documentation>Longueur des carreaux de plafond. Cette propriété est donnée en complément de la représentation de la forme et des paramètres géométriques qui la déterminent. En cas d'incohérence entre ces paramètres géométriques et cette propriété, ce sont les paramètres géométriques qui priment.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="zh-CN" Name="面砖长度">
 			<Documentation>天花板面砖的长度。
@@ -14,4 +14,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="maximale Bebauungshöhe">
 			<Documentation>Maximale Bebauungshöhe die auf diesem Grundstück zulässig ist.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Building Height Limit" />
+		<DocLocalization Locale="en" Name="Building Height Limit"/>
 		<DocLocalization Locale="fr-FR" Name="HauteurMaximale">
 			<Documentation>Hauteur maximale des bâtiments autorisée sur ce site.</Documentation>
 		</DocLocalization>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

@@ -4,13 +4,12 @@
 		<DocLocalization Locale="de-DE" Name="Ausblick erwünscht">
 			<Documentation>Angabe, ob dieser Raum einen natürlichen Ausblick nach draussen gewähren soll (WAHR) oder dies nicht gefordert ist (FALSCH).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Is Outlook Desirable" />
+		<DocLocalization Locale="en" Name="Is Outlook Desirable"/>
 		<DocLocalization Locale="fr-FR" Name="VueExterieurSouhaitable">
-			<Documentation>Indique si la vue sur l&apos;extérieur est souhaitable (VRAI) ou non (FAUX).</Documentation>
+			<Documentation>Indique si la vue sur l'extérieur est souhaitable (VRAI) ou non (FAUX).</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="眺望の善し悪し">
 			<Documentation>外の眺望が望ましいかどうか。</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

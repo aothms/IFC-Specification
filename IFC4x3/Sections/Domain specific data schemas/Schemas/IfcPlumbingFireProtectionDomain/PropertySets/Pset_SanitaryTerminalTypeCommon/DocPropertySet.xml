@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SanitaryTerminalTypeCommon" UniqueId="2gVbY0qW8HuO00025QrE$V" ApplicableType="IfcSanitaryTerminal" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Localization>
-		<DocLocalization Locale="en" Name="Sanitary Terminal Type Common" />
+		
+		
+		<DocLocalization Locale="en" Name="Sanitary Terminal Type Common"/>
+		
+		
 		<DocLocalization Locale="ja-JP">
+			
+			
 			<Documentation>衛生器具の共通プロパティを設定。</Documentation>
+			
+		
 		</DocLocalization>
+		
+	
 	</Localization>
+	
+	
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_2kgdO0qW8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Status_0R776yD1b15fWhkijME2BM" />
-		<DocProperty xsi:nil="true" href="NominalLength_07RHK0qUaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NominalWidth_2YZfyYRY1Aa9bsWGvZEaNq" />
-		<DocProperty xsi:nil="true" href="NominalDepth_0HZnE0qUaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Color_2J4I2LAOv4qfhgUPNOBh82" />
+		<DocProperty xsi:nil="true" href="Reference_1n9ajmVlDTg8pEjvAkN_YZ"/>
+		<DocProperty xsi:nil="true" href="Status_002JG0qWWHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="NominalLength_1vX85dGnnI8OJgTfncOKYC"/>
+		<DocProperty xsi:nil="true" href="NominalWidth_0Iaf8LMyPQNR7mS5v1y3D_"/>
+		<DocProperty xsi:nil="true" href="NominalDepth_0HZnE0qUaHuO00025QrEV"/>
+		<DocProperty xsi:nil="true" href="Colour_1U6xsfdYvTAgx1G0US6aUG"/>
 	</Properties>
 </DocPropertySet>
-

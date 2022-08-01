@@ -5,9 +5,9 @@
 			<Documentation>Das Verhältnis aus g-Wert der jeweiligen Verglasung und dem g-Wert eines Zweischeiben-Normalglasfensters.
 Der g-Wert dieses Zweischeiben-Normalglasfensters wird als Konstante mit 80 % angesetzt. Bei Einfachglas beträgt die Konstante 87 %, Auch &quot;Shading coefficient&quot; genannt.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Shading Coefficient" />
+		<DocLocalization Locale="en" Name="Shading Coefficient"/>
 		<DocLocalization Locale="fr-FR" Name="CoefficientOmbrage">
-			<Documentation>(SC): Mesure de la capacité d&apos;un vitrage à transmettre l&apos;énergie solaire comparativement à un simple vitrage clair, de 3 mm (double renfort). Le coefficient d&apos;atténuation est supprimé progressivement en faveur du coefficient d&apos;apport solaire (SHGC) et est approximativement égal au SHGC multiplié par 1,15. Le coefficient d&apos;atténuation est exprimé comme nombre sans unités entre 0 et 1.</Documentation>
+			<Documentation>(SC): Mesure de la capacité d'un vitrage à transmettre l'énergie solaire comparativement à un simple vitrage clair, de 3 mm (double renfort). Le coefficient d'atténuation est supprimé progressivement en faveur du coefficient d'apport solaire (SHGC) et est approximativement égal au SHGC multiplié par 1,15. Le coefficient d'atténuation est exprimé comme nombre sans unités entre 0 et 1.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="遮蔽係数">
 			<Documentation>(SC): ガラスの太陽熱伝導の基準、3mm（1/8インチ）透明の一枚ガラスの性能との比。遮蔽係数は太陽熱利得係数(SHGC)に移行し、段階的に廃止、SHGC×1.15とほとんど等しい。遮蔽係数は０から１までの単位無しの値。</Documentation>
@@ -17,4 +17,3 @@ Der g-Wert dieses Zweischeiben-Normalglasfensters wird als Konstante mit 80 % an
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

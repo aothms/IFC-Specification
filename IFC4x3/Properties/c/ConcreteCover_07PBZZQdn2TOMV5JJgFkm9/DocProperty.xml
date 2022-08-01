@@ -4,7 +4,6 @@
 		<DocLocalization Locale="de-DE" Name="Betonüberdeckung">
 			<Documentation>Abstand zwischen der Betonoberfläche und der Außenkante einer vom Beton umhüllten Bewehrung.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Concrete Cover" />
+		<DocLocalization Locale="en" Name="Concrete Cover"/>
 	</Localization>
 </DocProperty>
-

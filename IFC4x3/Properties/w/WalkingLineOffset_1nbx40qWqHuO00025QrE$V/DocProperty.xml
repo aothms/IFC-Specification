@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Abstand der Lauflinie">
 			<Documentation>German-description-7</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Walking Line Offset" />
+		<DocLocalization Locale="en" Name="Walking Line Offset"/>
 		<DocLocalization Locale="fr-FR" Name="PositionLigneFoulee">
-			<Documentation>Décalage de la ligne de foulée par rapport au côté intérieur de la volée. Nota : la ligne de foulée peut avoir sa propre représentation. En cas d&apos;incohérences, c&apos;est la valeur déduite de la représentation de la forme qui prime.</Documentation>
+			<Documentation>Décalage de la ligne de foulée par rapport au côté intérieur de la volée. Nota : la ligne de foulée peut avoir sa propre représentation. En cas d'incohérences, c'est la valeur déduite de la représentation de la forme qui prime.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="zh-CN" Name="走线偏移">
 			<Documentation>走线到梯段内侧的偏移量。
@@ -14,4 +14,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

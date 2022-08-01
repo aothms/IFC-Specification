@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Luftdruckausgleich">
 			<Documentation>Angabe, ob der Raum einen Luftdruckausgleich erfordert (WAHR) oder nicht (FALSCH).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Air Pressurization" />
+		<DocLocalization Locale="en" Name="Air Pressurization"/>
 		<DocLocalization Locale="fr-FR" Name="AirComprimeDisponible">
-			<Documentation>Indique si l&apos;espace nécessite d&apos;être alimenté en air comprimé (VRAI) ou non (FAUX)</Documentation>
+			<Documentation>Indique si l'espace nécessite d'être alimenté en air comprimé (VRAI) ou non (FAUX)</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="空気加圧">
 			<Documentation>空間が加圧することを要求されているかどうかを示すブーリアン値。(TRUE)加圧、(FALSE)非加圧。</Documentation>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

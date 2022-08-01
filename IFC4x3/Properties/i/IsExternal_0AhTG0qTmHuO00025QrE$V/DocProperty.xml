@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Außenbauteil">
 			<Documentation>Angabe, ob dieses Bauteil ein Aussenbauteil ist (JA) oder ein Innenbauteil (NEIN). Als Aussenbauteil grenzt es an den Aussenraum (oder Erdreich, oder Wasser).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Is External" />
+		<DocLocalization Locale="en" Name="Is External"/>
 		<DocLocalization Locale="fr-FR" Name="EstExterieur">
-			<Documentation>Indique si l&apos;élément est conçu pour être utilisé à l&apos;extérieur (VRAI) ou non (FAUX). Si VRAI, c&apos;est un élément extérieur qui donne sur l&apos;extérieur du bâtiment.</Documentation>
+			<Documentation>Indique si l'élément est conçu pour être utilisé à l'extérieur (VRAI) ou non (FAUX). Si VRAI, c'est un élément extérieur qui donne sur l'extérieur du bâtiment.</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="外部区分">
 			<Documentation>外部の部材かどうかを示すブーリアン値。もしTRUEの場合、外部の部材で建物の外側に面している。</Documentation>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

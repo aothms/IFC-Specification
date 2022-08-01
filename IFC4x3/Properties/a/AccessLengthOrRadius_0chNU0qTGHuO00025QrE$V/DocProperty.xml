@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="AccessLengthOrRadius_0chNU0qTGHuO00025QrEV" Name="AccessLengthOrRadius" UniqueId="0chNU0qTGHuO00025QrE$V" PrimaryDataType="IfcPositiveLengthMeasure">
 	<Localization>
-		<DocLocalization Locale="en" Name="Access Length Or Radius" />
+		<DocLocalization Locale="en" Name="Access Length Or Radius"/>
 		<DocLocalization Locale="ja-JP" Name="アクセス（点検）カバーの長さ或いは半径">
 			<Documentation>アクセス（点検）カバーの長さ、或いは円形カバーの半径。</Documentation>
 		</DocLocalization>
@@ -10,4 +10,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

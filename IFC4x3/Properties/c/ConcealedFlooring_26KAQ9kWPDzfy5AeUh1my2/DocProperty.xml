@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Installationsboden">
 			<Documentation>Angabe, ob dieser Raum mit einem aufgeständerten Fußboden ausgestattet ist (JA), oder nicht (NEIN).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Concealed Flooring" />
+		<DocLocalization Locale="en" Name="Concealed Flooring"/>
 		<DocLocalization Locale="fr-FR" Name="FauxPlancher">
 			<Documentation>Indique si la pièce comprend un faux plancher (VRAI) ou non (FAUX)</Documentation>
 		</DocLocalization>
@@ -13,4 +13,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

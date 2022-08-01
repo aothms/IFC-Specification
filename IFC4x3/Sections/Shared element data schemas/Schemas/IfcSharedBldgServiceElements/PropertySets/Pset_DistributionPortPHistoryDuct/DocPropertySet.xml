@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_DistributionPortPHistoryDuct" UniqueId="9dd22735-8d2b-430c-b8c8-ac3b8b7f8f72" ApplicableType="IfcDistributionPort/DUCT" PropertySetType="PSET_PERFORMANCEDRIVEN">
 	<Localization>
-		<DocLocalization Locale="en" Name="Distribution Port PHistory Duct" />
+		
+		
+		<DocLocalization Locale="en" Name="Distribution Port PHistory Duct"/>
+		
+	
 	</Localization>
+	
+	
 	<Properties>
-		<DocProperty xsi:nil="true" href="Temperature_3Bw5L2Vz5DeAATs0TdVhIf" />
-		<DocProperty xsi:nil="true" href="WetBulbTemperature_30JB7lK58sesE0tH79del" />
-		<DocProperty xsi:nil="true" href="VolumetricFlowRate_1_ZeVmL9X3mAEUYAm5rnk" />
-		<DocProperty xsi:nil="true" href="MassFlowRate_2_Ce9CHon4wAjnpmQnq8Z9" />
-		<DocProperty xsi:nil="true" href="FlowCondition_0vwzjJx0fC_vmMqxa_ItdJ" />
-		<DocProperty xsi:nil="true" href="Velocity_20kOv3DPrDmhnl7ZnOP9ZX" />
-		<DocProperty xsi:nil="true" href="Pressure_21I6029T09OOx3TehMZSk" />
+		<DocProperty xsi:nil="true" href="TemperatureHistory_3C0Xa4KvnHlwEnJ11yShug"/>
+		<DocProperty xsi:nil="true" href="WetBulbTemperatureHistory_24ppSQlN9PhRoHHM8PueYV"/>
+		<DocProperty xsi:nil="true" href="VolumetricFlowRateHistory_1eTtkgAxbQhRHFTfTwF2d3"/>
+		<DocProperty xsi:nil="true" href="MassFlowRateHistory_1s20J3DZzTDRQydSFrEx"/>
+		<DocProperty xsi:nil="true" href="FlowConditionHistory_0gddMPBJvHt8nLrQ9Si8lP"/>
+		<DocProperty xsi:nil="true" href="VelocityHistory_3_2X1VSC1OsBcJewKNIVqz"/>
+		<DocProperty xsi:nil="true" href="PressureHisotry_3eIdbisHnSYwixgT_t0l0"/>
 	</Properties>
 </DocPropertySet>
-

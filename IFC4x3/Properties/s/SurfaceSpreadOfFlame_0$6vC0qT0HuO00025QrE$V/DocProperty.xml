@@ -4,7 +4,7 @@
 		<DocLocalization Locale="de-DE" Name="Brandverhalten">
 			<Documentation>Beschreibung des Brandverhaltens des Bauteils gemäß der nationalen oder regionalen  Brandschutzverordnung.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Surface Spread Of Flame" />
+		<DocLocalization Locale="en" Name="Surface Spread Of Flame"/>
 		<DocLocalization Locale="fr-FR" Name="Propagation des flammes en surface">
 			<Documentation>Indique comment les flammes se propagent sur une surface. Indication donnée selon le Code National du Bâtiment régissant le comportement au feu des matériaux.</Documentation>
 		</DocLocalization>
@@ -13,4 +13,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

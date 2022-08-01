@@ -4,10 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Raumhohe Wand">
 			<Documentation>Angabe , ob diese Wand raumhoch ist (WAHR), oder nicht (FALSCH).</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Extend To Structure" />
+		<DocLocalization Locale="en" Name="Extend To Structure"/>
 		<DocLocalization Locale="fr-FR" Name="ExtensionStructure">
-			<Documentation>Indique si l&apos;objet s&apos;étend à la structure au-dessus (VRAI) ou non (FAUX).</Documentation>
+			<Documentation>Indique si l'objet s'étend à la structure au-dessus (VRAI) ou non (FAUX).</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

@@ -4,9 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Tragendes Bauteil">
 			<Documentation>Angabe, ob dieses Bauteil tragend ist (JA) oder nichttragend (NEIN)</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Load Bearing" />
+		<DocLocalization Locale="en" Name="Load Bearing"/>
 		<DocLocalization Locale="fr-FR" Name="Porteur">
-			<Documentation>Indique si l&apos;objet est censé porter des charges (VRAI) ou non (FAUX).</Documentation>
+			<Documentation>Indique si l'objet est censé porter des charges (VRAI) ou non (FAUX).</Documentation>
 		</DocLocalization>
 		<DocLocalization Locale="ja-JP" Name="耐力部材">
 			<Documentation>オブジェクトが荷重を保持するか（TRUE）、保持しないか（FALSE）を示す。</Documentation>
@@ -16,4 +16,3 @@
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-

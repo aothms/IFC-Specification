@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SecurityLightingType_3rsJo0qUiHuO00025QrEV" Name="SecurityLightingType" UniqueId="3rsJo0qUiHuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="SecurityLightingType_3rsJo0qUiHuO00025QrEV" Name="SecurityLightingType" UniqueId="3rsJo0qUiHuO00025QrE$V" PropertyType="p_enumeratedvalue">
 	<Localization>
-		<DocLocalization Locale="en" Name="Security Lighting Type" />
+		<DocLocalization Locale="en" Name="Security Lighting Type"/>
 		<DocLocalization Locale="ja-JP" Name="防犯灯">
 			<Documentation>防犯灯のタイプ。</Documentation>
 		</DocLocalization>
@@ -9,6 +9,5 @@
 			<Documentation>방범등 유형</Documentation>
 		</DocLocalization>
 	</Localization>
-	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_LightFixtureSecurityLightingType" />
+	<Enumeration xsi:type="DocPropertyEnumeration" xsi:nil="true" href="PEnum_LightFixtureSecurityLightingType"/>
 </DocProperty>
-

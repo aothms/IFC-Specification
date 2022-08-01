@@ -4,10 +4,9 @@
 		<DocLocalization Locale="de-DE" Name="Glasflächenanteil">
 			<Documentation>Anteil der verglasten Fläche an der Gesamtfläche der Tür.</Documentation>
 		</DocLocalization>
-		<DocLocalization Locale="en" Name="Glazing Area Fraction" />
+		<DocLocalization Locale="en" Name="Glazing Area Fraction"/>
 		<DocLocalization Locale="fr-FR" Name="FractionSurfaceVitree">
-			<Documentation>Part de surface de vitrage par rapport à la surface totale de l&apos;élément de remplissage. Doit être utilisée si la surface de vitrage n&apos;est pas donnée séparément pour tous les panneaux occupant l&apos;ouverture.</Documentation>
+			<Documentation>Part de surface de vitrage par rapport à la surface totale de l'élément de remplissage. Doit être utilisée si la surface de vitrage n'est pas donnée séparément pour tous les panneaux occupant l'ouverture.</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>
-
