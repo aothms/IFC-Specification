@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BackInletPatternType_1ftGe0qXSHuO00025QrEV" Name="BackInletPatternType" UniqueId="1ftGe0qXSHuO00025QrE$V" PropertyType="p_enumeratedvalue">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="BackInletPatternType_1ftGe0qXSHuO00025QrEV" Name="BackInletPatternType" UniqueId="1ftGe0qXSHuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="Back Inlet Pattern Type" />
 		<DocLocalization Locale="ja-JP" Name="背部接続口種類">
