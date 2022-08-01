@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="NominalCurrent" UniqueId="3Gdli0qVWHuO00025QrE$V" PrimaryDataType="IfcElectricCurrentMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NominalCurrent_3Gdli0qVWHuO00025QrEV" Name="NominalCurrent" UniqueId="3Gdli0qVWHuO00025QrE$V" PrimaryDataType="IfcElectricCurrentMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Nominal Current" />
 		<DocLocalization Locale="ja-JP" Name="定格電流">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="EndShapeType" UniqueId="1uS$C0qX0HuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="EndShapeType_1uSC0qX0HuO00025QrEV" Name="EndShapeType" UniqueId="1uS$C0qX0HuO00025QrE$V" PropertyType="p_enumeratedvalue" PrimaryDataType="IfcLabel">
 	<Localization>
 		<DocLocalization Locale="en" Name="End Shape Type" />
 		<DocLocalization Locale="ja-JP" Name="末端形状タイプ">

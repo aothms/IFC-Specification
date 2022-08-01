@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="OperationalEfficiency" UniqueId="17RT40qSGHuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" SecondaryDataType="IfcNormalisedRatioMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="OperationalEfficiency_17RT40qSGHuO00025QrEV" Name="OperationalEfficiency" UniqueId="17RT40qSGHuO00025QrE$V" PropertyType="p_referencevalue" PrimaryDataType="IfcTimeSeries" SecondaryDataType="IfcNormalisedRatioMeasure">
 	<Localization>
 		<DocLocalization Locale="en" Name="Operational Efficiency" />
 		<DocLocalization Locale="fr-FR" Name="EfficacitéOpérationnelle">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="ThermalTransmittance" UniqueId="1AjOo0qSKHuO00025QrE$V" PrimaryDataType="IfcThermalTransmittanceMeasure">
+<DocProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ThermalTransmittance_1AjOo0qSKHuO00025QrEV" Name="ThermalTransmittance" UniqueId="1AjOo0qSKHuO00025QrE$V" PrimaryDataType="IfcThermalTransmittanceMeasure">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="U-Wert">
 			<Documentation>Wärmedurchgangskoeffizient (U-Wert) der Materialschichten. Angegeben wird der  Gesamtwärmedurchgangskoeffizient des Proxy-Elements (in Richtung des Wärmeflusses), ohne den inneren und äußeren Wärmeübergangswiderstand.</Documentation>

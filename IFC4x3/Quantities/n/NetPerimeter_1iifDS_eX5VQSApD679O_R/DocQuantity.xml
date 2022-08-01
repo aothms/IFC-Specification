@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="NetPerimeter" UniqueId="6cb2935c-fa88-457d-a70a-ccd187258f9b" QuantityType="q_length">
+<DocQuantity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="NetPerimeter_1iifDS_eX5VQSApD679O_R" Name="NetPerimeter" UniqueId="6cb2935c-fa88-457d-a70a-ccd187258f9b" QuantityType="q_length">
 	<Localization>
 		<DocLocalization Locale="de-DE" Name="Umfang Netto">
 			<Documentation>Gesamter Unfang, der normalerweise mit einem Sockel versehen wird, d.h. mit Abzug von Türen aber einschlieslich innerer Umfänge z.B. an Stützen.</Documentation>
