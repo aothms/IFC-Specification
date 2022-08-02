@@ -7,9 +7,9 @@
 		<DocLocalization Locale="en" Name="Roof Base Quantities" />
 	</Localization>
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="GrossArea_3V2OMyAGXDUOZ12fLJgCr" />
-		<DocQuantity xsi:nil="true" href="NetArea_1ByOtKo4rDs8RprEsr6YLM" />
-		<DocQuantity xsi:nil="true" href="ProjectedArea_3fuFitwL6PfQEQsct7uhL" />
+		<DocQuantity xsi:nil="true" href="GrossArea_0E2UZop7nRq84rYQLU3Rkj" />
+		<DocQuantity xsi:nil="true" href="NetArea_0pDpqGuAbNi8txfFqNJedw" />
+		<DocQuantity xsi:nil="true" href="ProjectedArea_1DkfyMAanOXOMlJ2qgBKgL" />
 	</Quantities>
 </DocQuantitySet>
 

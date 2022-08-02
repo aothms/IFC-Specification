@@ -7,14 +7,14 @@
 		<DocLocalization Locale="en" Name="Plate Base Quantities" />
 	</Localization>
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="Width_0kW6jQBc58jhiMYyLtUSuv" />
-		<DocQuantity xsi:nil="true" href="Perimeter_1eSAm0Kv1BzBMLz0DB0cYZ" />
-		<DocQuantity xsi:nil="true" href="GrossArea_2ZKkm9Tab4_QDxvaNB3E7K" />
-		<DocQuantity xsi:nil="true" href="NetArea_17ubdukNb0W9aXEckuuiud" />
-		<DocQuantity xsi:nil="true" href="GrossVolume_0eJM_AYGPDGBeQZ_tEdSxG" />
-		<DocQuantity xsi:nil="true" href="NetVolume_3NHg39Thz2q98XexF17J6L" />
-		<DocQuantity xsi:nil="true" href="GrossWeight_07xyOpYN1ENPlFP7E14qH" />
-		<DocQuantity xsi:nil="true" href="NetWeight_3HPilonPX4eeqZc6gFTUVD" />
+		<DocQuantity xsi:nil="true" href="Width_26Zuia7QLRY9yWChXuEfCq" />
+		<DocQuantity xsi:nil="true" href="Perimeter_3xrc0Hnu9G5BJXL2_uvBkF" />
+		<DocQuantity xsi:nil="true" href="GrossArea_0eFgqsyNDLiOhY0lVo_6I_" />
+		<DocQuantity xsi:nil="true" href="NetArea_0tXOhFB0LPS9Nz7_1rE6k9" />
+		<DocQuantity xsi:nil="true" href="GrossVolume_1Ou86CjrfVGh0USgJxNW88" />
+		<DocQuantity xsi:nil="true" href="NetVolume_0KiuVRlTPMqhajL6tk8qtQ" />
+		<DocQuantity xsi:nil="true" href="GrossWeight_00yLN7WTRvOUTgPlxJxs8" />
+		<DocQuantity xsi:nil="true" href="NetWeight_3mnjL7BrjIfPIIhjMTiDP4" />
 	</Quantities>
 </DocQuantitySet>
 
