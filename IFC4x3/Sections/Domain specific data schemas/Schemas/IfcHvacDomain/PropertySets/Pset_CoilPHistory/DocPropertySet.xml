@@ -4,10 +4,10 @@
 		<DocLocalization Locale="en" Name="Coil PHistory" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="AtmosphericPressure_24Y980qSaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AirPressureDropCurve_27WuA0qSaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SoundCurve_2B5mc0qSaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FaceVelocity_2E4Ve0qSaHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="AtmosphericPressure_1kOHLIlBzO2wlVdp2LtnSa" />
+		<DocProperty xsi:nil="true" href="AirPressureDropCurveHistory_3htkhG4uTGIg5VXjWSW_5Q" />
+		<DocProperty xsi:nil="true" href="SoundCurveHistory_2RMqWUvqzVWxxETArTATUR" />
+		<DocProperty xsi:nil="true" href="FaceVelocity_1IdybbpHjOe8_niCa5Wny" />
 	</Properties>
 </DocPropertySet>
 

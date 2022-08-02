@@ -4,10 +4,10 @@
 		<DocLocalization Locale="en" Name="Chiller Type Common" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_3gmEK0qSWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Status_3lXPa0qSWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NominalCapacity_3_R4k0qSWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NominalEfficiency_04OYo0qSaHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Reference_1n9ajmVlDTg8pEjvAkN_YZ" />
+		<DocProperty xsi:nil="true" href="Status_002JG0qWWHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="ChillerCapacity_0UsP72Z9KL9iJPi2LwSO7" />
+		<DocProperty xsi:nil="true" href="NominalEfficiency_1WD7FZHaHINALPbKfEH8V9" />
 		<DocProperty xsi:nil="true" href="NominalCondensingTemperature_099k20qSaHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="NominalEvaporatingTemperature_0EX2i0qSaHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="NominalHeatRejectionRate_0KUWm0qSaHuO00025QrEV" />

@@ -9,15 +9,15 @@ CombustionProductsMaximulLoad と CombustionProductsPartialLoadはIFC2ｘ２Pset
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="EnergySourceConsumption_13sae0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="OperationalEfficiency_17RT40qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="CombustionEfficiency_1AQC60qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="WorkingPressure_1D4Y0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="CombustionTemperature_1Gzpa0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="PartLoadRatio_1JyYc0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Load_1ML8E0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="PrimaryEnergyConsumption_1PJtG0qSGHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AuxiliaryEnergyConsumption_1RiSu0qSGHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="EnergySourceConsumption_3e_pQ2r_1VJAzTGjNR7rEO" />
+		<DocProperty xsi:nil="true" href="OperationalEfficiency_2zkb6g6z1OlgSCAAl7NBE4" />
+		<DocProperty xsi:nil="true" href="CombustionEfficiency_2gZZzERjN3OtMF4wf4i9" />
+		<DocProperty xsi:nil="true" href="WorkingPressureHistory_3lgXZoLyTTAwkLgkam6hZa" />
+		<DocProperty xsi:nil="true" href="CombustionChamberTemperature_2tctXjiDrNwOfZO6TkCUls" />
+		<DocProperty xsi:nil="true" href="PartLoadRatio_1SZzFOxyjIHgKNi7tBv956" />
+		<DocProperty xsi:nil="true" href="Load_2VcdGW8NzP8g1YWPSsgyRr" />
+		<DocProperty xsi:nil="true" href="PrimaryEnergyConsumption_2I144T0ZzRPuLxB4pLDel" />
+		<DocProperty xsi:nil="true" href="AuxiliaryEnergyConsumption_0E52w0nI9OUhEOmTNZcCP" />
 	</Properties>
 </DocPropertySet>
 

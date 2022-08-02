@@ -4,9 +4,9 @@
 		<DocLocalization Locale="en" Name="Tank Base Quantities" />
 	</Localization>
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="GrossWeight_2DgyRToX6ifRSHPJIOPCo" />
-		<DocQuantity xsi:nil="true" href="NetWeight_0po45W9AL0j869JY4q3gta" />
-		<DocQuantity xsi:nil="true" href="TotalSurfaceArea_09I0_N2T97QeOrJ9qSxfeT" />
+		<DocQuantity xsi:nil="true" href="GrossWeight_1nF7B4f1DIABRc4SfySdMW" />
+		<DocQuantity xsi:nil="true" href="NetWeight_1DFFuPzXQhQvCzXqrB3me" />
+		<DocQuantity xsi:nil="true" href="TotalSurfaceArea_0Cdgr2OmPKcfYikiI7ShVc" />
 	</Quantities>
 </DocQuantitySet>
 
