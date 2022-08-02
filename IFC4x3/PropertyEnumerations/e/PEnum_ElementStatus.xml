@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocPropertyEnumeration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="PEnum_ElementStatus" Name="PEnum_ElementStatus" UniqueId="94326f9b-9c53-4927-b171-8f18e6b42fed">
-	<Documentation>&lt;&lt;todo: definition=&quot;&quot;&gt;&gt;&lt;/todo:&gt;</Documentation>
+	<Documentation>&lt;&gt;</Documentation>
 	<Constants>
 		<DocPropertyConstant xsi:nil="true" href="NEW_3CkwkZ3Xv13AYQmPnuqmv" />
 		<DocPropertyConstant xsi:nil="true" href="EXISTING_16z0zL4BnF7O5oSEY3S0Np" />
