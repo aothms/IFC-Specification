@@ -3,7 +3,7 @@
 	<Localization>
 		<DocLocalization Locale="en" Name="Flow Rating" />
 		<DocLocalization Locale="ja-JP" Name="流量">
-			<Documentation>実際の排水流量　　０.00値はこの値がｾｯﾄされていないことを意味する　</Documentation>
+			<Documentation>実際の排水流量　　０.00値はこの値がｾｯﾄされていないことを意味する</Documentation>
 		</DocLocalization>
 	</Localization>
 </DocProperty>

@@ -8,14 +8,14 @@ Sound属性がIFC2x2 psetの付録で削除された：IfcSoundPropertiesを代�
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_1m1CE0qU8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Status_1sapi0qU8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="FlowArrangement_264eG0qU8HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Reference_1n9ajmVlDTg8pEjvAkN_YZ" />
+		<DocProperty xsi:nil="true" href="Status_002JG0qWWHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="FlowArrangement_0YbJBdK7LQAPh503uwaOji" />
 		<DocProperty xsi:nil="true" href="HeatExchangeArea_2Jo0c0qU8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="OperationTemperatureRange_2P9LG0qU8HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="OperationTemperatureRange_1wm5W0qUGHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="WaterRequirement_2Y5YM0qU8HuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="EffectivenessTable_2dSt00qU8HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AirPressureDropCurve_2nbMw0qU8HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="AirPressureDropCurve_0dCuCxjfbSsxqkS2sUU_v1" />
 		<DocProperty xsi:nil="true" href="WaterPressDropCurve_2yw9e0qU8HuO00025QrEV" />
 	</Properties>
 </DocPropertySet>
