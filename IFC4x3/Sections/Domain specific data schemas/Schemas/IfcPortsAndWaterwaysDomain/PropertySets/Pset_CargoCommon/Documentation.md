@@ -1,1 +1,1 @@
-Properties common to the definition of all occurrences of _IfcTransportElement_ and types of _IfcTransportElementType_ with the predefined type set to CARGO.
+Properties common to the definition of all occurrences of IfcTransportElement and types of IfcTransportElementType with the predefined type set to CARGO.
