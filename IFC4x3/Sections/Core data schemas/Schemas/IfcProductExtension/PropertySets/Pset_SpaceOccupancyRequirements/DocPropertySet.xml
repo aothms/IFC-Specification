@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceOccupancyRequirements" UniqueId="32MTg0qWeHuO00025QrE$V" ApplicableType="IfcSpace, IfcSpatialZone, IfcZone,IfcSpaceType" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceOccupancyRequirements" UniqueId="32MTg0qWeHuO00025QrE$V" ApplicableType="IfcSpatialElement,IfcSpatialZone,IfcZone" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Localization>
 		<DocLocalization Locale="de-DE">
 			<Documentation>Property Set Definition in German</Documentation>
@@ -13,7 +13,7 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="OccupancyType_38Jxk0qWeHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="OccupancyType_0GI__0qSKHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="OccupancyNumber_3FTic0qWeHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="OccupancyNumberPeak_3Kr1G0qWeHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="OccupancyTimePerDay_3QoVK0qWeHuO00025QrEV" />

@@ -10,19 +10,19 @@
 		</DocLocalization>
 	</Localization>
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="Height_3XxoA_x39CYBTbBTI6Ucc_" />
-		<DocQuantity xsi:nil="true" href="FinishCeilingHeight_1vYXYSNGLCGBg4RxwFeBW6" />
-		<DocQuantity xsi:nil="true" href="FinishFloorHeight_2O2lcrTij5CvLysWdIXQ2z" />
-		<DocQuantity xsi:nil="true" href="GrossPerimeter_0GKCFgoO9ArwXCKMOoo8xB" />
-		<DocQuantity xsi:nil="true" href="NetPerimeter_1iifDS_eX5VQSApD679O_R" />
-		<DocQuantity xsi:nil="true" href="GrossFloorArea_3fve5Nvz0P8eIQjIdXbUs" />
-		<DocQuantity xsi:nil="true" href="NetFloorArea_2L2PpHBjL5yRQAv1NUTbm" />
-		<DocQuantity xsi:nil="true" href="GrossWallArea_0Rz99oZ4vFMQhYwpYjPCL_" />
-		<DocQuantity xsi:nil="true" href="NetWallArea_1CjLoCIRL1gA0S8yIZq2r" />
-		<DocQuantity xsi:nil="true" href="GrossCeilingArea_0l3_qgbX13XAuy5XMUIgXf" />
-		<DocQuantity xsi:nil="true" href="NetCeilingArea_3yUyI6Y6r4gukTxM5fD3Dd" />
-		<DocQuantity xsi:nil="true" href="GrossVolume_27rr6u2MD8fw7H8mqNEcYU" />
-		<DocQuantity xsi:nil="true" href="NetVolume_05GG55xZz039SwUeIyPkET" />
+		<DocQuantity xsi:nil="true" href="Height_2c8AP_lbrHA8nBxTOGtJiO" />
+		<DocQuantity xsi:nil="true" href="FinishCeilingHeight_0S5zj4l2DL6fKFqXzzzHvw" />
+		<DocQuantity xsi:nil="true" href="FinishFloorHeight_04Ivj6ktjMCR2sj0IDXhYF" />
+		<DocQuantity xsi:nil="true" href="GrossPerimeter_3AQ3WrXOvSme9U1TsWkHTH" />
+		<DocQuantity xsi:nil="true" href="NetPerimeter_1kSibsHm9JmBZ83IQPfGLO" />
+		<DocQuantity xsi:nil="true" href="GrossFloorArea_2f6ctXq4XO99E0iSPrwfAf" />
+		<DocQuantity xsi:nil="true" href="NetFloorArea_3Q9WxLm3jS594zeSU6AXcv" />
+		<DocQuantity xsi:nil="true" href="GrossWallArea_0QTSubj_rMuh698WklCmTV" />
+		<DocQuantity xsi:nil="true" href="NetWallArea_3Jc8JpY01MxgABihoAcBO9" />
+		<DocQuantity xsi:nil="true" href="GrossCeilingArea_0HQ0lSe2HKcg6NajCBKztN" />
+		<DocQuantity xsi:nil="true" href="NetCeilingArea_3UN8pJNAjNSRl6JZZQt_wm" />
+		<DocQuantity xsi:nil="true" href="GrossVolume_1Ou86CjrfVGh0USgJxNW88" />
+		<DocQuantity xsi:nil="true" href="NetVolume_0hKtM_KyrUmvs7fzgMYU6L" />
 	</Quantities>
 </DocQuantitySet>
 

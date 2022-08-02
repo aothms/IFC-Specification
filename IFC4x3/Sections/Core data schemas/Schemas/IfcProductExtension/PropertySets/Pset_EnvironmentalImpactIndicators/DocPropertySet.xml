@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_EnvironmentalImpactIndicators" UniqueId="1xexg0qU4HuO00025QrE$V" ApplicableType="IfcElement,IfcElementType" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_EnvironmentalImpactIndicators" UniqueId="1xexg0qU4HuO00025QrE$V" ApplicableType="IfcElement" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Localization>
 		<DocLocalization Locale="en" Name="Environmental Impact Indicators" />
 		<DocLocalization Locale="fr-FR">
@@ -13,9 +13,9 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_22CZ80qU4HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Reference_1n9ajmVlDTg8pEjvAkN_YZ" />
 		<DocProperty xsi:nil="true" href="FunctionalUnitReference_28A1C0qU4HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Unit_2FJo40qU4HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="IndicatorsUnit_3MJoWEDpLUWA8qCEQa3SVX" />
 		<DocProperty xsi:nil="true" href="LifeCyclePhase_2MTYy0qU4HuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="ExpectedServiceLife_2dlpk0qU4HuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="TotalPrimaryEnergyConsumptionPerUnit_2jjHo0qU4HuO00025QrEV" />
