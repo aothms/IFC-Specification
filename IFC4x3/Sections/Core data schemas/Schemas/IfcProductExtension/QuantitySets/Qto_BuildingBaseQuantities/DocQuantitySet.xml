@@ -10,13 +10,13 @@
 		</DocLocalization>
 	</Localization>
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="Height_0l46kxLer8ZvIAfet6uUEt" />
-		<DocQuantity xsi:nil="true" href="EavesHeight_3fzA40seP3xRirGVCr9Rg5" />
-		<DocQuantity xsi:nil="true" href="FootprintArea_340fmI0CnBFRkREE87BmUJ" />
-		<DocQuantity xsi:nil="true" href="GrossFloorArea_2BKrxu3X3_O8KrqJCE6B" />
-		<DocQuantity xsi:nil="true" href="NetFloorArea_1JBcBU2tH1v8Bm7_Eqqb3T" />
-		<DocQuantity xsi:nil="true" href="GrossVolume_2051xg09X1z8mAolsFi5do" />
-		<DocQuantity xsi:nil="true" href="NetVolume_24v4IOU7b44wb4qQJZ8tyK" />
+		<DocQuantity xsi:nil="true" href="Height_33a__F0mTNEw6NQCnHWPfT" />
+		<DocQuantity xsi:nil="true" href="EavesHeight_3VV18hLSTw6JeVD39bjD" />
+		<DocQuantity xsi:nil="true" href="FootPrintArea_1EmttbCd1NBwzpX2AuE1XM" />
+		<DocQuantity xsi:nil="true" href="GrossFloorArea_3P9CQYUobSN9WTsmErJgy3" />
+		<DocQuantity xsi:nil="true" href="NetFloorArea_2K0AVdcmnJ_8ZiVzT8lb7" />
+		<DocQuantity xsi:nil="true" href="GrossVolume_1kPECz2pLGIPIJ5NiERZm" />
+		<DocQuantity xsi:nil="true" href="NetVolume_1WKpdcEHnHduWiIXMgOGpq" />
 	</Quantities>
 </DocQuantitySet>
 

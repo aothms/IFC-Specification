@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceCommon" UniqueId="2Vni80qWWHuO00025QrE$V" ApplicableType="IfcSpace,IfcSpaceType" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_SpaceCommon" UniqueId="2Vni80qWWHuO00025QrE$V" ApplicableType="IfcSpatialElement" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Localization>
 		<DocLocalization Locale="en" Name="Space Common" />
 		<DocLocalization Locale="fr-FR">
@@ -10,12 +10,12 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_2e7lq0qWWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="IsExternal_3tSG0qWWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="GrossPlannedArea_00xfM0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NetPlannedArea_06v7Q0qWaHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Reference_1n9ajmVlDTg8pEjvAkN_YZ" />
+		<DocProperty xsi:nil="true" href="IsExternal_0AhTG0qTmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="GrossPlannedArea_0tSuDIO3bPkv_2lZ6eOE4S" />
+		<DocProperty xsi:nil="true" href="NetPlannedArea_2pmIArZezVc84Ey4N9q4jt" />
 		<DocProperty xsi:nil="true" href="PubliclyAccessible_0DSku0qWaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="HandicapAccessible_0KcVm0qWaHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="HandicapAccessible_0bOMrMWqvNxO2m3ow1uFf" />
 	</Properties>
 </DocPropertySet>
 
