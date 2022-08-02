@@ -4,13 +4,13 @@
 		<DocLocalization Locale="en" Name="Furniture Type Common" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_36T0J90GnF1AFJynwsfDWJ" />
-		<DocProperty xsi:nil="true" href="Status_1pD6GEhpb3kQoohaFgDAHz" />
+		<DocProperty xsi:nil="true" href="Reference_1n9ajmVlDTg8pEjvAkN_YZ" />
+		<DocProperty xsi:nil="true" href="Status_002JG0qWWHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="Style_3tLJM0qUWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NominalHeight_00HWS0qUaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NominalLength_07RHK0qUaHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="NominalHeight_2XOVrQyi9VaPsTFNY4nZ85" />
+		<DocProperty xsi:nil="true" href="NominalLength_1vX85dGnnI8OJgTfncOKYC" />
 		<DocProperty xsi:nil="true" href="NominalDepth_0HZnE0qUaHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="MainColor_0Pvqw0qUaHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="MainColour_2g9ro5N4XGoRhTZOzNxiTu" />
 		<DocProperty xsi:nil="true" href="IsBuiltIn_0VtI_0qUaHuO00025QrEV" />
 	</Properties>
 </DocPropertySet>
