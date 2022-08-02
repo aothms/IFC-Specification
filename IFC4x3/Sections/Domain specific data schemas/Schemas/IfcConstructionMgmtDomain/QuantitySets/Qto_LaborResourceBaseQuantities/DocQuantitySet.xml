@@ -4,8 +4,8 @@
 		<DocLocalization Locale="en" Name="Labor Resource Base Quantities" />
 	</Localization>
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="StandardWork_0522jbkpH6RucITXMXI8fB" />
-		<DocQuantity xsi:nil="true" href="OvertimeWork_3yAwOfIyL5_8_rMJ_7kYP" />
+		<DocQuantity xsi:nil="true" href="StandardWork_2vl5qe2ZPMAhZxVNki9Oz5" />
+		<DocQuantity xsi:nil="true" href="OvertimeWork_1Zx9UEncHIPQa9JlH_e6P" />
 	</Quantities>
 </DocQuantitySet>
 
