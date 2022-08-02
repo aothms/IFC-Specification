@@ -8,14 +8,14 @@ X方向とY方向は建物のローカル座標系に基づいている。X方�
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Description_3eBR80qVyHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Reference_3iycO0qVyHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Description_099YYyQ7bQUAuKXEIFQo8w" />
+		<DocProperty xsi:nil="true" href="Reference_154qWD6BbG89CJYXl8oJ4" />
 		<DocProperty xsi:nil="true" href="ReinforcementBarType_3rIg40qVyHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="HoopBarPitch_01DcC0qW0HuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="XDirectionTieHoopBarPitch_08NN40qW0HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="XDirectionTieHoopCount_0G7HM0qW0HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="XDirectionTieHoopCount_3GH_IuLzH_A_kL30AC994" />
 		<DocProperty xsi:nil="true" href="YDirectionTieHoopBarPitch_0KuSc0qW0HuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="YDirectionTieHoopCount_0SeMu0qW0HuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="YDirectionTieHoopCount_3Vo_iwMCbQHghzvZs42bqe" />
 	</Properties>
 </DocPropertySet>
 
