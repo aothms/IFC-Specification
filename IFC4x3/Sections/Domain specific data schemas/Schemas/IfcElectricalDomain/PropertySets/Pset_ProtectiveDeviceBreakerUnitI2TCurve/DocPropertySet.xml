@@ -8,8 +8,8 @@
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="VoltageLevel_2sPHq0qVWHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="NominalCurrent_3Gdli0qVWHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="VoltageLevel_0YuXi0qVqHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="NominalCurrent_2wsfMpvOvNjPe8aSBZ1Lf" />
 		<DocProperty xsi:nil="true" href="BreakerUnitCurve_3PZyo0qVWHuO00025QrEV" />
 	</Properties>
 </DocPropertySet>

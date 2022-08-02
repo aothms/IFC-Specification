@@ -1,1 +1,1 @@
-Properties common to the definition of all occurrences of IfcWall and IfcWallStandardCase.
+Properties common to the definition of all occurrences of IfcWall.

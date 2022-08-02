@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ProtectiveDeviceTypeSparkGap" UniqueId="ba48d02b-a912-6f6b-978f-72bfe7c3700e" ApplicableType="IfcProtectiveDevice/VOLTAGELIMITER,IfcProtectiveDevice/SPARKGAP" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
+<DocPropertySet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Pset_ProtectiveDeviceTypeSparkGap" UniqueId="ba48d02b-a912-6f6b-978f-72bfe7c3700e" ApplicableType="IfcProtectiveDevice/SPARKGAP,IfcProtectiveDevice/VOLTAGELIMITER" PropertySetType="PSET_TYPEDRIVENOVERRIDE">
 	<Properties>
 		<DocProperty xsi:nil="true" href="BreakdownVoltageTolerance_36oHQCC0b0jubTadGmGjOS" />
 		<DocProperty xsi:nil="true" href="Capacitance_05ATmeM_P3vvDHn9887" />

@@ -4,10 +4,10 @@
 		<DocLocalization Locale="en" Name="Unitary Control Element PHistory" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Temperature_0GSjm0qXCHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Mode_0JRSo0qXCHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Fan_0N0LE0qXCHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="SetPoint_0QbDg0qXCHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Temperature_3cu98ph4DO3QlXhMEpXUS" />
+		<DocProperty xsi:nil="true" href="OperationModeHistory_3fQOTfOiRZSqhxi8Vue" />
+		<DocProperty xsi:nil="true" href="Fan_0sZj8nNTPKegCwmg5jGL1N" />
+		<DocProperty xsi:nil="true" href="SetPoint_177yEXuIPIphHlBK3442_o" />
 	</Properties>
 </DocPropertySet>
 

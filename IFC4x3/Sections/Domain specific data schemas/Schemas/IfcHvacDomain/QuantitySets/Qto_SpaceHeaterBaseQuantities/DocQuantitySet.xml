@@ -4,9 +4,9 @@
 		<DocLocalization Locale="en" Name="Space Heater Base Quantities" />
 	</Localization>
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="Length_2pjqbPAJ1C4BfN5MpqR55" />
-		<DocQuantity xsi:nil="true" href="GrossWeight_0BJRbPAbfDivUkRgI7mLpw" />
-		<DocQuantity xsi:nil="true" href="NetWeight_1IERUjvLP3pxK5DJNuud5g" />
+		<DocQuantity xsi:nil="true" href="Length_0eB_EyVYDOjgDvZK21DtZG" />
+		<DocQuantity xsi:nil="true" href="GrossWeight_1nF7B4f1DIABRc4SfySdMW" />
+		<DocQuantity xsi:nil="true" href="NetWeight_1DFFuPzXQhQvCzXqrB3me" />
 	</Quantities>
 </DocQuantitySet>
 
