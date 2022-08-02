@@ -4,9 +4,9 @@
 		<DocLocalization Locale="en" Name="Boiler Base Quantities" />
 	</Localization>
 	<Quantities>
-		<DocQuantity xsi:nil="true" href="GrossWeight_0xfN4KKdn3yvuyD3Xzzt16" />
-		<DocQuantity xsi:nil="true" href="NetWeight_0Y4596MFP9rgJWM2TbuH_W" />
-		<DocQuantity xsi:nil="true" href="TotalSurfaceArea_0tmUSCGyL09B1xy0j_abGA" />
+		<DocQuantity xsi:nil="true" href="GrossWeight_1nF7B4f1DIABRc4SfySdMW" />
+		<DocQuantity xsi:nil="true" href="NetWeight_1DFFuPzXQhQvCzXqrB3me" />
+		<DocQuantity xsi:nil="true" href="TotalSurfaceArea_0Cdgr2OmPKcfYikiI7ShVc" />
 	</Quantities>
 </DocQuantitySet>
 

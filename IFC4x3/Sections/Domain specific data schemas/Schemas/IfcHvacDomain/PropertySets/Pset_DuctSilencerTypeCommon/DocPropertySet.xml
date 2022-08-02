@@ -9,14 +9,14 @@ InsertionLossとRegeneratedSoundはIFC2x2 psetの付録で削除された属性�
 		</DocLocalization>
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="Reference_3NkG_0qTuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Status_3T5be0qTuHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Reference_1n9ajmVlDTg8pEjvAkN_YZ" />
+		<DocProperty xsi:nil="true" href="Status_002JG0qWWHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="HydraulicDiameter_3la9E0qTuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Length_3qLKU0qTuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="Weight_3v6Vk0qTuHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="AirFlowrateRange_3_TqO0qTuHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="Length_0Pp51Kc8vMGAXKIoMWTfhD" />
+		<DocProperty xsi:nil="true" href="Weight_0kJnZl7djNwPzvVau605Fy" />
+		<DocProperty xsi:nil="true" href="AirFlowRateRange_1q6DfoDo5VlQ1XdDdKzKuu" />
 		<DocProperty xsi:nil="true" href="WorkingPressureRange_06Dkg0qTyHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="TemperatureRange_0F9xm0qTyHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="TemperatureRange_0XxS40qTuHuO00025QrEV" />
 		<DocProperty xsi:nil="true" href="HasExteriorInsulation_0NVS0qTyHuO00025QrEV" />
 	</Properties>
 </DocPropertySet>

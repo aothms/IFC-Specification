@@ -4,17 +4,17 @@
 		<DocLocalization Locale="en" Name="Condenser PHistory" />
 	</Localization>
 	<Properties>
-		<DocProperty xsi:nil="true" href="HeatRejectionRate_1VuUc0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="ExteriorHeatTransferCoefficient_1a3WS0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="InteriorHeatTransferCoefficient_1deOu0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="RefrigerantFoulingResistance_1hpQk0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="CondensingTemperature_1ko9m0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="LogarithmicMeanTemperatureDifference_1ozBc0qSmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="HeatRejectionRate_1u3hPMX4vU2PAEdlzKYA4z" />
+		<DocProperty xsi:nil="true" href="ExteriorHeatTransferCoefficient_22NzUsMbrPP8X7wjTaNfTj" />
+		<DocProperty xsi:nil="true" href="InteriorHeatTransferCoefficient_1FWm4kLdjPrxEzlstmoQvg" />
+		<DocProperty xsi:nil="true" href="RefrigerantFoulingResistance_3g2CCf3vrLzeebNCF0G05b" />
+		<DocProperty xsi:nil="true" href="CondensingTemperature_3Li9FWi9SHgVJPZDT8xAr" />
+		<DocProperty xsi:nil="true" href="LogarithmicMeanTemperatureDifference_1LmXkbe9IUOO35UYjyVsj" />
 		<DocProperty xsi:nil="true" href="UAcurves_1sY420qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="CompressorCondenserHeatGain_1w6yU0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="CompressorCondenserPressureDrop_1zhqw0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="CondenserMeanVoidFraction_21GjM0qSmHuO00025QrEV" />
-		<DocProperty xsi:nil="true" href="WaterFoulingResistance_24rbo0qSmHuO00025QrEV" />
+		<DocProperty xsi:nil="true" href="CompressorCondenserHeatGain_2FhQDFO7PGqPctv4mW0GY7" />
+		<DocProperty xsi:nil="true" href="CompressorCondenserPressureDrop_1jXntuPnrPMhqv8TPG5Zvr" />
+		<DocProperty xsi:nil="true" href="CondenserMeanVoidFraction_0HMY7bYAzSVRleM7qBtbhJ" />
+		<DocProperty xsi:nil="true" href="WaterFoulingResistance_1USzvGfx9LKxYHPJZeOaz" />
 	</Properties>
 </DocPropertySet>
 
